@@ -6,9 +6,9 @@
 python manage.py startapp [app_name]
 ```
 
-
 # Setup
 * Install [pipenv](https://pypi.org/project/pipenv/)
+* create a `.env` file in the root of this folder.  Pipenv will auto load the key=value pairs as env vars.
 * from the root of this repo run
 ```
 pipenv install
