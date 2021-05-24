@@ -1,0 +1,312 @@
+2004 YEAR TO DATE LAUNCH STATS
+
+2004 Launch Vehicle Results
+
+Calender year launch vehicle results, ranked by number of successes, with launch total as the first tiebreaker and vehicle payload mass as the second tiebreaker.  Low Earth Orbit (LEO) missions have orbital periods of  less than 2 hours. Deep Space missions include heliocentric, planetocentric, and solar system escape  trajectories.
+
+As of December 28, 2004
+
+=========================================================    
+Vehicle            Overall           By Orbit Type    
+                   Launches      Earth-Orbit Earth-Escape    
+                  (Failures)      LEO   >LEO  Deep Space    
+=========================================================    
+Proton-(K/M)***       8(0)         -     8(0)*   -
+Soyuz/Molniya**       8(0)        7(0)*  1(0)    -
+Delta 2(H)            7(0)        3(0)   3(0)   1(0)
+Atlas 2AS             4(0)         -     4(0)    -
+CZ-2C                 4(0)        4(0)    -      -
+Ariane 5G+            3(0)        1(0)   1(0)   1(0)*
+Zenit 3SL             3(1)         -     3(1)    -
+CZ-4B                 2(0)        2(0)    -      -
+Kosmos 3M             2(0)        2(0)    -      -
+Titan 4B              1(0)         -     1(0)    -
+Atlas 5(21)           1(0)         -     1(0)    - 
+Zenit 2               1(0)        1(0)    -      -
+Atlas 3A              1(0)         -     1(0)    -
+CZ-3A                 1(0)         -     1(0)    -
+GSLV                  1(0)         -     1(0)    -
+CZ-2D                 1(0)        1(0)    -      -
+Dnepr                 1(0)        1(0)    -      -
+Tsyklon 2             1(0)        1(0)    -      -
+Taurus XL             1(0)        1(0)    -      -
+Shavit                1(1)        1(1)    -      -
+Tsyklon 3             1(1)        1(1)    -      -
+Delta 4 Heavy         1(1)         -     1(1)    -
+----------------------------------------------------------------
+Total                54(4)       26(2)  26(2)   2(0)
+
+* Denotes YTD Leader in Category 
+
+** Soyuz/Molniya Details 
+------------------------------------------------------ 
+Soyuz-U (Progress)    4(0)        4(0)    -      -
+Soyuz-U (Kosmos)      1(0)        1(0)    -      -
+Soyuz-FG/Fregat        -           -      -      -
+Soyuz-FG/Soyuz        2(0)        2(0)    -      -
+Molniya-M             1(0)         -     1(0)    -
+------------------------------------------------------ 
+
+***Proton Details
+-------------------------------------------------------------
+Proton-K/DM-2         2(0)         -     2(0)    -
+Proton-K/DM-2M        2(0)         -     2(0)    -
+Proton-K/17S40         -           -      -      -
+Proton-K/Briz-M        -           -      -      -
+Proton-M/Briz-M       4(0)         -     4(0)    -
+-------------------------------------------------------------
+
+=========================================================       
+   
+
+2004 Launch Site Standings
+
+Launch sites, ranked by number of year-to-date orbital launch attempts.
+
+As of December 28, 2004 
+
+=========================================================    
+Site                           Overall    
+                               Launches    
+                              (Failures)   
+=========================================================    
+Baikonur, Kazakhstan            17(0)
+Cape Canaveral, Florida         13(1)
+Plestesk, Russia                 5(1)
+Kourou, French Guyana            3(0)
+Vandenberg AFB, California       3(0)
+Taiyaun, China                   3(0)
+XiChang, China                   3(0)
+Sea Launch LP Odyssey (POR)      3(1)
+Jiuquan, China                   2(0)
+Sriharikota, India               1(0)
+Palmanchim, Isreal               1(1)
+Svobodny, Russia                  - 
+Tanegashima, Japan                - 
+Kagoshima, Japan                  - 
+Kennedy Space Center, Florida     - 
+=========================================================  
+
+   
+
+Launch Vehicle by Success Rate 
+
+Top active or recently retired space launch vehicles ranked by 
+their predicted orbital success rate* (5 or more launches to 
+orbit).  Failures include incorrect orbits.
+   
+As of December 28, 2004
+
+================================================================ 
+Vehicle    Successes/Tries Realzd Pred  Consc. Last     Dates    
+                            Rate  Rate* Succes Fail    
+================================================================ 
+Atlas 2/2AS     63    63   1.00  .98     63    None     1991-2004
+Tsyklon 2      103   104    .99  .98     91    4/25/73  1967-
+Delta 2        115   117    .98  .97     62    1/17/97  1989- 
+STS            111   113    .98  .97      0(A) 2/1/03   1981- 
+Soyuz-U        697   717    .97  .97     14    10/15/02 1973- 
+Ariane 4       113   116    .97  .97     74    12/11/94 1988-2003
+Titan 2         17    17#  1.00  .95     17    None     1964-2003
+Kosmos 3M      411   434    .95  .94     10    11/20/00 1964- 
+Molniya M      273   291    .94  .94     52    6/21/90  1963-    
+CZ-2(C)(/SD/SM) 26    27    .96  .93     26    11/5/74  1974-  
+Proton-K/DM-2M  37    39    .95  .93      4    11/25/02 1994-
+Tsyklon 3      113   121    .93  .93      0    12/24/04 1977-
+CZ-4(A/B)       10    10   1.00  .92     10    None     1989-
+Proton-K/DM-2   95   103    .92  .91      9    10/27/99 1982-
+Soyuz-FG         8     8   1.00  .90      8    None     2001-
+Proton-K/17S40   6     6   1.00  .88      6    None     1997-
+Rokot/Briz/K(M)  6     6   1.00  .88      6    None     1994- 
+Proton-K        26    29+   .90  .87      9    11/29/86 1968- 
+CZ-2F            5     5   1.00  .86      5    None     1999- 
+Atlas 3(A/B)     5     5   1.00  .86      5    None     2000-
+Pegasus (H/XL)  30    35    .86  .84     21    11/4/96  1991- 
+Proton/Briz-M    9    10    .90  .83      9    7/5/99   1999-
+CZ-3/3A         19    22    .86  .83      9    8/18/96  1984- 
+Titan 4B        13    15    .87  .82     10    4/30/99  1997- 
+Ariane 5G(+)    16    19    .84  .81      9    7/12/01  1996-2004
+Zenit 3SL/DMSL  12    14    .86  .81      0    6/29/04  1999- 
+Titan 2(Star)    6     7%   .86  .78      6    10/5/93  1964-2003
+Taurus (XL)      6     7    .86  .78      1    9/21/01  1994- 
+Zenit 2         28    36    .78  .76      5    9/9/98   1985- 
+H-IIA            5     6    .83  .75      0    11/29/03 2001-
+START(-1)        5     6    .83  .75      4    3/28/95  1993-  
+PSLV             6     8    .75  .70      4    9/29/97  1993-
+Shavit           4     7    .57  .56      0    9/6/04   1988-
+================================================================ 
+* First level Bayesian estimate of mean predicted probability  
+ of success for next launch attempt (k+1)/(n+2) where k is the  
+ number of successful events and n is the number of trials. 
+
+#Includes 11 orbital Gemini Titan 2 and 6 Titan 23G missions.  
+
+%Seven Titan 23G flights that flew suborbital profiles with 
+ Star 37 solid rocket motors providing the final orbital velocity 
+ increment.  The single failure listed here involved the Star 37 
+ stage.  
+
++ Does not include one successful suborbital Proton-K test flight 
+  performed in 1970.
+
+A) 2003 STS-107 Columbia failure during reentry result of 
+   damage suffered during launch phase. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2004 SPACE LAUNCH LOG
+
+DATE    VEHICLE         ID    PAYLOAD             MASS(t) SITE*   ORBIT**
+------------------------------------------------------------------------
+Jan 11  Zenit 3SL/DMSL  SL12  Estrela Do Sul 1       4.8  POR      GTO
+Jan 29  Soyuz-U         1685  Progress M1-11(ISS13P) 7.2  TB 1/5   LEO
+Feb 5   Atlas 2AS       AC165 AMC-10                 2.3  CC 36A   GTO
+Feb 14  Titan 402B      B-39  DSP-22 (IUS-10)        2.4  CC 40    GSO
+Feb 18  Molniya M       1686  Kosmos 2405 Ewarn      1.9  PL       EEO/M
+Mar 2   Ariane 5G+      A518  Rosetta (V158)         3.0  KO 3     HCO
+Mar 13  Atlas 3A        AC202 MBSat                  4.1  CC 36B   GTO
+Mar 15  Proton M/Briz M P304  W3A                    4.25 TB 81/24 GTO+
+Mar 20  Delta 2-7925    D303  GPS 2R-11              2.03 CC 17B   MTO
+Mar 27  Proton K/DM-2   P305  Kosmos 2406,Globus 1-7 2.4  TB 81/23 GEO
+Apr 16  Atlas 2AS       AC163 Superbird 6            3.1  CC 36A   GTO+
+Apr 18  CZ-2C           2C23  Tansuo 1/Naxing 1      0.23 XC       LEO/P
+Apr 19  Soyuz-FG        1687  Soyuz TMA-4 (ISS8S)    7.2  TB 1/5   LEO
+Apr 20  Delta 2-7920    D304  Gravity Probe B        3.3  V 2W     LEO/P
+Apr 26  Proton K/DM-2M  P306  Ekspress AM-11         2.6  TB200/39 GEO
+May  4  Zenit 3SL/DMSL  SL13  DirectTV-7S            5.5  POR      GTO
+May 19  Atlas 2AS       AC166 AMC-11                 2.3  CC 36B   GTO
+May 20  Taurus XL 3210  T7    Rocsat 2               0.8  V 576E   LEO/S
+May 25  Soyuz-U         1688  Progress M-49 (ISS14P) 7.2  TB 1/5   LEO
+May 28  Tsyklon 2       104   Kosmos 2407            3.1  TB 90/20 LEO
+Jun 10  Zenit 2         Z2-36 Kosmos 2406            3.2  TB 45    LEO
+Jun 16  Proton M/Briz M P307  Intelsat 10-02         5.6  TB200/39 GTO+
+Jun 23  Delta 2-7925    D305  GPS 2R-12              2.0  CC 17B   MTO
+Jun 29  Zenit 3SL/DMSL  SL13  Apstar 5               4.6  POR     (EEO)*
+Jun 29  Dnepr 1         D4    8xmicrosats            0.2  TB 109   LEO
+Jul 15  Delta 2-7920    D306  Aura (NASA)            3.1  V 2W     LEO/S
+Jul 18  Ariane 5G+      A519  Anik F2 (V163)         5.6  KO ELA3  GTO
+Jul 22  Kosmos 3M       433   Kosmos 2407 (Parus)    0.8  PL 132   LEO
+Jul 25  CZ-2C/SM        2C24  TanCe 2                0.7  TY       EEO/P
+Aug 3   Delta 2-7925H   D307  MESSENGER (NASA)       1.1  CC 17B   HCO
+Aug 4   Proton M/Briz M P308  Amazonas               4.6  TB200/39 GTO+
+Aug 11  Soyuz-U         1689  Progress M-50 (ISS15P) 7.2  TB 1/5   LEO
+Aug 29  CZ-2C           2C25  JB-4                   2.0  JQ       LEO
+Aug 31  Atlas 2AS       AC167 NROL-1 (USA 179)            CC 36A   GTO-#
+Sep 6   Shavit 1        S1-5  Ofeq 6                 0.2  PAL     (FTO)**
+Sep 8   CZ-4B           4B9   SJ-6A/6B               1.2  TY       LEO/P
+Sep 20  GSLV            F-01  Edusat                 2.0  SDSC     GTO
+Sep 23  Kosmos 3M       434   Kosmos 2408-09         0.5  PL 132/1 LEO
+Sep 24  Soyuz-U         1690  Kosmos 2410            6.7  PL 16    LEO
+Sep 27  CZ-2D           2D5   FSW-20                 3.0  JQ       LEO
+Oct 14  Soyuz FG        1691  Soyuz TMA-5 (ISS9S)    7.2  TB 1/5   LEO
+Oct 14  Proton M/Briz M P309  AMC-15                 4.0  TB200/39 GTO+
+Oct 19  CZ-3A                 FY-2C                  1.4  XC       GTO
+Oct 29  Proton K/DM-2M  P310  Exspress AM-1          2.5  TB200/39 GSO
+Nov 6   CZ-4B           4B10  spysat                 1.2  TY       LEO
+Nov 6   Delta 2-7925    D308  GPS 2R-13              2.0  CC 17B   MTO
+Nov 8   Soyuz-2-1A      1692  Oblik GVM (Test Flt)   6.5  PL 43/4  SUB%
+Nov 18  CZ-2C           2C26  Shiyun Weixing 2       0.3  XC       LEO/S
+Nov 20  Delta 2-7320    D309  SWIFT (NASA)           1.3  CC 17A   LEO
+Dec 17  Atlas 5/521     AV005 AMC-16                 4.2  CC 41    GTO
+Dec 18  Ariane 5G+      A520  V165/Helios 2A         4.2  KO ELA3  LEO/S&
+Dec 21  Delta 4H        D310  Demosat/2microsats     6.0  CC 37B  (EEO)&&
+Dec 23  Soyuz-U         1693  Progress M-51          7.5  TB 5/1   LEO
+Dec 24  Tsyklon 3       #121  Okean 01-N9            2.2  PL 32   (EEO)+
+Dec 26  Proton K/DM-2   P311  3xGlonass              4.2  TB200/39 MTO
+---------------------------------------------------------------------------
+* Failed:  DMSL stage shut down 54 sec early due loose electrical 
+   connection.  Payload delivered to transfer orbit with apogee 
+   14,000 km lower than planned.  Apstar 5 had to use own fuel to 
+   reach GSO.
+
+** Failed to Orbit:  Third stage failed to sep from second stage.
+   Stage 3 burn did not occur.
+
+# Last Atlas 2AS, and final ICBM-based (MA-5(A) powered) Atlas.  
+
+%  Successful Suborbital test flight of first Soyuz-2-1A.
+
+&  Last Ariane 5G+
+
+&& Failure:  CBC strap-on boosters shut down 8 sec early.  
+   First second stage burn ran long to compensate, using more 
+   propellant than planned to reach LEO.  Second burn achieved 
+   correct geosynchronous transfer orbit.  Third burn ended early 
+   due to propellant depletion.  Demosat orbit 19,029 x 36,408 km 
+   at 13.48 degree inclination versus planned 36,342 km circular at 
+   10 degrees (perigee short by 17,313 km). 
+
++  Failure:  Remote sensing payload left in 280 x 650 km x 82.6 deg 
+   orbit versus planned 650 km circular sun synchronous orbit. 
+   Possible failure during 3rd stage apogee (2nd) burn.
+
+Launch Forecast
+
+2004 MAJOR SUBORBITAL LAUNCH LOG 
+
+DATE    VEHICLE         ID    PAYLOAD             MASS(t) SITE*   ORBIT**
+------------------------------------------------------------------------
+Jan 27  Taurus Lite OBV  3    IFT-13B (EKV Mockup)   0.06 KW      SUB
+Feb 18  RS-18 (UR-100NU)      ICBM Test                   TB      SUB
+Feb 18  RSM-54 Sineva         SLBM Test (R-29RM)          Barents FSO%
+Feb 18  Topol                 ICBM Test                   PL      SUB
+Mar 17  RSM-54 Sineva         SLBM Test (R-29RM)          Barents SUB
+Mar 27  Hyper-X          A-2  X-43A Scramjet R&D     1.4  V B-52  SUB
+Apr 20  Topol-M               ICBM Test                   PL      SUB
+Jun 21  SpaceShipOne          Piloted Suborbital          WK/EAFB SUB
+Jun 23  Minuteman 3      184  ICBM Test                   V       SUB
+Jun 29  RSM-54 Sineva         SLBM Test (R-29RM)          Barents SUB
+Jul 21  MX Peacekeeper   33   ICBM Test                   V       SUB
+Jul 23  Minuteman 3      185  ICBM Test                   V       SUB
+Aug 11  RS-18                 ICBM Test                   TB      SUB
+Aug 29  Agni 2                IRBM Test                   Balasor SUB
+Aug     DF-31/21 or JL-2      ICBM or SLBM Test           China   SUB
+Sep 8   RSM-54 Sineva         SLBM Test (R-29RM)(1/2)     Barents SUB
+Sep 8   RSM-54 Sineva         SLBM Test (R-29RM)(2/2)     Barents SUB
+Sep 15  Minuteman 3      186  ICBM Test                   V       SUB
+Sep 29  SpaceShipOne          Piloted Suborbital          WK/EAFB SUB
+Oct 4   SpaceShipOne          Piloted Suborbital          WK/EAFB SUB
+Nov 2   RSM-50 Volna          SLBM Test                   Okhotsk SUB
+Nov 2   Topol                 ICBM Test                   PL      SUB
+Nov 8   Soyuz-2-1A            Oblik GVM (Test Flt)   6.5  PL 43/4 SUB
+Nov 16  Hyper-X          A-3  X-43A Scramjet R&D     1.4  V B-52  SUB
+Dec 22  R-36M2                ICBM Test                   DO      SUB+
+-------------------------------------------------------------------------------
+
+% Sub launched.  Destroyed at 98 seconds.
+
++ First ICBM test launch from Domarovskiy, Russia (silo launch).
+
+------------------------------------------------------------------------

@@ -1,0 +1,828 @@
+========================================================
+             SPACE LAUNCH REPORT
+
+       2018 LAUNCH VEHICLE/SITE STATISTICS
+========================================================
+       by Ed Kyle      as of December 29, 2018
+========================================================
+
+       YEAR TO DATE LAUNCH VEHICLE SUMMARY
+
+Calendar year launch vehicle results, ranked by number 
+of successes, with launch total as the first tiebreaker 
+and vehicle payload mass as the second tiebreaker.  
+Low Earth Orbit (LEO) missions have orbital periods 
+less than 2 hours. Deep Space missions include 
+heliocentric, planetocentric, and solar system escape 
+trajectories.
+
+=========================================================    
+Vehicle            Overall           By Orbit Type
+                   Launches      Earth-Orbit Earth-Escape
+                  (Failures)      LEO   >LEO  Deep Space
+=========================================================
+CZ (DF-5)            34(0)       19(0)  15(0)    -
+Falcon 9             20(0)       10(0)  10(0)    -
+R-7                  15(1)       12(1)   3(0)    -
+Ariane 5              6(1)         -     5(1)   1(0)
+Atlas 5               5(0)         -     4(0)   1(0)
+PSLV                  4(0)        3(0)   1(0)    -
+H-2A                  3(0)        3(0)    -      -
+CZ-11                 3(0)        3(0)    -      -
+Electron              3(0)        3(0)    -      -
+Proton                2(0)         -     2(0)    -
+GSLV                  2(0)         -     2(0)    -
+Antares               2(0)        2(0)    -      -
+Vega                  2(0)        2(0)    -      -
+Rokot/Briz KM         2(0)        2(0)    -      -
+Delta 4 Heavy         1(0)         -      -     1(0)
+Falcon Heavy          1(0)         -      -     1(0)
+H-2B                  1(0)        1(0)    -      -
+Delta 4M              1(0)        1(0)    -      -
+GSLV Mk3              1(0)         -     1(0)    -
+Soyuz 2-1v            1(0)        1(0)    -      -
+Delta 2               1(0)        1(0)    -      -
+Enhanced Epsilon      1(0)        1(0)    -      -
+KZ-1A                 1(0)        1(0)    -      -
+SS-520                1(0)        1(0)    -      -
+ZQ-1                  1(1)        1(1)    -      -
+---------------------------------------------------------
+Total               114(3)       67(2)  43(1)   4(0)      
+
+Antares Details
+------------------------------------------------------------
+Antares 230           2(0)        2(0)    -      -
+------------------------------------------------------------
+
+Ariane 5 Details
+------------------------------------------------------------
+Ariane 5ECA           5(1)         -     4(1)   1(0)
+Ariane 5ES            1(0)         -     1(0)    -     
+------------------------------------------------------------
+
+Atlas 5 Details
+-----------------------------------------------------------
+Atlas 5-401           1(0)         -      -     1(0)
+Atlas 5-411           1(0)         -     1(0)    -
+Atlas 5-421            -           -      -      -
+Atlas 5-431            -           -      -      -
+Atlas 5-501            -           -      -      -  
+Atlas 5-531            -           -      -      -
+Atlas 5-541           1(0)         -     1(0)    -
+Atlas 5-551           2(0)         -     2(0)    -  
+-----------------------------------------------------------
+
+Chang Zheng (Long March) Details
+------------------------------------------------------------
+CZ-2C(/SMA/YZ-1S)     6(0)        6(0)    -      -
+CZ-2D                 7(0)        7(0)    -      -
+CZ-2D/YZ-3            1(0)        1(0)    -      -
+CZ-2FY (M)             -           -      -      -
+CZ-2FT                 -           -      -      - 
+CZ-3A                 2(0)         -     2(0)    -
+CZ-3B(/E)             3(0)         -     3(0)    -
+CZ-3B/YZ-1            8(0)         -     8(0)    -
+CZ-3C(/E)             1(0)         -     1(0)    -
+CZ-3C/YZ-1             -           -      -      -
+CZ-4B                 2(0)        2(0)    -      -
+CZ-4C                 4(0)        3(0)   1(0)    -
+ 
+CZ-5                   -           -      -      -
+CZ-6                   -           -      -      -
+CZ-7                   -           -      -      -
+
+CZ-11                 3(0)        3(0)    -      - 
+------------------------------------------------------------
+
+Delta 2 Details
+------------------------------------------------------------
+Delta 2-7420          1(0)        1(0)    -      - 
+Delta 2 7920           -           -      -      -
+------------------------------------------------------------
+
+Delta 4 Details
+------------------------------------------------------------
+Delta 4M               -           -      -      -
+Delta 4M+4,2           -           -      -      -
+Delta 4M+5,2          1(0)        1(0)    -      -
+Delta 4M+5,4           -           -      -      -
+Delta 4H              1(0)         -      -     1(0)
+------------------------------------------------------------
+
+Electron Details
+-------------------------------------------------------------
+Electron               -           -      -      -
+Electron/Curie        3(0)        3(0)    -      -
+-------------------------------------------------------------
+
+
+Falcon 9/Falcon Heavy Details
+------------------------------------------------------------
+Falcon 9 v1.2        10(0)        4(0)   6(0)    -
+Falcon 9 v1.2(S1loss) 1(0)        1(0)    -      -
+Falcon 9 v1.2(expend) 9(0)        5(0)   4(0)    -
+Falcon Heavy          1(0)         -      -     1(0)
+------------------------------------------------------------
+
+H-2A/B Details
+-------------------------------------------------------------
+H-2A/202              3(0)        3(0)    -      -
+H-2A/204               -           -      -      - 
+H-2B/304              1(0)        1(0)    -      -
+-------------------------------------------------------------
+
+Proton Details
+------------------------------------------------------------
+Proton-M/Briz-M       2(0)         -     2(0)    -
+Proton-K/DM-2          -           -      -      -  
+Proton-M/DM-03         -           -      -      -
+-------------------------------------------------------------
+
+PSLV Details
+------------------------------------------------------------
+PSLV-G                 -           -      -      -     
+PSLV-CA (Core Alone)  2(0)        2(0)    -      - 
+PSLV-XL               2(0)        1(0)   1(0)    -
+-------------------------------------------------------------
+
+Soyuz/Molniya (R-7) Details 
+-------------------------------------------------------------
+Soyuz-U (Progress)     -           -      -      -
+Soyuz-U (satellite)    -           -      -      - 
+Soyuz-FG/Fregat        -           -      -      -
+Soyuz-FG/Soyuz (M)    4(1)        4(1)    -      -
+Soyuz-FG(Progress)    1(0)        1(0)    -      -
+Soyuz-2-1a             -           -      -      -  
+Soyuz-2-1a(Progress)  2(0)        2(0)    -      -
+Soyuz-2-1a/Fregat     3(0)        3(0)    -      -
+Soyuz-2-1b/Fregat     4(0)        1(0)   3(0)    -
+Soyuz-2-1a/Volga       -           -      -      -
+Soyuz-2-1b            1(0)        1(0)    -      -
+
+NK-33A Powered
+Soyuz 2-1v/Volga       -           -      -      -
+Soyuz 2-1v            1(0)        1(0)    -      -
+------------------------------------------------------------
+
+Zenit Details
+-----------------------------------------------------------
+Zenit 3SL/DMSL         -           -      -      -
+Zenit 3SLB/DMSLB       -           -      -      - 
+Zenit 3F/Fregat SB     -           -      -      -
+Zenit 2SB              -           -      -      - 
+-----------------------------------------------------------
+
+Launch Vehicle Site Summary 
+
+=========================================================
+
+          YEAR TO DATE LAUNCH SITE SUMMARY
+
+Launch sites, ranked by number of year-to-date orbital 
+launch attempts.
+
+=========================================================
+Site                           Overall    
+                               Launches    
+                              (Failures)   
+=========================================================
+Cape Canaveral, Florida         17(0)  
+XiChang, China                  17(0)
+Jiuquan, China                  16(1)
+Kourou, French Guyana           11(1)
+Vandenberg AFB, California       9(0)
+Baikonur, Kazakhstan             9(1)
+Sriharikota, India               7(0)
+Taiyaun, China                   6(0)
+Plesetsk, Russia                 6(0)
+Tanegashima, Japan               4(0)
+Kennedy Space Center, FL         3(0)
+Mahia, New Zealand               3(0)
+Kagoshima, Japan                 2(0)
+Wallops Island, Virgina          2(0)
+Vostochny, Russia                2(0)
+Wenchang, China                   -
+Sohae, North Korea                -
+Palmachim, Israel                 -
+Semnam, Iran                      -
+Dombarovsky, Russia               -
+Barking Sands, Hawaii             -
+Odyssey LP, Pacific Ocean         -
+Naro Space Center, South Korea    -
+Kwajalein, RMI                    - 
+Kodiak LC, Alaska                 - 
+=========================================================
+
+Launch Total by Country of First or Core Stage Manufacture
+ranked by number of year-to-date orbital successes.
+
+==========================================================    
+Vehicle            Overall           By Orbit Type
+                   Launches      Earth-Orbit Earth-Escape
+                  (Failures)      LEO   >LEO  Deep Space
+==========================================================
+China                39(1)       24(1)  15(0)    -
+United States        29(0)       12(0)  14(0)   3(0)
+Russia               20(1)       15(1)   5(0)    -
+Europe                8(1)        2(0)   5(1)   1(0)
+India                 7(0)        3(0)   4(0)    -
+Japan                 6(0)        6(0)    -      -
+New Zealand           3(0)        3(0)    -      -
+Ukraine               2(0)        2(0)    -      -
+Israel                 -           -      -      - 
+North Korea            -           -      -      -
+Iran                   -           -      -      -
+==========================================================
+
+ 
+
+Launch Total by Country of Upper Stage Manufacture
+ranked by number of year-to-date orbital successes.
+
+==========================================================    
+Vehicle            Overall           By Orbit Type
+                   Launches      Earth-Orbit Earth-Escape
+                  (Failures)      LEO   >LEO  Deep Space
+==========================================================
+China                39(1)       24(1)  15(0)    -
+United States        31(0)       14(0)  14(0)   3(0)
+Russia               20(1)       15(1)   5(0)    -
+Europe                8(1)        2(0)   5(1)   1(0)
+India                 7(0)        3(0)   4(0)    -
+Japan                 6(0)        6(0)    -      -
+New Zealand           3(0)        3(0)    -      -
+Ukraine                -           -      -      -
+Israel                 -           -      -      - 
+North Korea            -           -      -      -
+Iran                   -           -      -      -
+==========================================================
+
+   
+     
+ 
+
+Launch Vehicle by Success Rate 
+
+                
+================================================================
+                    SPACE LAUNCH REPORT
+
+        ACTIVE LAUNCH VEHICLE RELIABILITY STATISTICS
+================================================================
+           by Ed Kyle      as of December 29, 2018      
+================================================================
+Top active space launch vehicles ranked by Lewis point estimate 
+of their orbital success rate*.  Failures include incorrect 
+orbits.========================================================= 
+                           Lewis 
+                Successes  Point AdjWald   Consc. Last    Dates 
+Vehicle         /Attempts  Est*  95%CI*    Succes Fail    
+================================================================
+Falcon 9 v1.2     46/46(D) 0.98  0.91-1.00  46   None     2015-
+Atlas 5           78/79    0.98  0.93-1.00  69   06/15/07 2002-
+Soyuz-FG          56/57    0.97  0.90-1.00   2   10/11/18 2001-
+Delta 4M(+)       27/27    0.97  0.85-1.00  27   None     2002-
+Ariane 5-ECA      67/69    0.96  0.89-1.00   4   01/25/18 2002-
+CZ-2D             42/43    0.96  0.87-1.00  11   12/28/16 1992-
+H-2A              39/40    0.95  0.86-1.00  34   11/29/03 2001-
+CZ-4(A/B/C)       56/58    0.95  0.88-1.00   8   08/31/16 1988-
+CZ-2(C)(/SD/SM/YZ)52/54    0.95  0.87-1.00  18   08/18/11 1974-
+CZ-3B/3C          66/69    0.94  0.87-0.99  14   06/18/17 1996-
+CZ-2F(T/Y)        13/13    0.93  0.73-1.00  13   None     1999-
+Vega              12/12xx  0.93  0.72-1.00  12   None     2012-
+Minotaur 1        11/11    0.92  0.70-1.00  11   None     2000-
+PSLV              42/45    0.91  0.81-0.98   4   08/31/17 1993-
+Soyuz 2-1a/Fregat 20/21#   0.91  0.76-1.00  18   05/21/09 2006-
+Soyuz 2-1b         9/9     0.91  0.66-1.00   9   None     2008-
+Rokot/Briz/K(M)   28/30    0.91  0.78-0.99  14   02/01/11 1994-
+CZ-3/3A           37/40    0.90  0.79-0.98  27   08/18/96 1984-
+Proton-M/Briz-M   86/95    0.90  0.83-0.95  13   10/21/14 2001-
+Delta 4 Heavy      9/10    0.90  0.57-1.00   9   12/21/04 2004-
+H-2B               7/7     0.89  0.60-1.00   7   None     2009-
+Soyuz 2-1b/Fregat 30/33    0.89  0.76-0.98   4   11/28/17 2006-
+Pegasus (H/XL)    38/43    0.88  0.75-0.95  29   11/04/96 1991-
+Soyuz 2-1a        13/14#   0.88  0.66-1.00   7   04/28/15 2004-
+Minotaur 4/5       5/5++   0.86  0.51-1.00   5   None     2010-
+CZ-11              5/5     0.86  0.51-1.00   5   None     2015-
+GSLV Mk2           6/7     0.86  0.47-0.99   6   04/15/10 2010-
+Zenit 3F/FregSB    4/4     0.83  0.45-1.00   4   None     2011-
+Antares 2xx        4/4     0.83  0.45-1.00   4   None     2016-
+Kuaizhou 1(A)      4/4     0.83  0.45-1.00   4   None     2013-
+Strela             3/3     0.80  0.38-1.00   3   None     2003-
+Epsilon            3/3     0.80  0.38-1.00   3   None     2013-
+GSLV Mk3           2/2z    0.75  0.29-1.00   2   None     2017-
+CZ-6               2/2     0.75  0.29-1.00   2   None     2015-
+CZ-7               2/2     0.75  0.29-1.00   2   None     2016-
+Electron           3/4     0.75  0.29-0.97   3   05/25/17 2017-
+Shavit(-1,-2)      8/11    0.73  0.43-0.91   4   9/6/04   1988-
+Taurus (XL)        7/10    0.70  0.39-0.90   1   3/4/11   1994-
+Soyuz 2-1v/Volga   2/3     0.67  0.20-0.94   1   12/05/15 2013-
+Falcon Heavy       1/1     0.67  0.17-1.00   1   None     2018-
+Soyuz 2-1a/Volga   1/1     0.67  0.17-1.00   1   None     2016-
+Angara A5          1/1     0.67  0.17-1.00   1   None     2014-
+KT-2               1/1     0.67  0.17-1.00   1   None     2017-
+Soyuz 2-1v         1/1     0.67  0.17-1.00   1   None     2018-
+Safir              5/8(C)  0.63  0.30-0.87   1   09/02/12 2008-
+SS-520             1/2     0.50  0.09-0.91   1   01/14/17 2017-
+CZ-5               1/2     0.50  0.09-0.91   0   07/02/17 2016-
+Unha (TD-2)        2/5%    0.44  0.12-0.77   2   04/12/12 2006-
+Proton-M/DM-03     1/3     0.43  0.06-0.80   1   07/02/13 2010-
+ZQ-1               0/1     0.40  0.00-0.83   0   10/27/18 2018-
+================================================================
+* Lewis Point Estimate Determined as Follows.
+  
+  Maximum Liklihood Estimate (MLE)= x/n 
+      where x=success, n=tries
+  For MLE<=0.5, use Wilson Method = (x+2)/(n+4)
+  For MLE Between 0.5 and 0.9, use MLE = x/n
+  For MLE>=0.9, use Laplace Method = (x+1)/(n+2)
+ 
+  Lewis, J. & Lauro, J., "Improving the Accuracy of Small-Sample 
+   Estimates of Completion Rates", Journal of Usability Studies, 
+   Issue 3, Vol. 1, May 2006, pp. 136-150.
+
+* Adjusted-Wald 95% Confidence Interval Range Determined 
+     as Follows.
+
+     Pw = (x+1.9208)/(n+3.8416)
+
+     CI = Pw +/- 1.96*sqrt[(Pw*(1-Pw))/(n+3.8416)]  
+          (maximum range 1.00)
+    
+# Does not include one successful suborbital Soyuz 2-1a test 
+   flight performed in 2004.
+
+++Does not include two successful suborbital Minotaur 4 Lite 
+   flights in 2010-11.
+
+x Does not include Soyuz-U/Soyuz T-10-1 pre-launch fire that 
+   resulted in escape tower firing saving crew, but destroying 
+   launch vehicle on 9-26-1983.  Note that 10 additional 
+   Soyuz-U launches with Ikar or Fregat upper stages (all 
+   successful) are cataloged separately.
+
+xx Does not include successful 2-11-15 suborbital flight with 
+    IXV reentry demonstrator.
+
+% Includes 2006 failure thought to be a two-stage suborbital 
+   test launch attempt.
+
+z Does not include successful inaugural suborbital test flight 
+    on 12-18-14.
+
+(C) Assumes that two unsuccessful, unreported Safir launch 
+     attempts occurred during 2012.
+ 
+(D) Does not include 09/01/16 explosion that destroyed F9-29 
+     and AMOS 6 payload during propellant loading for prelaunch 
+     hot fire test at CC 40 two days before planned launch.   
+
+
+===============================================================
+                    SPACE LAUNCH REPORT
+
+        RETIRED LAUNCH VEHICLE RELIABILITY STATISTICS
+================================================================
+           by Ed Kyle      
+================================================================
+Space launch vehicles retired since ~1980 ranked by their 
+predicted orbital success rate*.  Failures include incorrect 
+orbits.
+
+            Ranked by Lewis Point Estimate
+================================================================ 
+                        Lewis 
+              Successes Point  AdjWald  Consc. Last    Dates 
+Vehicle       /Attempts Est*   95%CI*   Succes Fail    
+================================================================
+Atlas 2/2AS     63/63   0.98  0.93-1.00  63   None     1991-2004
+Tsyklon 2      104/105  0.98  0.94-1.00  92   04/25/73 1967-2006
+Delta 2        153/155  0.98  0.95-1.00 100   01/17/97 1989-2018
+Soyuz-U        755/776x 0.97  0.96-0.98   1   12/01/16 1973-2017
+STS            132/135  0.97  0.93-1.00  22(A)02/01/03 1981-2011
+Ariane 4       113/116  0.97  0.92-0.99  74   12/11/94 1988-2003
+Delta ELT       89/93   0.95  0.89-0.99   8   05/03/86 1972-1990
+Titan 2         17/17#  0.95  0.78-1.00  17   None     1964-2003
+Kosmos 3M      423/446  0.95  0.92-0.97  22   11/20/00 1964-2010
+Molniya M      277/296  0.93  0.90-0.96   4   06/21/05 1963-2010
+Proton-K/DM-2M  40/42   0.93  0.83-1.00   7   11/25/02 1994-2006
+Tsyklon 3      114/122  0.93  0.87-0.97   1   12/24/04 1977-2009
+Proton-K/DM-2  101/109  0.92  0.86-0.96  15   10/27/99 1982-2012
+Scout D-G       33/35   0.92  0.80-0.99  23   12/06/75 1972-1994
+Dnepr           21/22   0.92  0.76-1.00  15   07/26/06 1999-2015
+Soyuz FG/Fregat 10/10   0.92  0.68-1.00  10   None     2003-2012
+H-1              9/9    0.91  0.66-1.00   9   None     1986-1992
+Ariane 5ES       8/8    0.90  0.63-1.00   8   None     2008-2018
+Proton-K        26/29+  0.90  0.73-0.97   9   11/29/86 1968-2000
+M-3             17/19   0.89  0.67-0.98   0   01/15/95 1974-1995
+Zenit 3SL/DMSL  32/36   0.89  0.74-0.96   1   02/01/13 1999-2014
+Falcon 9 v1.1   14/15   0.88  0.68-1.00   1   06/28/15 2013-2016
+Titan 4B        15/17   0.88  0.64-0.98  12   04/30/99 1997-2005
+Atlas E SUS     21/23   0.88  0.72-0.99  21   12/19/81 1980-1995
+Ariane 5G(+,S)  22/25   0.88  0.68-0.97  15   07/12/01 1996-2009
+Titan 4A        20/22   0.88  0.71-0.99   0   08/12/98 1989-1998
+Atlas 3(A/B)     6/6    0.88  0.56-1.00   6   None     2000-2005
+Soyuz-U/Ikar     6/6    0.88  0.56-1.00   6   None     1999-1999
+Proton-M/DM-2    6/6    0.88  0.56-1.00   6   None     2007-2010
+Proton-K/17S40   6/6    0.88  0.56-1.00   6   None     1997-2002
+Atlas H SUS      5/5    0.86  0.51-1.00   5   None     1983-1987
+Titan 2(Star)    6/7%   0.86  0.47-0.99   6   10/5/93  1964-2003
+M-5              6/7    0.86  0.47-0.99   4   02/10/00 1997-2006
+START(-1)        6/7    0.86  0.47-0.99   5   03/28/95 1993-2006
+Soyuz-U/Fregat   4/4    0.83  0.45-1.00   4   None     2000-2000
+Zenit 3SLB/DMSLB 5/6    0.83  0.42-0.99   5(B)04/28/08 2008-2015
+Titan 34D       12/15   0.80  0.54-0.94   3   09/02/88 1982-1989
+Falcon 9 v1.0    4/5    0.80  0.36-0.98   1   10/08/12 2010-2013
+Antares 1xx      4/5    0.80  0.36-0.98   0   10/28/14 2013-2014
+Zenit 2(M/SB)   30/38   0.79  0.63-0.89   7   09/09/98 1985-2015
+Shitl'           2/2    0.75  0.29-1.00   2   None     1998-2006
+Proton-K/Briz-M  3/4    0.75  0.29-0.97   3   07/05/99 1999-2003
+Titan 3 Comm.    3/4    0.75  0.29-0.97   2   03/14/90 1990-1992
+Atlas G/Centaur 13/18   0.72  0.49-0.88   4   03/25/93 1984-1997
+H-2              5/7    0.71  0.35-0.92   0   11/15/99 1994-1999
+Falcon 1         2/5    0.44  0.12-0.77   2   08/03/08 2006-2009
+KSLV-1 (Angara)  1/3    0.43  0.06-0.80   1   06/10/10 2009-2013
+Delta 3          1/3    0.43  0.06-0.80   1   05/05/99 1998-2000
+GSLV Mk1         2/6    0.40  0.09-0.70   0   12/25/10 2001-2010
+Super Strypi     0/1    0.40  0.00-0.83   0   11/04/15 2015-2015
+Volna            0/1    0.40  0.00-0.83   0   06/21/05 2005-2005
+Conestoga        0/1    0.40  0.00-0.83   0   10/23/95 1995-1995
+VLS-1            0/2    0.33  0.00-0.71   0(E)12/11/99 1997-1999
+================================================================ 
+* Lewis Point Estimate Determined as Follows.
+  
+  Maximum Liklihood Estimate (MLE)= x/n 
+      where x=success, n=tries
+  For MLE<=0.5, use Wilson Method = (x+2)/(n+4)
+  For MLE between 0.5 and 0.9, use MLE = x/n
+  For MLE>=0.9, use Laplace Method = (x+1)/(n+2)
+ 
+  Lewis, J. & Lauro, J., "Improving the Accuracy of Small-Sample 
+   Estimates of Completion Rates", Journal of Usability Studies, 
+   Issue 3, Vol. 1, May 2006, pp. 136-150.
+
+* Adjusted-Wald 95% Confidence Interval Range Determined 
+     as Follows.
+
+     Pw = (x+1.9208)/(n+3.8416)
+
+     CI = Pw +/- 1.96*sqrt[(Pw*(1-Pw))/(n+3.8416)]  
+          (maximum range 1.00)
+
+# Includes 11 orbital Gemini Titan 2 and 6 Titan 23G missions.
+
+% Seven Titan 23G flights that flew suborbital profiles with 
+  Star 37 solid rocket motors providing the final orbital 
+  velocity increment.  The single failure listed here involved 
+  the Star 37 stage. 
+ 
++ Does not include one successful suborbital Proton-K test 
+   flight performed in 1970.
+
+ x Does not include Soyuz-U/Soyuz T-10-1 pre-launch fire that 
+   resulted in escape tower firing saving crew, but destroying 
+   launch vehicle on 9-26-1983.  Note that 10 additional 
+   Soyuz-U launches with Ikar or Fregat upper stages (all 
+   successful) are cataloged separately.
+ 
+(A) 2003 STS-107 Columbia failure during reentry result of 
+    damage suffered during launch phase.
+
+(B) Amos-3 inserted in orbit with 1,500 km short perigee and 
+    0.7 deg unplanned inclination.  Amos 3 reportedly lost two 
+    to three years of 18 year design life.
+
+(E) Does not include 08/22/03 pre-launch pad explosion that 
+    killed 21 during T-3 day launch preps.
+
+ 2018 SPACE LAUNCH LOG
+
+
+=========================================================================
+                         SPACE LAUNCH REPORT
+
+                 2018 ORBITAL/SUBORBITAL LAUNCH LOG
+=========================================================================
+                 by Ed Kyle      as of December 29, 2018    
+=========================================================================
+
+                YEAR TO DATE ORBITAL SPACE LAUNCH LOG
+
+DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORBIT**
+-------------------------------------------------------------------------------------
+01/08/18 Falcon 9 v1.2     F9-46   Zuma                            CC 40     LEO?[1]
+01/09/18 CZ-2D             Y40     Gaojing-1 3/4                   TY 9      LEO/S
+01/11/18 CZ-3B/YZ-1        Y45/Y5  Beidou 3M 03/04        ~2.08    XC 2      MEO
+01/12/18 PSLV-XL           C40     Cartosat 2F/usats       1.313   SR 1      LEO/S
+01/12/18 Delta 4M+5,2      D379    NROL 47                ~6.0     VA 6      LEO/R
+01/13/18 CZ-2D             Y49     LKW 3                           JQ 43/603 LEO/S
+01/17/18 Ehanced Epsilon   E03     ASNARO 2                0.57    KA M5     LEO/S
+01/19/18 CZ-11             03      Jilin-1 7/8                     JQ CZ11   LEO/S
+01/20/18 Atlas 5-411       AV076   SBIRS GEO 4             4.54    CC 41     GTO
+01/21/18 Electron/Curie    02      Still Testing           0.013   MA 1      LEO
+01/25/18 CZ-2C             Y36     Yaogan-30 Group 04              XC 3      LEO
+01/25/18 Ariane 5 ECA      L5101   VA241/SES 14/Al Yah 3   8.218   KO 3     [EEO][2]
+01/31/18 Falcon 9 v1.2     F9-49   Govsat 1                4.230   CC 40     GTO [3]
+02/01/18 Soyuz 2-1a/Fregat 1880    Kanopus V3,4                    VO 1S     LEO/S
+02/02/18 CZ-2D             Y13     CSES 1                  0.75    JQ 43/603 LEO/S
+02/03/18 SS-520            520-5   Tricom 1R               0.003   KA KS     LEO
+02/06/18 Falcon Heavy      FH-1    Demo Mission                    KC 39A    HCO
+02/12/18 CZ-3B/YZ-1        Y47/Y6  Beidou 3M 3/4          ~2.08    XC 2      MEO
+02/13/18 Soyuz 2-1a        1881    Progress MS-08         ~7.28    TB 31/6   LEO/ISS
+02/22/18 Falcon 9 v1.2     F9-50   Paz/Microsat 2a/b      ~2.000   VA 4E     LEO/S [3]
+02/27/18 H-2A              F38     IGS Optical 6                   TA Y1     LEO/S
+03/01/18 Atlas 5-541       AV077   GOES S                  5.2     CC 41     GTO+
+03/06/18 Falcon 9 v1.2     F9-51   Hispasat 30W-6          6.092   CC 40     GTO- [3]
+03/09/18 Soyuz 2-1b/Fregat VS18    O3b F4                  2.8     KO ELS    MEO
+03/17/18 CZ-2D             Y50     LKW 4                           JQ 43/603 LEO/S
+03/21/18 Soyuz FG          1882    Soyuz MS-08            ~7.2     TB 1/5    LEO/ISS
+03/29/18 GSLV Mk2          F08     GSAT 6A                 2.14    SR 2      GTO
+03/29/18 Soyuz 2-1v        004     Kosmos 2525            ~0.2     PL 43/4   LEO
+03/29/18 CZ-3B/YZ-1        Y48/Y7  Beidou 3 M9/10          2.028   XC 2      MEO
+03/30/18 Falcon 9 v1.2     F9-52   Iridium Next 5          8.6     VA 4E     LEO [4]
+03/31/18 CZ-4C             Y26     Gaofen 1-2/3/4          2.415   TY 9      LEO/S
+04/02/18 Falcon 9 v1.2     F9-53   Dragon 10.2/CRS-14     ~8.125   CC 40     LEO/ISS[5]
+04/05/18 Ariane 5 ECA      VA242   DSN 1/Hylas 4           9.398   KO 3      GTO
+04/10/18 CZ-4C             Y25     Yaogan 31-1                     JQ 43/603 LEO
+04/11/18 PSLV-XL           C41     IRNSS 1I                1.425   SR 1      GTO-
+04/14/18 Atlas 5-551       AV079   AFSPC 11                        CC 41     GEO 
+04/18/18 Proton M Briz M           Blagovest 12L                   TB 81/24  GEO 
+04/18/18 Falcon 9 v1.2     F9-54   TESS                    0.35    CC 40     EEO [6]
+04/25/18 Rokot/Briz KM     28      Sentinel 3B             1.150   PL 133/3  LEO/S 
+04/26/18 CZ-11             Y4      Zhuhai 1 + 4usats               JZ CZ11   LEO/S
+05/03/18 CZ-3B/E           Y55     APStar 6C                       XC 2      GTO
+05/05/18 Atlas 5-401       AV078   InSight                 0.694   VA 3E     HCO [7]
+05/08/18 CZ-4C             Y20     Gaofen 5                        TY 9      LEO/S
+05/11/18 Falcon 9 v1.2     F9-55   Bangabandhu 1          ~3.72    KC 39A    GTO [8]
+05/20/18 CZ-4C             Y27     Queqiao                 0.515   XC 3      EEO [9]
+05/21/18 Antares 230       A6      Cygnus OA-9             6.173   WI 0A     LEO/ISS
+05/22/18 Falcon 9 v1.2     F9-56   Iridium 6/GRACE-FO     ~5.5     VA 4E     LEO [4]
+06/02/18 CZ-2D             Y20     Gaofen 6                1.064   JQ 43/603 LEO/S
+06/04/18 Falcon 9 v1.2     F9-57   SES 12                  5.384   CC 40     GTO+[5]
+06/05/18 CZ-3A             Y25     Fengyun 2H             ~1.4     XC 2      GTO
+06/06/18 Soyuz FG          1883    Soyuz MS-09            ~7.2     TB 1/5    LEO/ISS
+06/12/18 H-2A-202          F39     IGS Radar 6                     TA Y1     LEO/S
+06/16/18 Soyuz 2-1b/Fregat 1884    Glonass M 47            1.415   PL 43/3   MEO
+06/27/18 CZ-2C             Y44     XJS A/B                         XC 3      LEO
+06/29/18 Falcon 9 v1.2     F9-58   Dragon 11.2/CRS 15     ~8.175   CC 40     LEO/ISS[5]
+07/09/18 CZ-2C/SMA         Y3      PRSS 1/PakTES 1A        1.485   JQ 43/603 LEO/S
+07/09/18 CZ-3A             Y27     Beidou 2 I7                     XC 2      GTO/i
+07/09/18 Soyuz 2.1a        1885    Progress MS-09         ~7.28    TB 31/6   LEO/ISS[10]
+07/22/18 Falcon 9 v1.2     F9-59   Telstar 19V             7.075   CC 40     GTO-[6]
+07/25/18 Ariane 5 ES       VA244   Galileo 23-26           2.952   KO 3      MEO
+07/25/18 Falcon 9 v1.2     F9-60   Iridium Next 7          8.6     VA 4E     LEO
+07/29/18 CZ-3B/YZ-1        Y49/Y8  Beidou 3M 5/6           2.028   XC 3      MEO
+07/31/18 CZ-4B             Y37     Gaofen 11                       TY 9      LEO/S
+08/07/18 Falcon 9 v1.2     F9-61   Merah Putih             5.8     CC 40     GTO-[6]
+08/12/18 Delta 4H/Star 48  D380    Parker Solar Probe      0.685   CC 37B    HCO
+08/22/18 Vega              VV12    ADM-Aeolus              1.357   KO ZLV    LEO/S
+08/24/18 CZ-3B/YZ-1        Y50     Beidou 3 M11/12         2.028   XC 3      MEO
+09/07/18 CZ-2C             Y39     Haiyang 1C              0.442   TY 9      LEO/S
+09/10/18 Falcon 9 v1.2     F9-62   Telstar 18V             7.06    CC 40     GTO-[6]
+09/15/18 Delta 2-7420      D381    ICESat 2                1.515   VA 2W     LEO/S[11]
+09/16/18 PSLV-CA           C42     NovaSAR-S/SSTL-S1       0.889   SR 1      LEO/S
+09/19/18 CZ-3B/YZ-1                Beidou M13/M14          2.028   XC 2      MEO
+09/22/18 H-2B-304          F7      HTV-7                  16.5     TA Y2     LEO/ISS
+09/25/18 Ariane 5 ECA      L5103   VA243/Horz 3e/Azersp 2  9.911   KO 3      GTO
+09/29/18 KZ-1A             Y8      CentiSpace 1-S1         0.97    JQ        LEO/S
+10/08/18 Falcon 9 v1.2     F9-63   SAOCOM 1A               3.0     VA 4E     LEO/S[12]
+10/09/18 CZ-2C/YZ-1S               Yaogan 32-1                     JQ 43/603 LEO/S[13]
+10/11/18 Soyuz FG          1886    Soyuz MS-10            ~7.2     TB 1/5   [FTO][14]
+10/15/18 CZ-3B/YZ-1                Beidou 3M 15/16         2.028   XC 3      MEO
+10/17/18 Atlas 5-551       AV073   AEHF 4                  6.168   CC 41     GTO+
+10/20/18 Ariane 5 ECA              VA245/BepiColombo       4.080   KO 3      HCO
+10/24/18 CZ-4B                     Haiyuag 2B                      TY 9      LEO/S
+10/25/18 Soyuz 2-1b        1887    Lotos-S1 3              6.0     PL 43/4   LEO
+10/27/18 ZQ-1              ZQ1-1   Weilai 1                        JQ       [FTO][15]
+10/29/18 CZ-2C                     CFOSat                  0.6     JQ 43/603 LEO/S
+10/29/18 H-2A-202          F40     GOSat 2/KhalifaSat      2.257   TA Y1     LEO/S
+11/01/18 CZ-3B/E           Y54?    Beodou 3G1              4.6     XC 2      GTO
+11/03/18 Soyuz 2-1b/Fregat 1888    Uragan M 757            1.415   PL 43/4   MEO
+11/07/18 Soyuz 2-1b/Fregat VS19    Metop C                 4.084   KO ELS    LEO/S   
+11/11/18 Electron/Curie    03      It's Business Time     ~0.045   MA 1      LEO 
+11/14/18 GSLV Mk 3         D2      GSAT 29                 3.4     SR 2      GTO 
+11/15/18 Falcon 9 v1.2     F9-64   Es'hail 2              ~5.3     KC 39A    GTO 
+11/16/18 Soyuz FG          1890    Progress MS-10         ~7.28    TB 1/5    LEO/ISS
+11/17/18 Antares 230               Cygnus NG-10            6.173   WI 0A     LEO/ISS
+11/18/18 CZ-3B/YZ-1                Beidou 3M 17/18         2.028   XC 3      MEO
+11/19/18 CZ-2D                     Shiyan 6                        JQ 43/603 LEO/S
+11/21/18 Vega              VV13    Mohammed IV-B           1.11    KO ZLV    LEO/S
+11/29/18 PSLV-CA           C43     HySIS                   0.38    SR 1      LEO/S
+11/30/18 Rokot/Briz KM     29      3xRodnik+usat          ~1.0     PL 133/3  LEO
+12/03/18 Soyuz FG          1891    Soyuz MS-11            ~7.2     TB 1/5    LEO/ISS
+12/03/18 Falcon 9 v1.2     F9-65   Spaceflight SSO-A      ~4.0     VA 4E     LEO/S
+12/04/18 Ariane 5 ECA      VA246   GSAT 11/GEO Kompsat 2A  9.362   KO 3      GTO
+12/05/18 Falcon 9 v1.2     F9-66   CRS-16/Dragon 12.2     ~8.039   CC 40     LEO/ISS[16]
+12/07/18 CZ-2D             Y38     SaudiSAT 5A/B+usats    ~0.6     JQ 43/603 LEO/S
+12/07/18 CZ-3B/G3Z                 Chang'e 4               3.78    XC 2      EEO [17]  
+12/16/18 Electron/Curie    04      For Pickering          ~0.078   MA 1      LEO 
+12/19/18 GSLV Mk2          F11     GSAT 7A                 2.25    SR 2      GTO+ 
+12/19/18 Soyuz 2-1a/Fregat VS20    CSO 1                   3.565   KO ELS    LEO/S
+12/21/18 Proton M/Briz M           Blagovest 13L                   TB 81/24  GEO 
+12/21/18 CZ-11             Y5      Hongyun                         JQ CZ11   LEO/S
+12/23/18 Falcon 9 v1.2     F9-67   GPS 3-1                 4.4     CC 40     MTO [5]
+12/24/18 CZ-3C/E                   TJSW 3                          XC 3      GTO
+12/27/18 Soyuz 2-1a/Fregat 1893    Kanopus V5,6+usats     ~1.1     VO 1S     LEO/S
+12/29/18 CZ-2D/YZ-3                Hongyan 1                       JQ 43/603 LEO
+-------------------------------------------------------------------------------------
+[1] First stage B1043 landed LZ-1. Zuma reported lost due possible separation 
+     failure so reentered with 2nd stage when it was deorbited.
+[2] Telemetry lost at Stg 2 ignition.  Orbits had low apogee and 20 deg inclination
+     rather than planned 3 deg.
+[3] Both stages expended.  One half of fairing recovered from ocean landing 
+     during Paz launch experiment.
+[4] Falcon 9 expended.  Fairing recovery attempt failed.
+[5] Falcon 9 expended.
+[6] Stg 1 Landed OSCILY
+[7] Mars Lander.  1st HCO from VAFB.
+[8] 1st Block 5.  B1046 Stg 1 landed OSCILY.
+[9] 200 x 400,000 km transfer for ultimate EM L2 halo orbit.  Data relay for 
+      upcoming Chang'e 4 mission.
+[10] 1st 2.5-orbit fast track ascent to ISS docking.
+[11] Delta 2/Thor Finale
+[12] 1st RTLS to LZ 4 (B1048.2)
+[13] 1st YZ-1S
+[14] Booster failure around time of staging.  Crew survived ballistic abort.
+[15] Flight control failure during 3rd stage burn.
+[16] 1st stg B1050.1 rolled, lost short of LZ-1.
+[17] Lunar lander aimed toward first far-side landing.
+ ==================================================================================
+
+2018 Major Suborbital Log 
+
+         
+      2018 MAJOR SUBORBITAL LAUNCH LOG 
+      Suborbital Launches Using Booster Hardware Also Used 
+      for Orbital Launches
+==================================================================================
+
+DATE     VEHICLE          ID      PAYLOAD                MASS(t) SITE*    ORBIT**
+-----------------------------------------------------------------------------------
+04/25/18 Minuteman 3      GT226GM Operational Test               VA LF10  SUB
+05/14/18 Minuteman 3      GT224GM Operational Test               VA LF04  SUB
+05/22/18 Bulava           29      Operational Test               WH       SUB [1]
+05/22/18 Bulava           30      Operational Test               WH       SUB [1]
+05/22/18 Bulava           31      Operational Test               WH       SUB [1]
+05/22/18 Bulava           32      Operational Test               WH       SUB [1]
+06/19/18 Yars                     ICBM Test                      PL       SUB [3]
+07/31/18 Minuteman 3      GT225GM Operational Test               VA LF09 [FSO][2]
+10/11/18 SLBM Salvo               Operational Test               BA       SUB [4]
+11/06/18 Minuteman 3      GT228GM Operational Test               VA LF10  SUB
+11/28/18 KSLV-2-TLV               Suborbital Test                NA       SUB [5]
+12/10/18 Topal-E                  Suborbital Test                KY 107  [FSO][6]
+12/26/18 UR-100UTTKh              Avangard Suborb. Test          DO       SUB [7]
+-----------------------------------------------------------------------------------
+[1] Salvo launch from SSBN Yuri Dolgorukiy from White Sea to Kamchatka, Kura Range.
+[2] Failed at 11:42 UTC, shortly after launch.  1st MM3 failure since 2011. 
+[3] Launched between 6/19 and 6/23.  Unannounced.  Result unknown. 
+[4] Salvo launch.  Details TBD.
+[5] First R&D launch of KSLV-2 2nd stg and dummy 3rd stg.  Single 75t thrust 
+     KARI-75 LOX/Kerosene engine burned for 151s.  209 km apogee. 
+[6] Meant for Sary-Shagan target.  Failed shortly after launch.
+[7] Avangard hypersonic RV flew to Kura Range
+=================================================================================
+
+*Site Code:
+
+BA = Barents Sea (Sub Launch), Russia
+BS = Barking Sands, Kauai, Hawaii
+CC = Cape Canaveral, FL, USA 
+DO = Dombarovsky, Russia 
+FLP = First Launch Pad
+JQ = Ji Quan, China 
+KA = Kagoshima, Japan 
+KC = Kennedy Space Center, FL, USA
+KO = Kourou, French Guyana
+KW = Kwajalein, Marshall Is.
+KY = Kapustin Yar, Russia
+MA = Mahia Peninsula, New Zealand
+ME = Meck Island, Kwajalein Atoll, RMI
+MU = Musudan-ri North Korea
+NA = Naro Space Center, South Korea
+NP = North Pole Submarine Launch
+OK = Sea of Okhotsk
+OLP = Odyssey Launch Platform
+PA = Palamchima, Isreal 
+PL = Plesetsk Northern Cosmodrome, Russia
+PO = Pacific Ocean (154W-0N for Sea Launch)
+SE = Semnan, Iran in Dasht-e-Kavir Desert
+SO = Sohae Satellite Launching Center, Tongchang-ri, North Korea
+SR = Satish Dhawan Space Center, Sriharikota, India
+SLP = Second Launch Pad
+TA = Tanageshima, Japan 
+TB = Tyuratam/Baikonur, Kazakstahn
+TY = Taiyuan, China 
+WC = Wenchang, China
+WH = White Sea (Sub Launch), Russia
+WI = Wallops Island 
+XC = Xi Chang, China 
+VA = Vandenberg AFB, CA, USA
+VO = Vostochny, Russia
+YO = Yoshinobu Launch Pad
+
+**Orbit Code:
+
+EEO = Elliptical Earth Orbit
+EEO/M = Molynia (12-hr) Elliptical Earth Orbit
+EEO/T = Tundra (24-hr) Elliptical Earth Orbit
+FTO = Failed to Orbit
+FSO = Failed Suborbital
+GTO = Geosynchronous Transfer Orbit
+GTO+ = Supersynchronous or High Perigee Transfer Orbit
+GTO- = Subsynchronous Transfer Orbit
+GTOi = Inclined GTO
+GEO = Geosynchronous Orbit
+HCO = Heliocentric (solar) Orbit
+HTO = High Earth Transfer Orbit
+LEO = Low Earth Orbit
+LEO/E = Equatorial LEO
+LEO/S = Sun Synchronous Low Earth Orbit
+LEO/P = Polar Low Earth Orbit
+LEO/R = Retrograde Low Earth Orbit
+MEO = Medium Earth Orbit
+MTO = Medium Earth Transfer Orbit 
+SUB = Suborbital
+=========================================================================
+
+ 
+
+Space Launch Forecast 
+
+========================================================================
+                       SPACE LAUNCH REPORT
+
+               ON THE PAD:  SPACE LAUNCH FORECAST
+=========================================================================
+                by Ed Kyle      as of December 29, 2018
+=========================================================================
+This space launch forecast, like all such space launch schedules, 
+should not be considered anything but a vague long-term forecast. The 
+dates, sequence, and even the total number of launches, can and almost 
+certainly will be altered as time passes. (Predicting launch dates is 
+much like trying to predict the weather months in advance.)
+
+==================================================================================
+DATE     VEHICLE           ID     PAYLOAD                 MASS(t) SITE*     ORBIT**
+----------------------------------------------------------------------------------
+12/--/18 Delta 4H          D382   NROL 71                         VA 6      ???
+
+--/--/-- Pegasus XL               ICON                            CC L1011  LEO 		  
+----------------------------------------------------------------------------------
+
+
+*Site Code:
+
+BA = Barents Sea (Sub Launch), Russia
+BS = Barking Sands, Kauai, Hawaii
+CC = Cape Canaveral, FL, USA  
+DO = Dombarovsky, Russia
+FLP = First Launch Pad
+GO = Goheung (Naro), South Korea
+JQ = Ji Quan, China 
+KA = Kagoshima, Japan 
+KO = Kourou, French Guyana
+KC = Kennedy Space Center, FL, USA
+KD = Kodiak, Alaska
+KW = Kwajalein, Marshall Is.
+MA - Mahia, New Zealand
+MU = Musudan-ri, North Korea
+OLP = Odyssey Launch Platform
+PA = Palamchima, Isreal 
+PL = Plesetsk Northern Cosmodrome, Russia
+PO = Pacific Ocean Range 154W-0N 
+SE = Semnan, Iran in Dasht-e-Kavir Desert
+SO = Sohae Satellite Launching Center, Tongchang-ri, North Korea
+SR = Satish Dhawan Space Center, Sriharikota, India
+SLP = Second Launch Pad
+SV = Svobodny Cosmodrome, Russia
+TA = Tanageshima, Japan 
+TB = Tyuratam/Baikonur, Kazakstahn
+TY = Taiyuan, China
+WC = Wenchang, China 
+WI = Wallops Island 
+XC = Xi Chang, China 
+VA = Vandenberg AFB, CA, USA
+YO = Yoshinobu Launch Pad
+
+
+**Orbit Code:
+
+EEO = Elliptical Earth Orbit
+EEO/M = Molynia (12-hr) Elliptical Earth Orbit
+EEO/T = Tundra (24-hr) Elliptical Earth Orbit
+FTO = Failed to Orbit
+FSO = Failed Suborbital
+GTO = Geosynchronous Transfer Orbit
+GTO+ = Supersynchronous Transfer Orbit
+GTO- = Subsynchronous Transfer Orbit
+GEO = Geosynchronous Orbit
+HCO = Heliocentric (solar) Orbit
+HTO = High Earth Transfer Orbit
+LEO = Low Earth Orbit
+LEO/S = Sun Synchronous Low Earth Orbit
+LEO/P = Polar Low Earth Orbit
+MEO = Medium Earth Orbit
+MTO = Medium Earth Transfer Orbit
+SUB = Suborbital 
+
+=========================================================================
