@@ -24,18 +24,32 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = os.getenv('SECRET_KEY', '')
 
+IS_DEVELOPMENT = os.getenv('DJANGO_ENV', 'production') == 'development'
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = os.getenv('DJANGO_ENV', 'production') == 'development'
+DEBUG = IS_DEVELOPMENT
+
+print(f"DEBUG MODE IS: {DEBUG}")
 
 ALLOWED_HOSTS = [
     'django-base-test.herokuapp.com'
 ]
 
+staging_host = os.getenv('STAGING_HOST', None)
+if staging_host:
+    ALLOWED_HOSTS.append(staging_host)
+
+allow_localhost = os.getenv('SHOULD_ALLOW_LOCALHOST', None)
+if allow_localhost:
+    ALLOWED_HOSTS.append('localhost')
+    ALLOWED_HOSTS.append('127.0.0.1')
+
+
+
 
 # Application definition
 
 INSTALLED_APPS = [
-    'timezones.apps.TimezonesConfig',
+    'spacetrends.apps.SpacetrendsConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -105,6 +119,13 @@ AUTH_PASSWORD_VALIDATORS = [
         'NAME': 'django.contrib.auth.password_validation.NumericPasswordValidator',
     },
 ]
+
+if not IS_DEVELOPMENT:
+    SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
+    SECURE_SSL_REDIRECT = True
+    print(f"SECURE_SSL_REDIRECT: {SECURE_SSL_REDIRECT}")
+
+
 
 
 # Internationalization

@@ -1,7 +1,7 @@
 # django-base
 
 # Project structure
-`timezones` is a basic django app within the djano project named `mysite`.  To create a new Django app run
+`spacetrends` is a basic django app within the djano project named `mysite`.  To create a new Django app run
 ```
 python manage.py startapp [app_name]
 ```
