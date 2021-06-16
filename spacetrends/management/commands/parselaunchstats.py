@@ -133,19 +133,29 @@ class launch_stats_parser():
     def create_launch_in_db(self, launch):
         pass
 
-    def update_file_with_fixes(lines):
-        self.pprint("WRITE ME!!!!! update_file_with_fixes()")
+    def update_file_with_fixed_launch_log_line(self, fixed_line, index):
+        with open(self.filepath, 'r') as statsfile:
+            lines = statsfile.readlines()
+
+        lines[index] = fixed_line + "\n"
+
+        with open(self.filepath, 'w') as statsfile:
+            statsfile.writelines(lines)
+
 
     def populate_db_from_launch_log(self, lines):
         # self.debug_print(pprint.pformat(lines))
         for index, line in lines.items():
             entry = self.parse_launch_log_line_into_list_symbols(line)
+            should_line_be_fixed = False
             while len(entry) < 7:
+                should_line_be_fixed = True
                 pyperclip.copy(line.strip('\n'))
-                fixed_line = input(f"Bad parse for line [{index}]:\n{line}\n.  Please provide fixed version:\n")
-                lines[index] = fixed_line
-                self.CURRENT_FILE_MODIFIED = True
+                fixed_line = input(f"Bad parse for line [{index}]:\n{line}\nPlease provide fixed version (use ctrl+v to paste line from clipboard):\n")
                 entry = self.parse_launch_log_line_into_list_symbols(fixed_line)
+
+            if should_line_be_fixed: # do it here so we don't write the fix until it's fully correct
+                self.update_file_with_fixed_launch_log_line(fixed_line, index)
                 
             self.debug_pprint(entry)
             launch_date = self.parse_date_from_raw_date(entry[0])
@@ -163,19 +173,17 @@ class launch_stats_parser():
             }
 
             self.debug_pprint(entry)
-            self.debug_pprint(launch)
+
+            if should_line_be_fixed: # nice to see the fixed structure when you're making those edits...
+                self.pprint(pprint.pformat(launch))
+            else:
+                self.debug_pprint(launch)
 
             self.create_launch_in_db(launch)
-
-        if self.CURRENT_FILE_MODIFIED:
-            self.pprint(f"Detected some lines in file have been fixed. Writing fixes back to file.")
-            self.pprint(pprint.pformat(lines))
-            self.update_file_with_fixes(lines)
 
 
 
     def parse_stats_file(self):
-        self.CURRENT_FILE_MODIFIED = False
         with open(self.filepath) as statsfile:
             self.debug_print(f"reading file: {statsfile}")
             statsfile_lines = statsfile.readlines()
