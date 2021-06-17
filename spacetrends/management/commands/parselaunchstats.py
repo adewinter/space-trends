@@ -155,12 +155,24 @@ class LaunchStatsParser():
         result = dict(zip(range(data_start_raw_lines_index, data_end_raw_lines_index), result_lines))
         return result
 
-    def parse_launch_log_line_into_list_symbols(self, line):
+    def parse_launch_log_line_into_entry(self, line, index):
         replace_regex = r'[\s]{2,}' # regex for finding spots using more than one 'space'
         replace_symbol = '||' # replace them with this character (makes `split()` easier)
         subbed_line = re.sub(replace_regex, replace_symbol, line) # do the actual replacement
         entry = subbed_line.split(replace_symbol) # split on the replacement character
-        return entry
+
+        # Error correction
+        should_line_be_fixed = False
+        while len(entry) < 7:
+            should_line_be_fixed = True
+            pyperclip.copy(line.strip('\n'))
+            fixed_line = input(f"Bad parse for line [{index}]:\n{line}\nPlease provide fixed version (use ctrl+v to paste line from clipboard):\n")
+            entry, _ = self.parse_launch_log_line_into_entry(fixed_line, index) #recursive call!
+
+        if should_line_be_fixed: # do it here so we don't write the fix until it's fully correct
+            self.update_file_with_fixed_launch_log_line(fixed_line, index)
+                
+        return entry, should_line_be_fixed
 
     def parse_date_from_raw_date(self, raw_date):
         '''
@@ -252,17 +264,7 @@ class LaunchStatsParser():
     def populate_db_from_launch_log(self, lines):
         # self.debug_print(pprint.pformat(lines))
         for index, line in lines.items():
-            entry = self.parse_launch_log_line_into_list_symbols(line)
-            should_line_be_fixed = False
-            while len(entry) < 7:
-                should_line_be_fixed = True
-                pyperclip.copy(line.strip('\n'))
-                fixed_line = input(f"Bad parse for line [{index}]:\n{line}\nPlease provide fixed version (use ctrl+v to paste line from clipboard):\n")
-                entry = self.parse_launch_log_line_into_list_symbols(fixed_line)
-
-            if should_line_be_fixed: # do it here so we don't write the fix until it's fully correct
-                self.update_file_with_fixed_launch_log_line(fixed_line, index)
-                
+            entry, had_manual_correction = self.parse_launch_log_line_into_entry(line, index)
             self.debug_pprint(entry)
             launch_date = self.parse_date_from_raw_date(entry[0])
             site_name_code, site_pad_code = self.parse_launch_site_name_and_code_from_raw(entry[5])
@@ -280,7 +282,7 @@ class LaunchStatsParser():
                 "orbit": {"code": orbit_code, "notes": orbit_notes} 
             }
 
-            if should_line_be_fixed: # nice to see the fixed structure when you're making those edits...
+            if had_manual_correction: # nice to see the fixed structure when you're making those edits...
                 self.pprint(pprint.pformat(launch))
             else:
                 self.debug_pprint(launch)
