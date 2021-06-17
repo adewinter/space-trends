@@ -1,15 +1,12 @@
 2002 YEAR TO DATE LAUNCH STATS as of December 31, 2002
-
 2002 Launch Vehicle Standings
-
 Calender year launch vehicle standings, ranked by success rate, with launch total as the first tiebreaker and total payload mass as the second tiebreaker.  Low Earth Orbit (LEO) missions have orbital periods of  less than 2 hours. Deep Space missions include  heliocentric, planetocentric, and solar system escape  trajectories.   
 
 As of Dec 31, 2002
-
 =========================================================    
-Vehicle            Overall           By Orbit Type    
-                   Success/      Earth-Orbit Earth-Escape    
-                   Attempts       LEO   >LEO  Deep Space    
+Vehicle            Overall           By Orbit Type
+                   Success/      Earth-Orbit Earth-Escape
+                   Attempts       LEO   >LEO  Deep Space
 =========================================================    
 Ariane 4              8/8*        1/1    7/7*   --- 
 STS                   5/5         5/5*   ---    --- 
@@ -35,10 +32,9 @@ Proton-(K/M)***       8/9         1/1    7/8    ---
 Ariane 5G/ECA         3/4         1/1    2/3    --- 
 KT-1                  0/1         0/1    ---    --- 
 ---------------------------------------------------------  
-Total                61/65       31/33  30/32   0/0 
-* Denotes YTD Leader in Category 
-
-** Soyuz/Molniya Details 
+Total                61/65       31/33  30/32   0/0
+* Denotes YTD Leader in Category
+** Soyuz/Molniya Details
 ------------------------------------------------------ 
 Soyuz-U(Ikar/Fregat)  4/5         4/5    ---    --- 
 Soyuz-FG              2/2         2/2    ---    --- 
@@ -58,43 +54,41 @@ Proton-M/Briz-M       1/1         ---    1/1    ---
 =========================================================       
    
 
-2002 Launch Site Standings  
-
+2002 Launch Site Standings
 Launch sites, ranked by number of year-to-date orbital launch attempts.   
 
 =========================================================    
-Site                          Overall    
+Site                          Overall
                               Success/    
-                              Attempts    
+                              Attempts
 =========================================================    
-Baikonur, Kazakhstan            14/15 
-Kourou, French Guyana           11/12 
-Plestesk, Russia                 9/10 
-Cape Canaveral, Florida          9/9 
-Kennedy Space Center, Florida    5/5 
-Vandenberg AFB, California       3/3 
-Tanegashima, Japan               3/3 
-Taiyaun, China                   2/3 
-Jiuquan, China                   2/2 
-Sea Launch LP Odyssey            1/1 
-Palmanchim, Isreal               1/1 
-Sriharikota, India               1/1 
-Svobodny, Russia                  
+Baikonur, Kazakhstan            14/15
+Kourou, French Guyana           11/12
+Plestesk, Russia                 9/10
+Cape Canaveral, Florida          9/9
+Kennedy Space Center, Florida    5/5
+Vandenberg AFB, California       3/3
+Tanegashima, Japan               3/3
+Taiyaun, China                   2/3
+Jiuquan, China                   2/2
+Sea Launch LP Odyssey            1/1
+Palmanchim, Isreal               1/1
+Sriharikota, India               1/1
+Svobodny, Russia
 =========================================================  
 
    
 
 Launch Vehicle by Success Rate
-
-Top active space launch  vehicles ranked by their predicted 
-success rate* (10 or more launches).  Failures include 
+Top active space launch  vehicles ranked by their predicted
+success rate* (10 or more launches).  Failures include
 incorrect orbits.
    
 As of Dec 31, 2002.
 
 =============================================================    
-Vehicle    Successes/Tries Realzd Pred  Consc. Last     Dates    
-                            Rate  Rate* Succes Fail    
+Vehicle    Successes/Tries Realzd Pred  Consc. Last     Dates
+                            Rate  Rate* Succes Fail
 =============================================================    
 Atlas 2/2AS     58    58   1.00  .98     58    None     1991-    
 STS            111   112    .99  .98     87    1/28/86  1981- 
@@ -116,81 +110,80 @@ CZ-3            10    13    .77  .73      2    8/18/96  1984-
 Ariane 5G/ECA   10    14    .71  .69      0    12/11/02 1996-    
 ============================================================= 
 
-* First level Bayesian estimate of mean predicted probability  
-of success for next launch attempt (k+1)/(n+2) where k is the  
+* First level Bayesian estimate of mean predicted probability
+of success for next launch attempt (k+1)/(n+2) where k is the
 number of successful events and n is the number of trials. 
   
 
 2002 Launch Log
-
 Failed mission orbits indicated in red along with the number
 of the failed flight stage.
 
 Date    Vehicle       ID   Payload       Mass       Site*    Orbit**
 ---------------------------------------------------------------------
 01/16  Titan 401B     B-38  Milstar 5         -1    CC SLC40    GEO
-01/23  Ariane 42L     L4108 Insat 3C(V147)       -1     KO ELA2     GTO  
-02/04  H-2A/2024      TF-2  MDS/DASH             -1     TA YO       GTO  
+01/23  Ariane 42L     L4108  Insat 3C(V147)       -1     KO ELA2     GTO
+02/04  H-2A/2024      TF-2  MDS/DASH             -1     TA YO       GTO
 02/05  Pegasus XL     P014  HESSI (NASA)         -1     CC L1011    LEO
 02/11  Delta 7910     D290  Iridium (5) IS-1     -1     V  SLC 2W   LEO/S
-02/21  Atlas 3B       AC204 Echostar 7           -1     CC SLC36B   GTO+
-02/23  Ariane 44L     L4109 Intelsat 904         -1     KO ELA2     GTO
-02/25  Soyuz-U              Kosmos 2387          -1     PL LC43/3   LEO
+02/21  Atlas 3B       AC204  Echostar 7           -1     CC SLC36B   GTO+
+02/23  Ariane 44L     L4109  Intelsat 904         -1     KO ELA2     GTO
+02/25  Soyuz-U          -1    Kosmos 2387          -1     PL LC43/3   LEO
 03/01  Ariane 5G      L511  Envisat(V145)        -1     KO ELA3     LEO/S
-03/01  STS/Columbia   OV102 STS-109/HST-SM3B     -1     KSC LC39A   LEO
-03/08  Atlas 2A       AC143 TDRS-I(9)(NASA)       -1    CC SLC36A   GTO-
-03/17  Rockot/Briz-KM RB002 GRACE 1/2(NASA/GDR)    -1   PL LC133    LEO/S
-03/21  Soyuz-U              Progress M1-8(ISS-7P)  -1   TB LC1      LEO
-03/25  CZ-2F          CZ2F3 Shenzhou-3             -1   JQ          LEO
-03/29  Ariane 44L     L4110 Astra3A/JcSat8(V149)   -1   KO ELA2     GTO
-03/30  Proton-K/DM3         Intelsat 903           -1   TB LC81/23  GTO+
-04/01  Molniya-M            Kosmos 2388            -1   PL LC16/2   EEO/M
-04/08  STS/Atlantis   OV104 STS-110/ISS-8A(S0)     -1   KSC LC39B   LEO
-04/16  Ariane 44L     L4111 NSS-7 (V150)          -1    KO ELA2     GTO
-04/25  Soyuz-U              Soyuz TM-34(ISS-4S)    -1   TB LC1      LEO
-05/04  Ariane 44P     L4112 Spot-5(V151)           -1   KO ELA2     LEO/S
+03/01  STS/Columbia   OV102  STS-109/HST-SM3B     -1     KSC LC39A   LEO
+03/08  Atlas 2A       AC143  TDRS-I(9)(NASA)       -1    CC SLC36A   GTO-
+03/17  Rockot/Briz-KM  RB002  GRACE 1/2(NASA/GDR)    -1   PL LC133    LEO/S
+03/21  Soyuz-U          -1    Progress M1-8(ISS-7P)  -1   TB LC1      LEO
+03/25  CZ-2F          CZ2F3  Shenzhou-3             -1   JQ          LEO
+03/29  Ariane 44L     L4110  Astra3A/JcSat8(V149)   -1   KO ELA2     GTO
+03/30  Proton-K/DM3     -1    Intelsat 903           -1   TB LC81/23  GTO+
+04/01  Molniya-M        -1    Kosmos 2388            -1   PL LC16/2   EEO/M
+04/08  STS/Atlantis   OV104  STS-110/ISS-8A(S0)     -1   KSC LC39B   LEO
+04/16  Ariane 44L     L4111  NSS-7 (V150)          -1    KO ELA2     GTO
+04/25  Soyuz-U           -1   Soyuz TM-34(ISS-4S)    -1   TB LC1      LEO
+05/04  Ariane 44P     L4112  Spot-5(V151)           -1   KO ELA2     LEO/S
 05/04  Delta 7920     D291  Aqua (NASA)            -1   V  SLC2W    LEO/S
-05/07  Proton-K/DM3         DirecTV-5 (ILS-23)     -1   TB LC81/23  GTO+
-05/15  CZ-4B          CZ4B4 FengYun-1D/Haiyang-1   -1   TY          LEO/S
-05/28  Shavit               Ofeq-5                 -1   PA          LEO
-05/28  Kosmos 3M            Kosmos 2389 (Parus)    -1   PL LC132    LEO
-06/05  Ariane 44L     L4113 Intelsat 905 (V152)    -1   KO ELA2     GTO
-06/05  STS/Endeavour  OV105 STS111/ISS-UF2         -1   KSC LC39A   LEO
-06/10  Proton-K/DM-2M       Express A1R            -1   TB LC200    GTO+
-06/15  Zenit 3SL/DMSL Z3008 Galaxy 3C              -1   POR         GTO+
-06/20  Rockot/Briz-KM RB003 Iridium SV97,98        -1   PL LC133    LEO
-06/24  Titan 23G/Star G-14  NOAA-M(17)             -1   V  SLC4W    LEO/S
-06/26  Soyuz-U              Progress M-46(ISS8P)   -1   TB LC1      LEO
-07/03  Delta 7425     D292  CONTOUR                -1   CC SLC17A   EEO
+05/07  Proton-K/DM3     -1    DirecTV-5 (ILS-23)     -1   TB LC81/23  GTO+
+05/15  CZ-4B          CZ4B4  FengYun-1D/Haiyang-1   -1   TY          LEO/S
+05/28  Shavit           -1    Ofeq-5                 -1   PA          LEO
+05/28  Kosmos 3M        -1    Kosmos 2389 (Parus)    -1   PL LC132    LEO
+06/05  Ariane 44L     L4113  Intelsat 905 (V152)    -1   KO ELA2     GTO
+06/05  STS/Endeavour  OV105  STS111/ISS-UF2         -1   KSC LC39A   LEO
+06/10  Proton-K/DM-2M   -1    Express A1R            -1   TB LC200    GTO+
+06/15  Zenit 3SL/DMSL  Z3008  Galaxy 3C              -1   POR         GTO+
+06/20  Rockot/Briz-KM  RB003  Iridium SV97,98        -1   PL LC133    LEO
+06/24  Titan 23G/Star  G-14   NOAA-M(17)             -1   V SLC4W    LEO/S
+06/26  Soyuz-U          -1    Progress M-46(ISS8P)   -1   TB LC1      LEO
+07/03  Delta 7425     D292   CONTOUR                -1   CC SLC17A   EEO
 07/05  Ariane 5G      L512  Stellat5/NStarC(V153)  -1   KO ELA3     GTO
-07/08  Kosmos 3M            Kosmos 2390-91        -1    PL LC132    LEO
-07/25  Proton-K/DM5         Kosmos 2392           -1    TB LC81/24  LEO
-08/21  Atlas V/401    AV001 Hot Bird 6             -1   CC SLC41    GTO+
-08/22  Proton-K/DM3         Echostar 8  (ILS-24)   -1   TB LC81/23  GTO+
-08/28  Ariane 5G      L513  Atl.Bird1/MSG1(V155)   -1   KO ELA3     GTO 
-09/06  Ariane 44L     L4114 Intelsat 906 (V154)    -1   KO EKA2     GTO
+07/08  Kosmos 3M        -1    Kosmos 2390-91        -1    PL LC132    LEO
+07/25  Proton-K/DM5     -1    Kosmos 2392           -1    TB LC81/24  LEO
+08/21  Atlas V/401    AV001  Hot Bird 6             -1   CC SLC41    GTO+
+08/22  Proton-K/DM3     -1    Echostar 8 (ILS-24)   -1   TB LC81/23  GTO+
+08/28  Ariane 5G      L513  Atl.Bird1/MSG1(V155)   -1   KO ELA3     GTO
+09/06  Ariane 44L     L4114  Intelsat 906 (V154)    -1   KO EKA2     GTO
 09/10  H-2A/2024      TF-3  USERS/DRTS            -1    TA YO       GTO
 09/12  PSLV           C-4   Metsat 1              -1    SR          GTO
-09/15  KT-1           KT1-1 Tsinghua-2           -1     TY         (FTO)(2)
-09/18  Atlas 2AS      AC159 Hispasat 1D           -1    CC SLC36A   GTO+
+09/15  KT-1           KT1-1  Tsinghua-2           -1     TY         (FTO)(2)
+09/18  Atlas 2AS      AC159  Hispasat 1D           -1    CC SLC36A   GTO+
 09/25  Soyuz-FG       SFG3  Progress M1-9         -1    TB LC1      LEO
-09/26  Kosmos 3M            Nadazhda M            -1    PL LC132    LEO
-10/07  STS/Atlantis   OV104 STS-112/ISS-9A(S1)    -1    KSC LC39B   LEO
-10/15  Soyuz-U              Foton M-1             -1    PL LC43/3  (FTO)(1)
-10/17  Proton-K/DM2         INTEGRAL (ESA)        -1    TB LC81/23  EEO
-10/27  CZ-4B          CZ4B5 ZiYuan-2              -1    TY          LEO/S
+09/26  Kosmos 3M        -1    Nadazhda M            -1    PL LC132    LEO
+10/07  STS/Atlantis   OV104  STS-112/ISS-9A(S1)    -1    KSC LC39B   LEO
+10/15  Soyuz-U          -1    Foton M-1             -1    PL LC43/3  (FTO)(1)
+10/17  Proton-K/DM2     -1    INTEGRAL (ESA)        -1    TB LC81/23  EEO
+10/27  CZ-4B          CZ4B5  ZiYuan-2              -1    TY          LEO/S
 10/30  Soyuz-FG       SFG4  Soyuz TMA-1           -1    TB LC1      LEO
-11/20  Delta 4M+(4,2) D4-1  Eutelsat W5           -1    CC SLC37B   GTO
-11/24  STS/Endeavour  OV105 STS-113/ISS-11A(P1)   -1    KSC LC39A   LEO
-11/25  Proton-K/DM3         Astra 1K (ILS-25)     -1    TB LC81/23 (LEO)(4)
-11/28  Kosmos 3M            AlSat-1/Mozhaets      -1    PL LC132/1  LEO/S
-12/05  Atlas 2A       AC144 TDRS-J(10)            -1    CC SLC36A   GTO
+11/20  Delta 4M+(4,2)  D4-1  Eutelsat W5           -1    CC SLC37B   GTO
+11/24  STS/Endeavour  OV105  STS-113/ISS-11A(P1)   -1    KSC LC39A   LEO
+11/25  Proton-K/DM3     -1    Astra 1K (ILS-25)     -1    TB LC81/23  (LEO)(4)
+11/28  Kosmos 3M        -1    AlSat-1/Mozhaets      -1    PL LC132/1  LEO/S
+12/05  Atlas 2A       AC144  TDRS-J(10)            -1    CC SLC36A   GTO
 12/11  Ariane 5-ECA   L517  HotBird 7/Stentor    -1     KO ELA3    (FTO)(1)
 12/14  H-2A/202       TF-4  ADEOS 2               -1    TA YO       LEO/S
-12/17  Ariane 44L     L4115 NSS-6                 -1    KO ELA2     GTO
-12/20  Dnepr 1              six microsats         -1    TB LC109    LEO
-12/24  Molniya-M            Kosmos 2393           -1    PL          EEO/M
-12/25  Proton-K/DM-2        Kosmos 2394-6(Glonas)  -1   TB LC81/23  MEO
-12/29  CZ-2F          CZ2F4 Shenzhou 4             -1   JQ          LEO 
-12/29  Proton-M/BrizM PM-2  Nimiq-2(ILS-26)       -1    TB LC81/24  GTO+
+12/17  Ariane 44L     L4115  NSS-6                 -1    KO ELA2     GTO
+12/20  Dnepr 1          -1    six microsats         -1    TB LC109    LEO
+12/24  Molniya-M        -1    Kosmos 2393           -1    PL          EEO/M
+12/25  Proton-K/DM-2    -1    Kosmos 2394-6(Glonas)  -1   TB LC81/23  MEO
+12/29  CZ-2F          CZ2F4  Shenzhou 4             -1   JQ          LEO
+12/29  Proton-M/BrizM  PM-2  Nimiq-2(ILS-26)       -1    TB LC81/24  GTO+
 ---------------------------------------------------------------------
