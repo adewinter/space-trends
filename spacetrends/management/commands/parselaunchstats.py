@@ -10,6 +10,95 @@ import pyperclip
 
 from spacetrends.models import Launch, Orbit, Site, Vehicle
 
+class OrbitCodesParser():
+    def __init__(self, stdout, style, filepath, filename, is_debug_mode):
+        self.stdout = stdout
+        self.style = style
+        self.filepath = filepath
+        self.filename = filename
+        self.is_debug_mode = is_debug_mode #Set to `True` when passed in --verbosity flag is greater than 1
+
+    def pprint(self, msg):
+        self.stdout.write(self.style.SUCCESS(msg))
+
+    def debug_print(self, msg):
+        if self.is_debug_mode:
+            self.pprint(msg)
+
+    def debug_pprint(self, msg):
+        self.debug_print(pprint.pformat(msg))
+
+    def parse_orbit_code_entry_from_line(self, line):
+        symbols = line.strip("\n").split(' = ')
+        return {
+            "code": symbols[0],
+            "name": symbols[1]
+        }
+
+    def update_orbit_code_db_with_entry(self, entry):
+        orbit, _ = Orbit.objects.get_or_create(code=entry["code"])
+        orbit.name = entry["name"]
+        orbit.save()
+
+    def parse(self):
+        with open(self.filepath, 'r') as orbit_codes_file:
+            orbit_code_lines = orbit_codes_file.readlines()
+
+        for orbit_code_line in orbit_code_lines:
+            orbit_code_entry = self.parse_orbit_code_entry_from_line(orbit_code_line)
+            
+            self.pprint(f"Parsing orbit: {orbit_code_line}")
+            self.debug_pprint(orbit_code_entry)
+            self.pprint("")
+
+            self.update_orbit_code_db_with_entry(orbit_code_entry)
+
+
+
+class SiteCodesParser():
+    def __init__(self, stdout, style, filepath, filename, is_debug_mode):
+        self.stdout = stdout
+        self.style = style
+        self.filepath = filepath
+        self.filename = filename
+        self.is_debug_mode = is_debug_mode #Set to `True` when passed in --verbosity flag is greater than 1
+
+    def pprint(self, msg):
+        self.stdout.write(self.style.SUCCESS(msg))
+
+    def debug_print(self, msg):
+        if self.is_debug_mode:
+            self.pprint(msg)
+
+    def debug_pprint(self, msg):
+        self.debug_print(pprint.pformat(msg))
+
+    def parse_site_code_entry_from_line(self, line):
+        symbols = line.strip("\n").split(' = ')
+        return {
+            "code": symbols[0],
+            "name": symbols[1]
+        }
+
+    def update_site_code_db_with_entry(self, entry):
+        site, _ = Site.objects.get_or_create(code=entry["code"])
+        site.name = entry["name"]
+        site.save()
+
+    def parse(self):
+        with open(self.filepath, 'r') as site_codes_file:
+            site_code_lines = site_codes_file.readlines()
+
+        for site_code_line in site_code_lines:
+            site_code_entry = self.parse_site_code_entry_from_line(site_code_line)
+            
+            self.pprint(f"Parsing site: {site_code_line}")
+            self.debug_pprint(site_code_entry)
+            self.pprint("")
+
+            self.update_site_code_db_with_entry(site_code_entry)
+
+
 class LaunchStatsParser():
     def __init__(self, stdout, style, filepath, filename, is_debug_mode):
         self.stdout = stdout
@@ -200,7 +289,7 @@ class LaunchStatsParser():
 
 
 
-    def parse_stats_file(self):
+    def parse(self):
         with open(self.filepath) as statsfile:
             self.debug_print(f"reading file: {statsfile}")
             statsfile_lines = statsfile.readlines()
@@ -246,18 +335,34 @@ class Command(BaseCommand):
         match = re.search(year_regex, filename)
         return bool(match)
 
+    def is_site_codes_file(self, filename):
+        return "SITE_CODES" in filename
+
+    def is_orbit_codes_file(self, filename):
+        return "ORBIT_CODES" in filename
+
     def set_verbosity(self, options):
         if options['verbosity'] > 1:
             self.pprint(f"Verbosity set to {options['verbosity']}. Enabling DEBUG output.")
             self.IS_DEBUG_MODE = True
 
     def parse_file(self, filepath, filename):
+        self.pprint(f"File name: {filename}, File path: {filepath}")
+        
         if self.is_launch_stats_file(filename):
-            self.pprint(f"File name: {filename}, File path: {filepath}")
+            self.debug_print(f"Parsing LAUNCH STATS file: {filename}")
             parser = LaunchStatsParser(self.stdout, self.style, filepath, filename, self.IS_DEBUG_MODE)
-            parser.parse_stats_file()
+        elif self.is_site_codes_file(filename):
+            self.debug_print(f"Parsing SITE_CODES file: {filename}")
+            parser = SiteCodesParser(self.stdout, self.style, filepath, filename, self.IS_DEBUG_MODE)
+        elif self.is_orbit_codes_file(filename):
+            self.debug_print(f"Parsing ORBIT_CODES file: {filename}")
+            parser = OrbitCodesParser(self.stdout, self.style, filepath, filename, self.IS_DEBUG_MODE)
         else:
             self.pprint(f"NOT SURE WHAT TO DO WITH THIS FILE: {filename}")
+            return False
+
+        parser.parse()
 
     def handle(self, *args, **options):
         self.set_verbosity(options)
