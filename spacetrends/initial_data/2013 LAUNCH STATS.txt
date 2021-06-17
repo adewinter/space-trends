@@ -240,32 +240,32 @@ Vehicle     Successes/Tries Realzd Pred  Consc. Last     Dates
 ================================================================ 
 Soyuz-FG          36    36   1.00  .97     36    None     2001-
 Soyuz-U          746   766x   .97  .97      9    8/24/11  1973-
-Ariane 5-ECA      41    42    .98  .95     41    12/11/02 2002-
+Ariane 5-ECA      41    42    .98  .95     41    12/11/02  2002-
 Atlas 5           41    42    .98  .95     32    6/15/07  2002-
 CZ-4(A/B/C)       34    35    .97  .95      0    12/9/13  1988-    
 CZ-2D             20    20   1.00  .95     20    None     1993-
 Delta 4M(+)       17    17   1.00  .95     17    None     2002-
-CZ-2(C)(/SD/SM)   39    41    .95  .93      5    08/18/11 1974- 
+CZ-2(C)(/SD/SM)   39    41    .95  .93      5    08/18/11  1974- 
 CZ-2F(T1)         11    11   1.00  .92     11    None     1999- 
 Minotaur 1        11    11   1.00  .92     11    None     2000- 
 Soyuz FG/Fregat   10    10   1.00  .92     10    None     2003-
 CZ-3B/3C          34    36    .94  .92     22    8/31/09  1996-
-H-2A              21    22    .95  .92     16    11/29/03 2001-
+H-2A              21    22    .95  .92     16    11/29/03  2001-
 Dnepr             18    19    .95  .90     12    7/26/06  1999-
-Proton-M/Briz-M   65    71    .92  .90      9    12/08/12 2001-
+Proton-M/Briz-M   65    71    .92  .90      9    12/08/12  2001-
 CZ-3/3A           33    36    .92  .89     23    8/18/96  1984-
 PSLV              23    25    .92  .89     21    9/29/97  1993-
-Rokot/Briz/K(M)   19    21    .90  .87      5    02/01/11 1994-  
+Rokot/Briz/K(M)   19    21    .90  .87      5    02/01/11  1994-  
 Soyuz 2-1a/Fregt  12    13#   .92  .87     10    5/21/09  2006-
 Zenit 3SL/DMSL    31    35    .89  .86      0    2/1/13   1999-
 Pegasus (H/XL)    37    42    .88  .86     28    11/4/96  1991-
-Soyuz 2-1b/Fregat 10    11    .91  .85      4    12/23/11 2006-
+Soyuz 2-1b/Fregat 10    11    .91  .85      4    12/23/11  2006-
 Ariane 5ES         4     4   1.00  .83      4    None     2008-
 H-2B               4     4   1.00  .83      4    None     2009-
 Soyuz-U/Fregat     4     4   1.00  .83      4    None     2000- 
 Minotaur 4/5       4     4++ 1.00  .83      4    None     2010-
 Soyuz 2-1b         3     3   1.00  .80      3    None     2008-
-Delta IV-H         6     7    .86  .78      6    12/21/04 2004-
+Delta IV-H         6     7    .86  .78      6    12/21/04  2004-
 Zenit 2(M/SB)     30    38    .78  .77      7    9/9/98   1985-
 Falcon 9 v1.1      2     2   1.00  .75      2    None     2013-
 Zenit 3F/FregatSB  2     2   1.00  .75      2    None     2011-
@@ -282,7 +282,7 @@ Shavit(-1,-2)      6     9    .67  .64      2    9/6/04   1988-
 Taurus (XL)        6     9    .67  .64      0    3/4/11   1994- 
 Safir              4     7    .57  .56(C)   0    9/2/12   2008-
 KSLV-1 (Angara)    1     3    .33  .40      1    6/10/10  2009-
-GSLV               2     7    .29  .33      0    12/25/10 2001-
+GSLV               2     7    .29  .33      0    12/25/10  2001-
 Volna              0     1    .00  .33      0    6/21/05  2005-
 Unha (TD-2)        1     4%   .25  .33      1    4/12/12  2006-
 Proton-M/DM-03     0     2    .00  .25      0    7/2/13   2010-
@@ -336,18 +336,18 @@ Atlas 2/2AS     63    63   1.00  .98     63    None     1991-2004
 Tsyklon 2      104   105    .99  .98     92    4/25/73  1967-2006
 Delta 2        149   151    .99  .98     96    1/17/97  1989-2011
 STS            132   135    .98  .97     22(A) 2/1/03   1981-2011 
-Ariane 4       113   116    .97  .97     74    12/11/94 1988-2003
+Ariane 4       113   116    .97  .97     74    12/11/94  1988-2003
 Titan 2         17    17#  1.00  .95     17    None     1964-2003   
-Kosmos 3M      423   446    .95  .95     22    11/20/00 1964-2010
+Kosmos 3M      423   446    .95  .95     22    11/20/00  1964-2010
 Molniya M      277   296    .94  .93      4    6/21/05  1963-2010
-Proton-K/DM-2M  40    42    .95  .93      7    11/25/02 1994-2006
-Tsyklon 3      114   122    .93  .93      1    12/24/04 1977-2009
-Proton-K/DM-2  101   109    .93  .92     15    10/27/99 1982-2012
+Proton-K/DM-2M  40    42    .95  .93      7    11/25/02  1994-2006
+Tsyklon 3      114   122    .93  .93      1    12/24/04  1977-2009
+Proton-K/DM-2  101   109    .93  .92     15    10/27/99  1982-2012
 Atlas 3(A/B)     6     6   1.00  .88      6    None     2000-2005
 Soyuz-U/Ikar     6     6   1.00  .88      6    None     1999-1999
 Proton-M/DM-2    6     6   1.00  .88      6    None     2007-2010
 Proton-K/17S40   6     6   1.00  .88      6    None     1997-2002
-Proton-K        26    29+   .90  .87      9    11/29/86 1968-2000  
+Proton-K        26    29+   .90  .87      9    11/29/86  1968-2000  
 Ariane 5G(+,S)  22    25    .88  .85     15    7/12/01  1996-2009
 Titan 4B        15    17    .88  .84     12    4/30/99  1997-2005 
 Titan 2(Star)    6     7%   .86  .78      6    10/5/93  1964-2003
@@ -385,87 +385,87 @@ Falcon 1         2     5    .40  .43      2    8/3/08   2006-2009
 
 DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*      ORBIT**
 -------------------------------------------------------------------------------------
-01/15/13 Rokot/Briz KM     018     Kosmos 2482-84 (Rodnik)  0.675  PL 133/3   LEO [1a]
-01/27/13 H-2A-202          F22     IGS Radar 4/Optical 5           TA Y1      LEO/S
-01/30/13 KSLV-1            No. 3   STSAT-2C                 0.1    NA         LEO
-01/31/13 Atlas 5-401       AV036?  TDRS-K                   3.454  CC 41      GTO+
-02/01/13 Zenit 3SL/DMSL    Z3SL48  Intelsat 27              6.215  PO OLP    [FTO][1]
-02/06/13 Soyuz 2-1a/Fregat 1799    ST26/6xGlobalstar        4.2    TB 31/6    LEO
-02/07/13 Ariane 5 ECA      VA212   Amazonas 3/Azerspace     9.265  KO 3       GTO
-02/11/13 Soyuz U           1800    Progress M-18M           7.2    TB 1/5     LEO/ISS 
-02/11/13 Atlas 5-401       AV035?  LCDM                     2.77   VA 3E      LEO/S
-02/25/13 PSLV-CA           C20     SARAL/Sapphire           0.676  SR FLP     LEO/S
-03/01/13 Falcon 9          F9-5    Dragon CRS-2                    CC 40      LEO/ISS
-03/19/13 Atlas 5-401       AV037?  SBIRS GEO-2              4.5?   CC 41      GTO
-03/26/13 Proton M/Briz M   p384    Satmex 8                 5.5    TB 200/39  GTO
-03/28/13 Soyuz FG          1801    Soyuz TMA-08M            7.2    TB 1/5     LEO/ISS
-04/15/13 Proton M/Briz M   p385    Anik G1                  4.9    TB 200/39  GTO
-04/19/13 Soyuz 2-1a        1802    BION-M1                  6.5    TB 31/6    LEO
-04/21/13 Antares 110         A1    Cygnus Mass Sim.         3.8    WI 0A      LEO [2]
-04/24/13 Soyuz U           1803    Progress M-19M           7.2    TB 1/5     LEO/ISS 
-04/26/13 CZ-2D              Y18    GaoFen 1                        JQ 43/603  LEO/S
-04/26/13 Soyuz 2-1b/Fregat 1804    Glonass M                1.415  PL 43/4    MEO
-05/01/13 CZ-3B/E            Y25    Chinasat 11                     XC 2       GTO
-05/07/13 Vega              VV02    ProbaV/VNREDSat1/ESTcube 0.255  KO ZLV     LEO/S
-05/14/13 Proton M/Briz M   p386    Eutelsat 3D              5.5    TB 200/39  GTO
-05/15/13 Atlas 5-401       AV039?  GPS 2F-4                 1.54   CC 41      MEO
-05/25/13 Delta 4M+5,4      D362?   WGS 5                    5.988  CC 37B     GTO+
-05/28/13 Soyuz FG          1805    Soyuz TMA-09M            7.2    TB 1/5     LEO/ISS
-06/03/13 Proton M/Briz M   p387    SES 6                    6.1    TB 200/39  GTO+
-06/05/13 Ariane 5ES        VA213   ATV-4                   19.89   KO 3       LEO/ISS
-06/07/13 Soyuz 2-1b        1806    Persona                  6.5    PL 43/4    LEO
-06/11/13 CZ-2F             CZ2F11  Shenzhou 10              7.7    JQ 43/921  LEO
-06/25/13 Soyuz 2-1b        1807    Resurs P1                6.58   TB 31/6    LEO
-06/25/13 Soyuz 2-1b/Fregat 1808    VS05/O3b F1              2.8    KO ELS     MEO
-06/27/13 Strela            002     Kondor                  ~1.0    TB 175/59  LEO
-06/28/13 Pegasus XL        P42     IRIS                     0.18   Va L1011   LEO/S
-07/01/13 PSLV-XL           C22     IRNSS-1A                 1.425  SR FLP     GTO
-07/02/13 Proton M/DM-03    p388    3xGlonass M              4.245  TB 81/24  [FTO][3]
-07/15/13 CZ-2C             CZ2C39  Shijian 11-05                   JQ 43/603  LEO/S
-07/19/13 Atlas 5-551       AV040?  MUOS 2                  ~6.80   CC 41      GTO+
-07/19/13 CZ-4C             CZ4C10  SH 15, SW 7, CX 3               TY 9       LEO/S
-07/25/13 Ariane 5 ECA      VA214   Alphasat XL/Insat 3D     8.77   KO 3       GTO
-07/27/13 Soyuz U           1809    Progress M-20M           7.2    TB 31/6    LEO/ISS
-08/03/13 H-2B              H2B4    HTV-4                   15.9    TA Y2      LEO/ISS
-08/08/13 Delta 4M+5,4      D363?   WGS 6                    5.988  CC 37B     GTO+
-08/22/13 Dnepr             018     Kompsat 5                1.40   DO 370/13  LEO/S
-08/28/13 Delta 4H          D364?   NROL 65                ~17.0 ?  VA 6       LEO/S
-08/29/13 Ariane 5 ECA      VA215   Eutelsat 25B/Gsat 7      8.96   KO 3       GTO
-08/31/13 Zenit 3SLB/DMSLB          Amos 4                   3.5    TB 45/1    GTO
-09/01/13 CZ-4C             CZ4C11  Yaogan Weixing 17               JQ 43/603  LEO
-09/07/13 Minotaur 5        MT5-1   LADEE                    0.38   WI 0B      EEO [4]
-09/11/13 Rokot/Briz KM     019     3xGonets-M               0.84   PL 133/3   LEO 
-09/14/13 Epsilon           01      Sprint A                 0.35   KA M5      LEO
-09/18/13 Atlas 5-531       AV041?  AEHF 3                   6.169  CC 41      GTO+
-09/18/13 Antares 110       A2      Cygnus ORB-D1            4.127  WI 0A      LEO/ISS
-09/23/13 CZ-4C             CZ4C12  Fengyun 3C               2.45   TY 9       LEO/S
-09/25/13 Kuaizhou                  Kuaizhou 1                      JQ         LEO/P [5]
-09/25/13 Soyuz FG          1810    Soyuz TMA-10M            7.2    TB 1/5     LEO/ISS
-09/29/13 Falcon 9 v1.1     F9-6    Cassiope/5Cubesats       0.6    VA 4E      LEO [6]
-09/29/13 Proton M/Briz M   P389    Astra 2E                 6.02   TB 200/39  GTO
-10/25/13 CZ-4B             CZ4B19  Shijian 16                      JQ 43/603  LEO
-10/25/13 Proton M/Briz M   P390    Sirius FM 6              6.00   TB 200/39  GTO
-10/29/13 CZ-2C             CZ2C40  Yaogan 18                       TY 9       LEO/S
-11/05/13 PSLV-XL           C25     Mars Orbiter Mission     1.337  SR FLP     EEO [7]
-11/07/13 Soyuz FG          1811    Soyuz TMA-11M            7.2    TB 1/5     LEO/ISS
-11/11/13 Proton M/Briz M   P391    Raduga 1M                2.3    TB 81/24   GTO+
-11/18/13 Atlas 5-401       AV038   MAVEN                    2.54   CC 41      HCO
-11/20/13 Minotaur 1        MT1-11  ORS 3                    0.40   WI 0B      LEO
-11/20/13 CZ-4C             CZ4C13  Yaogan 19               ~1.10   TY 9       LEO/S
-11/21/13 Dnepr             019     Multipayload                    DO 370/13  LEO/S
-11/22/13 Rokot/Briz KM     020     3xSwarm                  1.419  PL 133/3   LEO/S  
-11/25/13 CZ-2D             CZ2D20  SY 5                            JQ 43/603  LEO/S
-11/25/13 Soyuz U           1812    Progress M-21M           7.2    TB 31/6    LEO/ISS
-12/01/13 CZ-3B             CZ3B25  Chang'e 3                1.34   XC 2       EEO [8]
-12/03/13 Falcon 9 v1.1     F9-7    SES 8                    3.183  CC 40      GTO+[9]
-12/06/13 Atlas 5-501       AV042?  NROL 39                         VA 3E      LEO/R
-12/08/13 Proton M/Briz M   P392    Inmarsat 5 F1            6.10   TB 200/39  GTO+
-12/09/13 CZ-4B             CZ4B20  CBERS-3                  2.1    TY 9      [FTO][10]
-12/19/13 Soyuz 2.1b/Fregat 1813    VS06/Gaia                2.034  KO ELS     EEO 
-12/20/13 CZ-3B/E           CZ3B26  Tupac Katari             5.1    XC 2       GTO 
-12/25/13 Rokot/Briz KM     021     Kosmos 2488-90 (Rodnik)  0.675  PL 133/3   LEO
-12/26/13 Proton M/Briz M   P393    Express AM5              3.2    TB 81/24   GEO 
-12/28/13 Soyuz 2-1v/Volga  001     Aist                     0.2?   PL 43/4    LEO
+01/15/13  Rokot/Briz KM     018     Kosmos 2482-84 (Rodnik)  0.675  PL 133/3   LEO [1a]
+01/27/13  H-2A-202          F22     IGS Radar 4/Optical 5           TA Y1      LEO/S
+01/30/13  KSLV-1            No. 3   STSAT-2C                 0.1    NA         LEO
+01/31/13  Atlas 5-401       AV036?  TDRS-K                   3.454  CC 41      GTO+
+02/01/13  Zenit 3SL/DMSL    Z3SL48  Intelsat 27              6.215  PO OLP    [FTO][1]
+02/06/13  Soyuz 2-1a/Fregat 1799    ST26/6xGlobalstar        4.2    TB 31/6    LEO
+02/07/13  Ariane 5 ECA      VA212   Amazonas 3/Azerspace     9.265  KO 3       GTO
+02/11/13  Soyuz U           1800    Progress M-18M           7.2    TB 1/5     LEO/ISS 
+02/11/13  Atlas 5-401       AV035?  LCDM                     2.77   VA 3E      LEO/S
+02/25/13  PSLV-CA           C20     SARAL/Sapphire           0.676  SR FLP     LEO/S
+03/01/13  Falcon 9          F9-5    Dragon CRS-2                    CC 40      LEO/ISS
+03/19/13  Atlas 5-401       AV037?  SBIRS GEO-2              4.5?   CC 41      GTO
+03/26/13  Proton M/Briz M   p384    Satmex 8                 5.5    TB 200/39  GTO
+03/28/13  Soyuz FG          1801    Soyuz TMA-08M            7.2    TB 1/5     LEO/ISS
+04/15/13  Proton M/Briz M   p385    Anik G1                  4.9    TB 200/39  GTO
+04/19/13  Soyuz 2-1a        1802    BION-M1                  6.5    TB 31/6    LEO
+04/21/13  Antares 110         A1    Cygnus Mass Sim.         3.8    WI 0A      LEO [2]
+04/24/13  Soyuz U           1803    Progress M-19M           7.2    TB 1/5     LEO/ISS 
+04/26/13  CZ-2D              Y18    GaoFen 1                        JQ 43/603  LEO/S
+04/26/13  Soyuz 2-1b/Fregat 1804    Glonass M                1.415  PL 43/4    MEO
+05/01/13  CZ-3B/E            Y25    Chinasat 11                     XC 2       GTO
+05/07/13  Vega              VV02    ProbaV/VNREDSat1/ESTcube 0.255  KO ZLV     LEO/S
+05/14/13  Proton M/Briz M   p386    Eutelsat 3D              5.5    TB 200/39  GTO
+05/15/13  Atlas 5-401       AV039?  GPS 2F-4                 1.54   CC 41      MEO
+05/25/13  Delta 4M+5,4      D362?   WGS 5                    5.988  CC 37B     GTO+
+05/28/13  Soyuz FG          1805    Soyuz TMA-09M            7.2    TB 1/5     LEO/ISS
+06/03/13  Proton M/Briz M   p387    SES 6                    6.1    TB 200/39  GTO+
+06/05/13  Ariane 5ES        VA213   ATV-4                   19.89   KO 3       LEO/ISS
+06/07/13  Soyuz 2-1b        1806    Persona                  6.5    PL 43/4    LEO
+06/11/13  CZ-2F             CZ2F11  Shenzhou 10              7.7    JQ 43/921  LEO
+06/25/13  Soyuz 2-1b        1807    Resurs P1                6.58   TB 31/6    LEO
+06/25/13  Soyuz 2-1b/Fregat 1808    VS05/O3b F1              2.8    KO ELS     MEO
+06/27/13  Strela            002     Kondor                  ~1.0    TB 175/59  LEO
+06/28/13  Pegasus XL        P42     IRIS                     0.18   Va L1011   LEO/S
+07/01/13  PSLV-XL           C22     IRNSS-1A                 1.425  SR FLP     GTO
+07/02/13  Proton M/DM-03    p388    3xGlonass M              4.245  TB 81/24  [FTO][3]
+07/15/13  CZ-2C             CZ2C39  Shijian 11-05                   JQ 43/603  LEO/S
+07/19/13  Atlas 5-551       AV040?  MUOS 2                  ~6.80   CC 41      GTO+
+07/19/13  CZ-4C             CZ4C10  SH 15, SW 7, CX 3               TY 9       LEO/S
+07/25/13  Ariane 5 ECA      VA214   Alphasat XL/Insat 3D     8.77   KO 3       GTO
+07/27/13  Soyuz U           1809    Progress M-20M           7.2    TB 31/6    LEO/ISS
+08/03/13  H-2B              H2B4    HTV-4                   15.9    TA Y2      LEO/ISS
+08/08/13  Delta 4M+5,4      D363?   WGS 6                    5.988  CC 37B     GTO+
+08/22/13  Dnepr             018     Kompsat 5                1.40   DO 370/13  LEO/S
+08/28/13  Delta 4H          D364?   NROL 65                ~17.0 ?  VA 6       LEO/S
+08/29/13  Ariane 5 ECA      VA215   Eutelsat 25B/Gsat 7      8.96   KO 3       GTO
+08/31/13  Zenit 3SLB/DMSLB          Amos 4                   3.5    TB 45/1    GTO
+09/01/13  CZ-4C             CZ4C11  Yaogan Weixing 17               JQ 43/603  LEO
+09/07/13  Minotaur 5        MT5-1   LADEE                    0.38   WI 0B      EEO [4]
+09/11/13  Rokot/Briz KM     019     3xGonets-M               0.84   PL 133/3   LEO 
+09/14/13  Epsilon           01      Sprint A                 0.35   KA M5      LEO
+09/18/13  Atlas 5-531       AV041?  AEHF 3                   6.169  CC 41      GTO+
+09/18/13  Antares 110       A2      Cygnus ORB-D1            4.127  WI 0A      LEO/ISS
+09/23/13  CZ-4C             CZ4C12  Fengyun 3C               2.45   TY 9       LEO/S
+09/25/13  Kuaizhou                  Kuaizhou 1                      JQ         LEO/P [5]
+09/25/13  Soyuz FG          1810    Soyuz TMA-10M            7.2    TB 1/5     LEO/ISS
+09/29/13  Falcon 9 v1.1     F9-6    Cassiope/5Cubesats       0.6    VA 4E      LEO [6]
+09/29/13  Proton M/Briz M   P389    Astra 2E                 6.02   TB 200/39  GTO
+10/25/13  CZ-4B             CZ4B19  Shijian 16                      JQ 43/603  LEO
+10/25/13  Proton M/Briz M   P390    Sirius FM 6              6.00   TB 200/39  GTO
+10/29/13  CZ-2C             CZ2C40  Yaogan 18                       TY 9       LEO/S
+11/05/13  PSLV-XL           C25     Mars Orbiter Mission     1.337  SR FLP     EEO [7]
+11/07/13  Soyuz FG          1811    Soyuz TMA-11M            7.2    TB 1/5     LEO/ISS
+11/11/13  Proton M/Briz M   P391    Raduga 1M                2.3    TB 81/24   GTO+
+11/18/13  Atlas 5-401       AV038   MAVEN                    2.54   CC 41      HCO
+11/20/13  Minotaur 1        MT1-11  ORS 3                    0.40   WI 0B      LEO
+11/20/13  CZ-4C             CZ4C13  Yaogan 19               ~1.10   TY 9       LEO/S
+11/21/13  Dnepr             019     Multipayload                    DO 370/13  LEO/S
+11/22/13  Rokot/Briz KM     020     3xSwarm                  1.419  PL 133/3   LEO/S  
+11/25/13  CZ-2D             CZ2D20  SY 5                            JQ 43/603  LEO/S
+11/25/13  Soyuz U           1812    Progress M-21M           7.2    TB 31/6    LEO/ISS
+12/01/13  CZ-3B             CZ3B25  Chang'e 3                1.34   XC 2       EEO [8]
+12/03/13  Falcon 9 v1.1     F9-7    SES 8                    3.183  CC 40      GTO+[9]
+12/06/13  Atlas 5-501       AV042?  NROL 39                         VA 3E      LEO/R
+12/08/13  Proton M/Briz M   P392    Inmarsat 5 F1            6.10   TB 200/39  GTO+
+12/09/13  CZ-4B             CZ4B20  CBERS-3                  2.1    TY 9      [FTO][10]
+12/19/13  Soyuz 2.1b/Fregat 1813    VS06/Gaia                2.034  KO ELS     EEO 
+12/20/13  CZ-3B/E           CZ3B26  Tupac Katari             5.1    XC 2       GTO 
+12/25/13  Rokot/Briz KM     021     Kosmos 2488-90 (Rodnik)  0.675  PL 133/3   LEO
+12/26/13  Proton M/Briz M   P393    Express AM5              3.2    TB 81/24   GEO 
+12/28/13  Soyuz 2-1v/Volga  001     Aist                     0.2?   PL 43/4    LEO
 -------------------------------------------------------------------------------------
  [1a] Orbit good, but one sat failed and post-sep Briz-M deorbit burn failed.
  [1] RD-171M engine emergency cut off at 23 seconds.  Veered off course prior to 
@@ -496,22 +496,22 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*      OR
 
 DATE     VEHICLE            ID    PAYLOAD                MASS(t) SITE*    ORBIT**
 ------------------------------------------------------------------------------------
-01/26/13 OBV (GMD)          CTV01 Enhanced EKV                   VA LF23  SUB
-05/13/13 DF-31/KT-1 ASAT?         ASAT Test?                     XC       SUB
-05/22/13 Minuteman 3        GT207 ICBM Test                      VA LF04  SUB
-06/06/13 Rubezh (Frontier)  04    ICBM Test                      KY       SUB [1]
-07/05/13 GBI                FTG07 BGI Intercept Test             VA LF24  SUB [2]
-09/06/13 Bulava                   SLBM Test                      WH       SUB [3]
-09/22/13 Minuteman 3        GT209 ICBM Test                      VA LF10  SUB
-09/26/13 Minuteman 3        GT208 ICBM Test                      VA LF09  SUB
-10/10/13 Topol                    ICBM Test                      KY       SUB [4]
-10/30/13 Topol                    ICBM Test                      PL       SUB [5]
-10/30/13 R-36M2                   ICBM Test                      DO       SUB [5]
-10/30/13 R-29RM                   SLBM Test                      BA       SUB [6]
-10/30/13 R-29R                    SLBM Test                      OK       SUB [7]
-12/17/13 Minuteman 3        GT210 ICBM Test                      VA LF04  SUB
-12/24/13 RS-24/Yars               ICBM Test                      PL silo  SUB [8]
-12/27/13 Topol                    ICBM Test                      KY       SUB [9]
+01/26/13  OBV (GMD)          CTV01 Enhanced EKV                   VA LF23  SUB
+05/13/13  DF-31/KT-1 ASAT?         ASAT Test?                     XC       SUB
+05/22/13  Minuteman 3        GT207 ICBM Test                      VA LF04  SUB
+06/06/13  Rubezh (Frontier)  04    ICBM Test                      KY       SUB [1]
+07/05/13  GBI                FTG07 BGI Intercept Test             VA LF24  SUB [2]
+09/06/13  Bulava                   SLBM Test                      WH       SUB [3]
+09/22/13  Minuteman 3        GT209 ICBM Test                      VA LF10  SUB
+09/26/13  Minuteman 3        GT208 ICBM Test                      VA LF09  SUB
+10/10/13  Topol                    ICBM Test                      KY       SUB [4]
+10/30/13  Topol                    ICBM Test                      PL       SUB [5]
+10/30/13  R-36M2                   ICBM Test                      DO       SUB [5]
+10/30/13  R-29RM                   SLBM Test                      BA       SUB [6]
+10/30/13  R-29R                    SLBM Test                      OK       SUB [7]
+12/17/13  Minuteman 3        GT210 ICBM Test                      VA LF04  SUB
+12/24/13  RS-24/Yars               ICBM Test                      PL silo  SUB [8]
+12/27/13  Topol                    ICBM Test                      KY       SUB [9]
 ------------------------------------------------------------------------------------
 [1] New solid motor ICBM prototype.  17:45 UTC launch from mobile launcher at 
      Kapustin Yar to Sary-Shagan.  Believed a deep mod of Topol-M/Yars

@@ -253,12 +253,12 @@ Delta 2          150   152    .99  .98     97    1/17/97  1989-
 Soyuz-FG          40    40   1.00  .98     40    None     2001-
 Soyuz-U          750   770x   .97  .97     13    8/24/11  1973-
 Atlas 5           50    51    .98  .96     41    6/15/07  2002-
-Ariane 5-ECA      46    47    .98  .96     46    12/11/02 2002-    
+Ariane 5-ECA      46    47    .98  .96     46    12/11/02  2002-    
 CZ-2D             22    22   1.00  .96     22    None     1993-
 CZ-4(A/B/C)       41    42    .98  .95      7    12/9/13  1988-
 Delta 4M(+)       20    20   1.00  .95     20    None     2002-
-CZ-2(C)(/SD/SM)   43    45    .96  .94      9    08/18/11 1974-
-H-2A              25    26    .96  .93     20    11/29/03 2001- 
+CZ-2(C)(/SD/SM)   43    45    .96  .94      9    08/18/11  1974-
+H-2A              25    26    .96  .93     20    11/29/03  2001- 
 CZ-2F(T1)         11    11   1.00  .92     11    None     1999- 
 Minotaur 1        11    11   1.00  .92     11    None     2000-
 CZ-3B/3C          35    37    .95  .92     23    8/31/09  1996- 
@@ -267,34 +267,34 @@ Dnepr             20    21    .95  .91     14    7/26/06  1999-
 Falcon 9 v1.1      8     8   1.00  .90      8    None     2013-
 PSLV              26    28    .93  .90     24    9/29/97  1993-
 CZ-3/3A           34    37    .92  .90     24    8/18/96  1984- 
-Proton-M/Briz-M   71    79    .90  .89      2    10/21/14 2001-
+Proton-M/Briz-M   71    79    .90  .89      2    10/21/14  2001-
 Soyuz 2-1a/Fregat 14    15#   .93  .88     12    5/21/09  2006-
-Rokot/Briz/K(M)   21    23    .91  .88      7    02/01/11 1994-
+Rokot/Briz/K(M)   21    23    .91  .88      7    02/01/11  1994-
 Zenit 3SL/DMSL    32    36    .89  .87      1    2/1/13   1999-
 Pegasus (H/XL)    37    42    .88  .86     28    11/4/96  1991-
 Ariane 5ES         5     5   1.00  .86      5    None     2008-
 Soyuz 2-1b         5     5   1.00  .86      5    None     2008-
-Soyuz 2-1b/Fregat 16    18    .89  .85      2    08/22/14 2006- 
+Soyuz 2-1b/Fregat 16    18    .89  .85      2    08/22/14  2006- 
 H-2B               4     4   1.00  .83      4    None     2009-
 Soyuz-U/Fregat     4     4   1.00  .83      4    None     2000-
 Soyuz 2-1a         4     4#  1.00  .83      4    None     2004-
 Minotaur 4/5       4     4++ 1.00  .83      4    None     2010-
 Vega               3     3   1.00  .80      3    None     2012-
 Strela             3     3   1.00  .80      3    None     2003-
-Delta IV-H         7     8    .88  .80      7    12/21/04 2004-
+Delta IV-H         7     8    .88  .80      7    12/21/04  2004-
 Zenit 2(M/SB)     30    38    .78  .77      7    9/9/98   1985-
 Zenit 3F/FregatSB  2     2   1.00  .75      2    None     2011-
 Shtil'             2     2   1.00  .75      2    None     1998-
 Kuaizhou           2     2   1.00  .75      1    None     2013-
 Zenit 3SLB/DMSLB   5     6    .83  .75      5(B) 4/28/08  2008-
-Antares            4     5    .80  .71      0    10/28/14 2013-
+Antares            4     5    .80  .71      0    10/28/14  2013-
 Angara A5          1     1   1.00  .67      1    None     2014- 
 Soyuz 2-1v         1     1   1.00  .67      1    None     2013-
 Epsilon            1     1   1.00  .67      1    None     2013-
 Shavit(-1,-2)      7    10    .70  .67      3    9/6/04   1988-
 Taurus (XL)        6     9    .67  .64      0    3/4/11   1994- 
 Safir              4     7    .57  .56(C)   0    9/2/12   2008-
-GSLV               3     8    .38  .40      1    12/25/10 2001-
+GSLV               3     8    .38  .40      1    12/25/10  2001-
 Volna              0     1    .00  .33      0    6/21/05  2005-
 Unha (TD-2)        1     4%   .25  .33      1    4/12/12  2006-
 Proton-M/DM-03     0     2    .00  .25      0    7/2/13   2010-
@@ -347,18 +347,18 @@ Vehicle    Successes/Tries Realzd Pred  Consc. Last     Dates
 Atlas 2/2AS     63    63   1.00  .98     63    None     1991-2004
 Tsyklon 2      104   105    .99  .98     92    4/25/73  1967-2006
 STS            132   135    .98  .97     22(A) 2/1/03   1981-2011 
-Ariane 4       113   116    .97  .97     74    12/11/94 1988-2003
+Ariane 4       113   116    .97  .97     74    12/11/94  1988-2003
 Titan 2         17    17#  1.00  .95     17    None     1964-2003   
-Kosmos 3M      423   446    .95  .95     22    11/20/00 1964-2010
+Kosmos 3M      423   446    .95  .95     22    11/20/00  1964-2010
 Molniya M      277   296    .94  .93      4    6/21/05  1963-2010
-Proton-K/DM-2M  40    42    .95  .93      7    11/25/02 1994-2006
-Tsyklon 3      114   122    .93  .93      1    12/24/04 1977-2009
-Proton-K/DM-2  101   109    .93  .92     15    10/27/99 1982-2012
+Proton-K/DM-2M  40    42    .95  .93      7    11/25/02  1994-2006
+Tsyklon 3      114   122    .93  .93      1    12/24/04  1977-2009
+Proton-K/DM-2  101   109    .93  .92     15    10/27/99  1982-2012
 Atlas 3(A/B)     6     6   1.00  .88      6    None     2000-2005
 Soyuz-U/Ikar     6     6   1.00  .88      6    None     1999-1999
 Proton-M/DM-2    6     6   1.00  .88      6    None     2007-2010
 Proton-K/17S40   6     6   1.00  .88      6    None     1997-2002
-Proton-K        26    29+   .90  .87      9    11/29/86 1968-2000  
+Proton-K        26    29+   .90  .87      9    11/29/86  1968-2000  
 Ariane 5G(+,S)  22    25    .88  .85     15    7/12/01  1996-2009
 Titan 4B        15    17    .88  .84     12    4/30/99  1997-2005 
 Titan 2(Star)    6     7%   .86  .78      6    10/5/93  1964-2003
@@ -397,98 +397,98 @@ KSLV-1 (Angara)  1     3    .33  .40      1    6/10/10  2009-2013
 
 DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORBIT**
 -------------------------------------------------------------------------------------
-01/05/14 GSLV Mk.2         D5      GSAT 14                  1.98   SR SLP     GTO [1]
-01/06/14 Falcon 9 v1.1     F9-8    Thaicom 6                3.016  CC 40      GTO+
-01/09/14 Antares 120       A3      Cygnus/Orb 1             4.69   WI 0A      LEO/ISS
-01/24/14 Atlas 5-401       AV043   TDRS-L                   3.454  CC 41      GTO+
-02/05/14 Soyuz U           1814    Progress M-22M           7.2    TB 1/5     LEO/ISS
-02/06/14 Ariane 5 ECA      L572    VA217/ABS2/Athena-Fidus  9.41   KO 3       GTO
-02/14/14 Proton M/Briz M   93543   Turksat 4A               4.85   TB 81/24   GTO+
-02/21/14 Delta 4M+4,2      D365    GPS 2F-5                 1.63   CC 37B     MEO
-02/27/14 H-2A-202          F23     GPM Core Observatory     3.85   TA Y1      LEO
-03/15/14 Proton M/Briz M   93542   Express AT1/AT2          2.999  TB 81/24   GEO
-03/22/14 Ariane 5 ECA      L571    VA216/Astra 5B/Amaz. 4A  8.662  KO 3       GTO
-03/23/14 Soyuz 2-1b/Fregat 1815    Glonass M                1.415  PL 43/4    MEO
-03/25/14 Soyuz FG          1816    Soyuz TMA-12M            7.2    TB 1/5     LEO/ISS
-03/31/14 CZ-2C             CZ2C41  Shijian 11-06                   JQ 43/603  LEO/S
-04/03/14 Atlas 5-401       AV044   DMSP F19                 1.2    VA 3E      LEO/S
-04/03/14 Soyuz 2-1a/Fregat VS07    Sentinal 1A              2.3    KO ELS     LEO/S
-04/04/14 PSLV-XL           C24     IRNSS 1B                 1.432  SR FLP     GTO-[2]
-04/09/14 Soyuz U           1818    Progress M-23M           7.2    TB 1/5     LEO/ISS
-04/09/14 Shavit 2          10      Ofek 10                         PA         LEO/r
-04/10/14 Atlas 5-541       AV045   NRO L-67                        CC 41      GEO?
-04/16/14 Soyuz U           1819    Egyptsat 2               1.05   TB 31/6    LEO
-04/18/14 Falcon 9 v1.1     F9-9    CRS-3 Dragon            ~8.6    CC 40      LEO/ISS[3]
-04/28/14 Proton M/Briz M   93546   Luch 5v/Kazsat 3        ~2.85   TB 81/24   GEO
-04/30/14 Vega              VV03    DZZ-HR                   0.83   KO ZLV     LEO/S
-05/06/14 Soyuz 2-1a        1820    Kobalt-M                 6.7    PL 43/4    LEO
-05/15/14 Proton M/Briz M   93545   Ekspress AM4R            4.775  TB 200/39 [FTO][4]
-05/17/14 Delta 4M+4,2      D366    GPS 2F-6                 1.630  CC 37B     MEO
-05/22/14 Atlas 5-401       AV046   NROL-33                         CC 41      GTO?
-05/23/14 Rokot/Briz KM     22      Kosmos 2496-98 (Rodnik)  0.675  PL 133/3   LEO
-05/24/14 H-2A-202          F24     ALOS 2 + 4usats          2.275  TA Y1      LEO/S
-05/26/14 Zenit 3SL/DMSL            Eutelsat 3B              5.967  PO OLP     GTO
-05/28/14 Soyuz FG          1821    Soyuz TMA-13M            7.121  TB 1/5     LEO/ISS
-06/14/14 Soyuz 2-1b/Fregat 1822    Glonass M                1.415  PL 43/4    MEO
-06/19/14 Dnepr                     Deimos 2 (37usats)              DO 370/13  LEO/S
-06/30/14 PSLV-CA           C23     SPOT 7 (+4usats)         0.765  SR FLP     LEO/S
-07/02/14 Delta 2           D367    OCO 2                    0.453  V 2W       LEO/S
-07/03/14 Rokot/Briz KM     23      3xGonet 3M               0.846  PL 133/3   LEO
-07/08/14 Soyuz 2-1b/Fregat 1823    Meteor M2 +6usats        3.332  TB 31/6    LEO/S
-07/10/14 Soyuz 2-1b/Fregat 1824    VS08/O3bF2               2.8    KO ELS     MEO
-07/13/14 Antares 120       A4      Cygnus/Orb-2             4.923  WI 0A      LEO/ISS
-07/14/14 Falcon 9 v1.1     F9-10   Orbcomm OG2 (6sats)      1.032  CC 40      LEO [5]
-07/18/14 Soyuz 2-1a        1825    Foton M4                 6.84   TB 31/6    LEO
-07/23/14 Soyuz U           1826    Progress M-24M           7.2    TB 1/5     LEO/ISS
-07/28/14 Delta 4M+4,2      D368    2xGSSAP/ANGELS                  CC 37B     GEO?
-07/29/14 Ariane 5ES        L593    VA219/ATV 5             19.926  KO 3       LEO/ISS
-08/02/14 Atlas 5-401       AV048   GPS 2F7                  1.63   CC 41      MEO
-08/05/14 Falcon 9v1.1      F9-11   Asiasat 8                4.535  CC 40      GTO
-08/09/14 CZ-4C             Y14     Yaogan 20                       JQ 43/603  LEO [5a]
-08/13/14 Atlas 5-401       AV047   Worldview 3              2.812  VA 3E      LEO/S
-08/19/14 CZ-4B             Y27     Gaofen 2/BRITE-PL-2     ~2      TY 9       LEO/S
-08/22/14 Soyuz 2-1b/Fregat VS09    2xGalileo FOC-1          1.466  KO ELS    [EEO][6]
-09/04/14 CZ-2D                     CX 1-04/Ling Qiao               JQ 43/603  LEO/S
-09/07/14 Falcon 9 v1.1     F9-12   Asiasat 6                4.428  CC 40      GTO
-09/08/14 CZ-4B             Y28     Yaogan 21/Tiantuo 2             TY 9       LEO/S
-09/11/14 Ariane 5 ECA      L573    VA218/Measat 3b/Optus 10 9.157  KO 3       GTO
-09/17/14 Atlas 5-401       AV049   CLIO                            CC 41      GTO+
-09/21/14 Falcon 9 v1.1     F9-13   CRS-4 Dragon            ~8.6    CC 40      LEO/ISS
-09/25/14 Soyuz FG          1828    Soyuz TMA-14M            7.25   TB 1/5     LEO/ISS
-09/27/14 Proton M/Briz M   p398    Olymp-K/Luch            ~3      TB 81/24   GEO
-09/28/14 CZ-2C             Y31     Shijian 11-07           ~1      JQ 43/603  LEO/S
-10/07/14 H-2A-202          F25     Himawari 8               3.5    TA Y1      GTO
-10/15/14 PSLV-XL           C26     IRNSS 1C                 1.425  SR FLP     MTO
-10/16/14 Ariane 5 ECA      L574    VA220/Intlsat30/Arsat 1  9.293  KO 3       GTO
-10/20/14 CZ-4C                     Yaogan 22               ~2      TY 9       LEO/S
-10/21/14 Proton M/Briz M   93548   Express AM6              3.358  TB 81/24  [GEO-][7] 
-10/23/14 CZ-3CE                    Chang'e-5-T1                    XC 2       EEO [8]
-10/27/14 CZ-2C                     Shijian 11-08           ~1      JQ 43/603  LEO/S
-10/28/14 Antares 130       A5      Cygnus/Orb-3             5.644  WI 0A     [FTO][9]
-10/29/14 Soyuz 2-1A        1829    Progress M-25M           7.29   TB 31/6    LEO/ISS
-10/29/14 Atlas 5-401       AV050   GPS 2F-8                 1.63   CC 41      MEO
-10/30/14 Soyuz 2-1A/Fregat 1830    Meridian 17L            ~2.0    PL 43/4    EEO/M
-11/06/14 Dnepr                     ASNARO 1                 0.708  DO 370/13  LEO/S
-11/14/14 CZ-2C                     Yaogan 23               ~1      TY 9       LEO/S
-11/20/14 CZ-2D             CZ2D22  Yaogan 24               ~1      JQ 43/603  LEO/S
-11/21/14 Kuaizhou          KZ2     Kuaizhou 2                      JQ         LEO/S
-11/23/14 Soyuz FG          1831    Soyuz TMA 15M            7.2    TB 31/6    LEO/ISS
-11/30/14 Soyuz 2-1b/Fregat 1832    Glonass K                0.935  PL 43/4    MEO
-12/03/14 H-2A-202          F26     Hayabusa 2               0.71   TA Y1      HCO [10]
-12/05/14 Delta 4 Heavy     D369    EFT-1 (Orion)          ~12.0    CC 37B     EEO [11]
-12/06/14 Ariane 5 ECA      VA221   DirecTV 14/GSAT 16       9.48   KO 3       GTO
-12/07/14 CZ-4B             Y32     CBERS 4                  1.98   TY 9       LEO/S
-12/10/14 CZ-4C                     Yaogan 25                       JQ 43/603  LEO [5a]
-12/13/14 Atlas 5-541       AV051   NROL 35                         VA 3E      EEO/M
-12/15/14 Proton M/Briz M   93550   Yamal 401                2.976  TB 81/24   GEO [12]
-12/18/14 Soyuz 2-1b/Fregat VS10    4xO3b (F3)               2.80   KO ELS     MEO
-12/19/14 Strela            003     Kondor-E                 1.15   TB 175/59  LEO
-12/23/14 Angara A5/Briz M  A5-1    GVM Test Flight          2.0    PL 35/1    GEO [13]
-12/25/14 Soyuz 2-1b        1834    Lotos-S                  6.0    PL 43/4    LEO
-12/26/14 Soyuz 2-1b        1835    Resurs P 2               6.392  TB 31/6    LEO/S
-12/27/14 CZ-4B                     Yaogan 26               ~2.0    TY 9       LEO/S
-12/27/14 Proton M/Briz M   93549   Astra 2G                 6.02   TB 200/39  GTO
-12/31/14 CZ-3A             Y24     FY 2G                   ~1.4    XC 2       GTO
+01/05/14  GSLV Mk.2         D5      GSAT 14                  1.98   SR SLP     GTO [1]
+01/06/14  Falcon 9 v1.1     F9-8    Thaicom 6                3.016  CC 40      GTO+
+01/09/14  Antares 120       A3      Cygnus/Orb 1             4.69   WI 0A      LEO/ISS
+01/24/14  Atlas 5-401       AV043   TDRS-L                   3.454  CC 41      GTO+
+02/05/14  Soyuz U           1814    Progress M-22M           7.2    TB 1/5     LEO/ISS
+02/06/14  Ariane 5 ECA      L572    VA217/ABS2/Athena-Fidus  9.41   KO 3       GTO
+02/14/14  Proton M/Briz M   93543   Turksat 4A               4.85   TB 81/24   GTO+
+02/21/14  Delta 4M+4,2      D365    GPS 2F-5                 1.63   CC 37B     MEO
+02/27/14  H-2A-202          F23     GPM Core Observatory     3.85   TA Y1      LEO
+03/15/14  Proton M/Briz M   93542   Express AT1/AT2          2.999  TB 81/24   GEO
+03/22/14  Ariane 5 ECA      L571    VA216/Astra 5B/Amaz. 4A  8.662  KO 3       GTO
+03/23/14  Soyuz 2-1b/Fregat 1815    Glonass M                1.415  PL 43/4    MEO
+03/25/14  Soyuz FG          1816    Soyuz TMA-12M            7.2    TB 1/5     LEO/ISS
+03/31/14  CZ-2C             CZ2C41  Shijian 11-06                   JQ 43/603  LEO/S
+04/03/14  Atlas 5-401       AV044   DMSP F19                 1.2    VA 3E      LEO/S
+04/03/14  Soyuz 2-1a/Fregat VS07    Sentinal 1A              2.3    KO ELS     LEO/S
+04/04/14  PSLV-XL           C24     IRNSS 1B                 1.432  SR FLP     GTO-[2]
+04/09/14  Soyuz U           1818    Progress M-23M           7.2    TB 1/5     LEO/ISS
+04/09/14  Shavit 2          10      Ofek 10                         PA         LEO/r
+04/10/14  Atlas 5-541       AV045   NRO L-67                        CC 41      GEO?
+04/16/14  Soyuz U           1819    Egyptsat 2               1.05   TB 31/6    LEO
+04/18/14  Falcon 9 v1.1     F9-9    CRS-3 Dragon            ~8.6    CC 40      LEO/ISS[3]
+04/28/14  Proton M/Briz M   93546   Luch 5v/Kazsat 3        ~2.85   TB 81/24   GEO
+04/30/14  Vega              VV03    DZZ-HR                   0.83   KO ZLV     LEO/S
+05/06/14  Soyuz 2-1a        1820    Kobalt-M                 6.7    PL 43/4    LEO
+05/15/14  Proton M/Briz M   93545   Ekspress AM4R            4.775  TB 200/39 [FTO][4]
+05/17/14  Delta 4M+4,2      D366    GPS 2F-6                 1.630  CC 37B     MEO
+05/22/14  Atlas 5-401       AV046   NROL-33                         CC 41      GTO?
+05/23/14  Rokot/Briz KM     22      Kosmos 2496-98 (Rodnik)  0.675  PL 133/3   LEO
+05/24/14  H-2A-202          F24     ALOS 2 + 4usats          2.275  TA Y1      LEO/S
+05/26/14  Zenit 3SL/DMSL            Eutelsat 3B              5.967  PO OLP     GTO
+05/28/14  Soyuz FG          1821    Soyuz TMA-13M            7.121  TB 1/5     LEO/ISS
+06/14/14  Soyuz 2-1b/Fregat 1822    Glonass M                1.415  PL 43/4    MEO
+06/19/14  Dnepr                     Deimos 2 (37usats)              DO 370/13  LEO/S
+06/30/14  PSLV-CA           C23     SPOT 7 (+4usats)         0.765  SR FLP     LEO/S
+07/02/14  Delta 2           D367    OCO 2                    0.453  V 2W       LEO/S
+07/03/14  Rokot/Briz KM     23      3xGonet 3M               0.846  PL 133/3   LEO
+07/08/14  Soyuz 2-1b/Fregat 1823    Meteor M2 +6usats        3.332  TB 31/6    LEO/S
+07/10/14  Soyuz 2-1b/Fregat 1824    VS08/O3bF2               2.8    KO ELS     MEO
+07/13/14  Antares 120       A4      Cygnus/Orb-2             4.923  WI 0A      LEO/ISS
+07/14/14  Falcon 9 v1.1     F9-10   Orbcomm OG2 (6sats)      1.032  CC 40      LEO [5]
+07/18/14  Soyuz 2-1a        1825    Foton M4                 6.84   TB 31/6    LEO
+07/23/14  Soyuz U           1826    Progress M-24M           7.2    TB 1/5     LEO/ISS
+07/28/14  Delta 4M+4,2      D368    2xGSSAP/ANGELS                  CC 37B     GEO?
+07/29/14  Ariane 5ES        L593    VA219/ATV 5             19.926  KO 3       LEO/ISS
+08/02/14  Atlas 5-401       AV048   GPS 2F7                  1.63   CC 41      MEO
+08/05/14  Falcon 9v1.1      F9-11   Asiasat 8                4.535  CC 40      GTO
+08/09/14  CZ-4C             Y14     Yaogan 20                       JQ 43/603  LEO [5a]
+08/13/14  Atlas 5-401       AV047   Worldview 3              2.812  VA 3E      LEO/S
+08/19/14  CZ-4B             Y27     Gaofen 2/BRITE-PL-2     ~2      TY 9       LEO/S
+08/22/14  Soyuz 2-1b/Fregat VS09    2xGalileo FOC-1          1.466  KO ELS    [EEO][6]
+09/04/14  CZ-2D                     CX 1-04/Ling Qiao               JQ 43/603  LEO/S
+09/07/14  Falcon 9 v1.1     F9-12   Asiasat 6                4.428  CC 40      GTO
+09/08/14  CZ-4B             Y28     Yaogan 21/Tiantuo 2             TY 9       LEO/S
+09/11/14  Ariane 5 ECA      L573    VA218/Measat 3b/Optus 10 9.157  KO 3       GTO
+09/17/14  Atlas 5-401       AV049   CLIO                            CC 41      GTO+
+09/21/14  Falcon 9 v1.1     F9-13   CRS-4 Dragon            ~8.6    CC 40      LEO/ISS
+09/25/14  Soyuz FG          1828    Soyuz TMA-14M            7.25   TB 1/5     LEO/ISS
+09/27/14  Proton M/Briz M   p398    Olymp-K/Luch            ~3      TB 81/24   GEO
+09/28/14  CZ-2C             Y31     Shijian 11-07           ~1      JQ 43/603  LEO/S
+10/07/14  H-2A-202          F25     Himawari 8               3.5    TA Y1      GTO
+10/15/14  PSLV-XL           C26     IRNSS 1C                 1.425  SR FLP     MTO
+10/16/14  Ariane 5 ECA      L574    VA220/Intlsat30/Arsat 1  9.293  KO 3       GTO
+10/20/14  CZ-4C                     Yaogan 22               ~2      TY 9       LEO/S
+10/21/14  Proton M/Briz M   93548   Express AM6              3.358  TB 81/24  [GEO-][7] 
+10/23/14  CZ-3CE                    Chang'e-5-T1                    XC 2       EEO [8]
+10/27/14  CZ-2C                     Shijian 11-08           ~1      JQ 43/603  LEO/S
+10/28/14  Antares 130       A5      Cygnus/Orb-3             5.644  WI 0A     [FTO][9]
+10/29/14  Soyuz 2-1A        1829    Progress M-25M           7.29   TB 31/6    LEO/ISS
+10/29/14  Atlas 5-401       AV050   GPS 2F-8                 1.63   CC 41      MEO
+10/30/14  Soyuz 2-1A/Fregat 1830    Meridian 17L            ~2.0    PL 43/4    EEO/M
+11/06/14  Dnepr                     ASNARO 1                 0.708  DO 370/13  LEO/S
+11/14/14  CZ-2C                     Yaogan 23               ~1      TY 9       LEO/S
+11/20/14  CZ-2D             CZ2D22  Yaogan 24               ~1      JQ 43/603  LEO/S
+11/21/14  Kuaizhou          KZ2     Kuaizhou 2                      JQ         LEO/S
+11/23/14  Soyuz FG          1831    Soyuz TMA 15M            7.2    TB 31/6    LEO/ISS
+11/30/14  Soyuz 2-1b/Fregat 1832    Glonass K                0.935  PL 43/4    MEO
+12/03/14  H-2A-202          F26     Hayabusa 2               0.71   TA Y1      HCO [10]
+12/05/14  Delta 4 Heavy     D369    EFT-1 (Orion)          ~12.0    CC 37B     EEO [11]
+12/06/14  Ariane 5 ECA      VA221   DirecTV 14/GSAT 16       9.48   KO 3       GTO
+12/07/14  CZ-4B             Y32     CBERS 4                  1.98   TY 9       LEO/S
+12/10/14  CZ-4C                     Yaogan 25                       JQ 43/603  LEO [5a]
+12/13/14  Atlas 5-541       AV051   NROL 35                         VA 3E      EEO/M
+12/15/14  Proton M/Briz M   93550   Yamal 401                2.976  TB 81/24   GEO [12]
+12/18/14  Soyuz 2-1b/Fregat VS10    4xO3b (F3)               2.80   KO ELS     MEO
+12/19/14  Strela            003     Kondor-E                 1.15   TB 175/59  LEO
+12/23/14  Angara A5/Briz M  A5-1    GVM Test Flight          2.0    PL 35/1    GEO [13]
+12/25/14  Soyuz 2-1b        1834    Lotos-S                  6.0    PL 43/4    LEO
+12/26/14  Soyuz 2-1b        1835    Resurs P 2               6.392  TB 31/6    LEO/S
+12/27/14  CZ-4B                     Yaogan 26               ~2.0    TY 9       LEO/S
+12/27/14  Proton M/Briz M   93549   Astra 2G                 6.02   TB 200/39  GTO
+12/31/14  CZ-3A             Y24     FY 2G                   ~1.4    XC 2       GTO
 -------------------------------------------------------------------------------------
 [1] ISRO's first indiginous cryo upper stage success.
 [2] To planned subsynchronous transfer orbit.
@@ -522,26 +522,26 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORB
 
 DATE     VEHICLE          ID      PAYLOAD                MASS(t) SITE*    ORBIT**
 -----------------------------------------------------------------------------------
-01/09/14 CZ-2C/DF-4?              Wu-14 Suborb hypersonic test   TY       SUB [0]
-03/04/14 Topol-E                  ICBM Test                      KY       SUB [1]
-04/14/14 RS-24 Yars               ICBM Test                      PL       SUB [2]
-05/08/14 Topol                    ICBM Test                      PL       SUB [3]
-05/08/14 R-29RM                   SLBM Test                      BA       SUB [4]
-05/08/14 R-29R                    SLBM Test                      OK       SUB [5]
-05/20/14 Topol-E                  ICBM Test                      KY       SUB [1]
-06/22/14 GBI              FTG06b  BGI Intercept Test             VA xx    SUB [6]
-07/09/14 Angara 1.2PP             Suborbital Test to Kura        PL 35/1  SUB [7]
-08/07/14 CZ-2C/DF-4?              Wu-14 Suborb hypersonic test   TY      [FSO][8]
-09/10/14 Bulava                   SLBM Test                      WH       SUB [9]
-09/23/14 Minuteman 3      GT211GM ICBM Test                      VA LF09  SUB [10]
-10/29/14 Bulava                   SLBM Test                      BA       SUB [11]
-11/01/14 Topol-M                  ICBM Test                      PL       SUB [12]
-11/11/14 Topol-E                  ICBM Test                      KY      [FSO]
-11/05/14 R-29RM                   SLBM Test                      BA       SUB [4]
-11/28/14 Bulava                   SLBM Test                      BA       SUB [11]
-12/04/14 CZ-2C/DF-4?              Wu-14 Suborb hypersonic test   TY       SUB [13]
-12/18/14 LVM3(GSLV Mk3)   X1      CARE/Test                      SR 2     SUB [14]
-12/26/14 RS-24 Yars               ICBM Test                      PL       SUB [2]
+01/09/14  CZ-2C/DF-4?              Wu-14 Suborb hypersonic test   TY       SUB [0]
+03/04/14  Topol-E                  ICBM Test                      KY       SUB [1]
+04/14/14  RS-24 Yars               ICBM Test                      PL       SUB [2]
+05/08/14  Topol                    ICBM Test                      PL       SUB [3]
+05/08/14  R-29RM                   SLBM Test                      BA       SUB [4]
+05/08/14  R-29R                    SLBM Test                      OK       SUB [5]
+05/20/14  Topol-E                  ICBM Test                      KY       SUB [1]
+06/22/14  GBI              FTG06b  BGI Intercept Test             VA xx    SUB [6]
+07/09/14  Angara 1.2PP             Suborbital Test to Kura        PL 35/1  SUB [7]
+08/07/14  CZ-2C/DF-4?              Wu-14 Suborb hypersonic test   TY      [FSO][8]
+09/10/14  Bulava                   SLBM Test                      WH       SUB [9]
+09/23/14  Minuteman 3      GT211GM ICBM Test                      VA LF09  SUB [10]
+10/29/14  Bulava                   SLBM Test                      BA       SUB [11]
+11/01/14  Topol-M                  ICBM Test                      PL       SUB [12]
+11/11/14  Topol-E                  ICBM Test                      KY      [FSO]
+11/05/14  R-29RM                   SLBM Test                      BA       SUB [4]
+11/28/14  Bulava                   SLBM Test                      BA       SUB [11]
+12/04/14  CZ-2C/DF-4?              Wu-14 Suborb hypersonic test   TY       SUB [13]
+12/18/14  LVM3(GSLV Mk3)   X1      CARE/Test                      SR 2     SUB [14]
+12/26/14  RS-24 Yars               ICBM Test                      PL       SUB [2]
 -----------------------------------------------------------------------------------
 [0] China's first test of Mach 10 hypersonic glide vehicle.  Launched west from TY.       
 [1] Kapustin Yar to Sary-Shagan. Enlarged warhead section.   

@@ -515,108 +515,108 @@ VLS-1            0/2    0.33  0.00-0.71   0(E)12/11/99 1997-1999
 
 DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORBIT**
 -------------------------------------------------------------------------------------
-01/10/19 CZ-3B/E           Y56     Chinasat 2D            ~5.2     XC 2      GTO
-01/11/19 Falcon 9 v1.2     F9-68   Iridium NEXT 8          8.6     VA 4E     LEO [1]
-01/15/19 Simorgh           003     Payam                           SE 2     [FTO][2]
-01/18/19 Enhanced Epsilon  E-04    RAPIS+usats             0.386   KA M5     LEO/S
-01/19/19 Delta 4H          D382    NROL 71                         VA 6      LEO
-01/21/19 CZ-11             Y6      Jilin-1 9/10                    JQ CZ11   LEO/S
-01/24/19 PSLV-DL           C44     Microsat R              0.75    SR 1      LEO/S
-02/05/19 Ariane 5 ECA      VA247   Hellasat 4/GSAT 31      9.031   KO 3      GTO
-02/05/19 Safir                     Dousti                          SE       [FTO][3]
-02/21/19 Soyuz 2.1b/Fregat         EgyptSat A              1.05    TB 31/6   LEO/S
-02/22/19 Falcon 9 v1.2     F9-70   Nusantara Satu+usats    4.85    CC 40     GTO+[4] 
-02/27/19 Soyuz 2-1b/Fregat VS21    OneWeb F6               0.886   KO ELS    LEO
-03/02/19 Falcon 9 v1.2     F9-69   DM-1/Crew Dragon      ~12.5     KC 39A    LEO/ISS
-03/09/19 CZ-3B/E           Y54     Chinasat 6C            ~5.2     XC 3      GTO
-03/14/19 Soyuz FG                  Soyuz MS-12            ~7.2     TB 1/5    LEO/ISS
-03/16/19 Delta 4M+5,4      D383    WGS 10                  5.987   CC 37B    GTO+
-03/22/19 Vega              VV14    PRISMA                  0.879   KO ZLV    LEO/S
-03/27/19 OS-M              01      Lingque 1B                      JQ TLE2  [FTO][5]
-03/28/19 Electron/Curie    05      R3D2                    0.150   MA 1      LEO
-03/31/19 CZ-3B/E                   Tianlian 2-1           ~5.2     XC 2      GTO 
-04/01/19 PSLV-QL           C45     EMISat+usats            0.64    SR 2      LEO/S
-04/04/19 Soyuz 2-1a                Progress MS-11         ~7.28    TB 31/6   LEO/ISS 
-04/04/19 Soyuz 2-1b/Fregat VS22    O3b F5                  2.8     KO ELS    MEO
-04/11/19 Falcon Heavy      FH-2    Arabsat 6A              6.465   KC 39A    GTO+[6]
-04/17/19 Antares 230       A10     Cygnus NG-11           ~7.3     WI 0A     LEO/ISS
-04/20/19 CZ-3B/E                   Beidou 3I2             ~4.6     XC 3      GTO [7]
-04/29/19 CZ-4B                     Tianhui-2 01 A/B                TY 9      LEO/S
-05/04/19 Falcon 9 v1.2     F9-71   CRS-17/Dragon 13.2     ~8.0     CC 40     LEO/ISS[8]
-05/05/19 Electron/Curie    06      STP 27RD                0.18    MA 1      LEO
-05/17/19 CZ-3C/E           Y16     Beidou 2 GEO-8         ~3.8     XC 2      GTO
-05/21/19 PSLV-CA           C46     RISAT 2B                0.615   SR 1      LEO
-05/22/19 CZ-4C             Y23     Yaogan Weixing 33               TY 9     [FTO][9]
-05/24/19 Falcon 9 v1.2     F9-72   Starlink 0.9 (60 sat)  13.608   CC 40     LEO[10]
-05/27/19 Soyuz 2-1b/Fregat 1899    Glonass M 49            1.415   PL 43/4   MEO
-05/30/19 Proton M/Briz M   93569   Yamal 601               5.4     TB 200/39 GTO+
-06/05/19 CZ-11             Y7      7 usats                         YL        LEO [11]
-06/12/19 Falcon 9 v1.2     F9-73   RCM                     4.29    VA 4E     LEO/S[12]
-06/20/19 Ariane 5 ECA      VA248   T-16/Eutelsat 7C        9.735   KO 3      GTO
-06/24/19 CZ-3B/E           Y60     Beidou 3I2             ~4.6     XC 3      GTO [7]
-06/25/19 Falcon Heavy      FH-3    STP-2                  ~2.94    KC 39A    EEO [13]
-06/29/19 Electron/Curie    07      Spaceflight Rideshare   0.080   MA 1      LEO
-07/05/19 Soyuz 2-1b/Fregat 1900    Meteor M2-2 +usats      2.75    VO 1S     LEO/S
-07/10/19 Soyuz 2.1v/Volga  05      Kosmos 2535-38                  PL 43/4   LEO/S
-07/11/19 Vega              VV15    Falcon Eye 1            1.197   KO ELZ   [FTO][14]
-07/13/19 Proton M/DM-03            Spektr-RG               2.713   TB 81/24  EEO [15]
-07/20/19 Soyuz FG          1901    Soyuz MS-13            ~7.2     TB 1/5    LEO/ISS
-07/22/19 GSLV Mk3          M1      Chandrayaan 2           3.877   SR 2      EEO [16]
-07/25/19 SQX-1             Y1      Multiple sats                   JQ        LEO
-07/25/19 Falcon 9 v1.2     F9-74   CRS-18/Dragon 8.3      ~7.831   CC 40     LEO/ISS[17]
-07/26/19 CZ-2C             Y37     Yaogan 30-05                    XC 3      LEO
-07/30/19 Soyuz 2-1a/Fregat 1902    Meridian 18L           ~2.0     PL 43/4   EEO/M
-07/31/19 Soyuz 2-1a        1903    Progress MS-12         ~7.2     TB 31/6   LEO/ISS
-08/05/19 Proton M/Briz M           Blagovest 14L           3.227   TB 81/24  GEO 
-08/06/19 Ariane 5 ECA              Intelsat 39/EDRS C      9.786   KO 3      GTO
-08/06/19 Falcon 9 v1.2     F9-75   AMOS 17                 6.5     CC 40     GTO [18]
-08/08/19 Atlas 5-551       AV084   AEHF 5                  6.168   CC 41     GTO+
-08/17/19 Jielong-1         JL1     3xmicrosats                     JQ        LEO/S
-08/19/19 CZ-3B/E                   Chinasat 18            ~5.2     XC 2      GTO [19]
-08/19/19 Electron/Curie    08      4 usats                ~0.080   MA 1      LEO
-08/22/19 Soyuz 2-1a        1904    Soyuz MS-14            ~7.2     TB 31/6   LEO/ISS[20]
-08/22/19 Delta 4M+4,2      D384    GPS 3-2                 3.705   CC 37B    MTO [21]
-08/30/19 Rokot/Briz KM     30      GEO-IK-2 13             0.9     PL 133/3  LEO/S
-08/30/19 KZ-1A             Y10     KX-09/Xiaoxiang 1-07            JQ 43/95  LEO/S
-09/12/19 CZ-4B             Y39     ZY-1 02D                        TY 9      LEO/S
-09/19/19 CZ-11             Y8      Zhuhai 1-03                     JQ CZ11   LEO/S
-09/22/19 CZ-3B/YZ-1        Y65     Beidou 3M 23/24         2.028   XC 2      MEO
-09/24/19 H-2B-304          F8      HTV-8                  16.5     TA Y2     LEO/ISS
-09/25/19 CZ-2D             Y43     Yunhai 1-02                     JQ 43/603 LEO/S
-09/25/19 Soyuz FG          1905    Soyuz MS-15            ~7.2     TB 1/5    LEO/ISS
-09/26/19 Soyuz 2-1b/Fregat 1906    EKS 3                  ~1.4?    PL 43/4   EEO/M 
-10/04/19 CZ-4C             Y33     Gaofen 10R                      TY 9      LEO/S
-10/09/19 Proton M/Briz M   93704   Eutelsat 5WB/MEV 1      5.19    TB 200/39 GTO+
-10/11/19 Pegasus XL        F44     ICON                    0.288   CC L1011  LEO
-10/17/19 Electron/Curie    09      Palisade               ~0.02    MA 1      LEO
-10/17/19 CZ-3B/E           Y57     TJSW 4                 ~5.5     XC 3      GTO 
-11/02/19 Antares 230+      A11     Cygnus NG-12            7.60    WI 0A     LEO/ISS
-11/03/19 CZ-4B             Y38     Gaofen 7                        TY 9      LEO/S
-11/04/19 CZ-3B/E           Y61     Beidou 3I3             ~4.6     XC 2      GTO
-11/11/19 Falcon 9 v1.2     F9-76   Starlink 1 (60 sat)    15.60    CC 40     LEO[22]
-11/13/19 KZ-1A             Y11     Jilin 1                 0.23    JQ 43/95  LEO/S
-11/13/19 CZ-6              Y4      5xNingxia 1                     TY 16     LEO
-11/17/19 KZ-1A             Y7      2xKL-Alpha                      JQ 43/95  LEO 
-11/23/19 CZ-3B/E           Y66/Y14 Beidou M21/22           2.028   XC 3      MEO
-11/25/19 Soyuz 2-1v/Volga  006     Kosmos 2542                     PL 43/4   LEO/S 
-11/26/19 Ariane 5 ECA              VA250/TIBA-1/GX-5       9.607   KO 3      GTO
-11/27/19 PSLC-XL           C47     Cartosat 3              1.625   SR 2      LEO/S
-11/27/19 CZ-4C             Y24     Gaofen 12                       TY 9      LEO/S
-12/05/19 Falcon 9 v1.2     F9-77   CRS-19/Dragon 6.3      ~7.804   CC 40     LEO/ISS[23]    
-12/06/19 Electron/Curie    10      Running out of Fingers ~0.077   MA 1      LEO/S [24]
-12/06/19 Soyuz 2-1a        1907    Progress MS-13          ~7.2    TB 31/6   LEO/ISS
-12/07/19 KZ-1A             Y2      Jilin 1/Gaofen 2B       0.23    TY        LEO/S [25]
-12/07/19 KZ-1A             Y12     HEAD 2A/B + 4 usats    ~0.2     TY        LEO/S [25]
-12/11/19 Soyuz 2-1b/Fregat 1908    Uragan-M 759            1.415   PL 43/3   MEO
-12/11/19 PSLV-QL           C48     RISAT 2BR1 +9usats     ~0.8     SR 1      LEO
-12/16/19 CZ-3B/YZ-1        Y67/Y15 Beidou 3M 19/20         2.028   XC 3      MEO
-12/17/19 Falcon 9 v1.2     F9-78   JCSat 18/Kacific 1      6.956   CC 40     GTO-
-12/18/19 Soyuz 2-1a/Fregat VS23    Cosmo Skymed/CHEOPS     2.519   KO ELS    LEO/S
-12/20/19 CZ-4B             Y44     CBERS 4A/ETRSS 1       ~2.045   TY 9      LEO/S
-12/20/19 Atlas 5-N22       AV080   CST-100 OFT           ~13.0     CC 41     LEO/[ISS][26]
-12/24/19 Proton M/DM-03    93566   Elektro-L 3             2.094   TB 81/24  GEO
-12/26/19 Rokot/Briz KM     31      3xGonets M             ~1.0     PL 133/3  LEO [27]
-12/27/19 CZ-5              Y3      Shijian 20             ~7.6     WC 101    GTO+[28]
+01/10/19  CZ-3B/E           Y56     Chinasat 2D            ~5.2     XC 2      GTO
+01/11/19  Falcon 9 v1.2     F9-68   Iridium NEXT 8          8.6     VA 4E     LEO [1]
+01/15/19  Simorgh           003     Payam                           SE 2     [FTO][2]
+01/18/19  Enhanced Epsilon  E-04    RAPIS+usats             0.386   KA M5     LEO/S
+01/19/19  Delta 4H          D382    NROL 71                         VA 6      LEO
+01/21/19  CZ-11             Y6      Jilin-1 9/10                    JQ CZ11   LEO/S
+01/24/19  PSLV-DL           C44     Microsat R              0.75    SR 1      LEO/S
+02/05/19  Ariane 5 ECA      VA247   Hellasat 4/GSAT 31      9.031   KO 3      GTO
+02/05/19  Safir                     Dousti                          SE       [FTO][3]
+02/21/19  Soyuz 2.1b/Fregat         EgyptSat A              1.05    TB 31/6   LEO/S
+02/22/19  Falcon 9 v1.2     F9-70   Nusantara Satu+usats    4.85    CC 40     GTO+[4] 
+02/27/19  Soyuz 2-1b/Fregat VS21    OneWeb F6               0.886   KO ELS    LEO
+03/02/19  Falcon 9 v1.2     F9-69   DM-1/Crew Dragon      ~12.5     KC 39A    LEO/ISS
+03/09/19  CZ-3B/E           Y54     Chinasat 6C            ~5.2     XC 3      GTO
+03/14/19  Soyuz FG                  Soyuz MS-12            ~7.2     TB 1/5    LEO/ISS
+03/16/19  Delta 4M+5,4      D383    WGS 10                  5.987   CC 37B    GTO+
+03/22/19  Vega              VV14    PRISMA                  0.879   KO ZLV    LEO/S
+03/27/19  OS-M              01      Lingque 1B                      JQ TLE2  [FTO][5]
+03/28/19  Electron/Curie    05      R3D2                    0.150   MA 1      LEO
+03/31/19  CZ-3B/E                   Tianlian 2-1           ~5.2     XC 2      GTO 
+04/01/19  PSLV-QL           C45     EMISat+usats            0.64    SR 2      LEO/S
+04/04/19  Soyuz 2-1a                Progress MS-11         ~7.28    TB 31/6   LEO/ISS 
+04/04/19  Soyuz 2-1b/Fregat VS22    O3b F5                  2.8     KO ELS    MEO
+04/11/19  Falcon Heavy      FH-2    Arabsat 6A              6.465   KC 39A    GTO+[6]
+04/17/19  Antares 230       A10     Cygnus NG-11           ~7.3     WI 0A     LEO/ISS
+04/20/19  CZ-3B/E                   Beidou 3I2             ~4.6     XC 3      GTO [7]
+04/29/19  CZ-4B                     Tianhui-2 01 A/B                TY 9      LEO/S
+05/04/19  Falcon 9 v1.2     F9-71   CRS-17/Dragon 13.2     ~8.0     CC 40     LEO/ISS[8]
+05/05/19  Electron/Curie    06      STP 27RD                0.18    MA 1      LEO
+05/17/19  CZ-3C/E           Y16     Beidou 2 GEO-8         ~3.8     XC 2      GTO
+05/21/19  PSLV-CA           C46     RISAT 2B                0.615   SR 1      LEO
+05/22/19  CZ-4C             Y23     Yaogan Weixing 33               TY 9     [FTO][9]
+05/24/19  Falcon 9 v1.2     F9-72   Starlink 0.9 (60 sat)  13.608   CC 40     LEO[10]
+05/27/19  Soyuz 2-1b/Fregat 1899    Glonass M 49            1.415   PL 43/4   MEO
+05/30/19  Proton M/Briz M   93569   Yamal 601               5.4     TB 200/39 GTO+
+06/05/19  CZ-11             Y7      7 usats                         YL        LEO [11]
+06/12/19  Falcon 9 v1.2     F9-73   RCM                     4.29    VA 4E     LEO/S[12]
+06/20/19  Ariane 5 ECA      VA248   T-16/Eutelsat 7C        9.735   KO 3      GTO
+06/24/19  CZ-3B/E           Y60     Beidou 3I2             ~4.6     XC 3      GTO [7]
+06/25/19  Falcon Heavy      FH-3    STP-2                  ~2.94    KC 39A    EEO [13]
+06/29/19  Electron/Curie    07      Spaceflight Rideshare   0.080   MA 1      LEO
+07/05/19  Soyuz 2-1b/Fregat 1900    Meteor M2-2 +usats      2.75    VO 1S     LEO/S
+07/10/19  Soyuz 2.1v/Volga  05      Kosmos 2535-38                  PL 43/4   LEO/S
+07/11/19  Vega              VV15    Falcon Eye 1            1.197   KO ELZ   [FTO][14]
+07/13/19  Proton M/DM-03            Spektr-RG               2.713   TB 81/24  EEO [15]
+07/20/19  Soyuz FG          1901    Soyuz MS-13            ~7.2     TB 1/5    LEO/ISS
+07/22/19  GSLV Mk3          M1      Chandrayaan 2           3.877   SR 2      EEO [16]
+07/25/19  SQX-1             Y1      Multiple sats                   JQ        LEO
+07/25/19  Falcon 9 v1.2     F9-74   CRS-18/Dragon 8.3      ~7.831   CC 40     LEO/ISS[17]
+07/26/19  CZ-2C             Y37     Yaogan 30-05                    XC 3      LEO
+07/30/19  Soyuz 2-1a/Fregat 1902    Meridian 18L           ~2.0     PL 43/4   EEO/M
+07/31/19  Soyuz 2-1a        1903    Progress MS-12         ~7.2     TB 31/6   LEO/ISS
+08/05/19  Proton M/Briz M           Blagovest 14L           3.227   TB 81/24  GEO 
+08/06/19  Ariane 5 ECA              Intelsat 39/EDRS C      9.786   KO 3      GTO
+08/06/19  Falcon 9 v1.2     F9-75   AMOS 17                 6.5     CC 40     GTO [18]
+08/08/19  Atlas 5-551       AV084   AEHF 5                  6.168   CC 41     GTO+
+08/17/19  Jielong-1         JL1     3xmicrosats                     JQ        LEO/S
+08/19/19  CZ-3B/E                   Chinasat 18            ~5.2     XC 2      GTO [19]
+08/19/19  Electron/Curie    08      4 usats                ~0.080   MA 1      LEO
+08/22/19  Soyuz 2-1a        1904    Soyuz MS-14            ~7.2     TB 31/6   LEO/ISS[20]
+08/22/19  Delta 4M+4,2      D384    GPS 3-2                 3.705   CC 37B    MTO [21]
+08/30/19  Rokot/Briz KM     30      GEO-IK-2 13             0.9     PL 133/3  LEO/S
+08/30/19  KZ-1A             Y10     KX-09/Xiaoxiang 1-07            JQ 43/95  LEO/S
+09/12/19  CZ-4B             Y39     ZY-1 02D                        TY 9      LEO/S
+09/19/19  CZ-11             Y8      Zhuhai 1-03                     JQ CZ11   LEO/S
+09/22/19  CZ-3B/YZ-1        Y65     Beidou 3M 23/24         2.028   XC 2      MEO
+09/24/19  H-2B-304          F8      HTV-8                  16.5     TA Y2     LEO/ISS
+09/25/19  CZ-2D             Y43     Yunhai 1-02                     JQ 43/603 LEO/S
+09/25/19  Soyuz FG          1905    Soyuz MS-15            ~7.2     TB 1/5    LEO/ISS
+09/26/19  Soyuz 2-1b/Fregat 1906    EKS 3                  ~1.4?    PL 43/4   EEO/M 
+10/04/19  CZ-4C             Y33     Gaofen 10R                      TY 9      LEO/S
+10/09/19  Proton M/Briz M   93704   Eutelsat 5WB/MEV 1      5.19    TB 200/39 GTO+
+10/11/19  Pegasus XL        F44     ICON                    0.288   CC L1011  LEO
+10/17/19  Electron/Curie    09      Palisade               ~0.02    MA 1      LEO
+10/17/19  CZ-3B/E           Y57     TJSW 4                 ~5.5     XC 3      GTO 
+11/02/19  Antares 230+      A11     Cygnus NG-12            7.60    WI 0A     LEO/ISS
+11/03/19  CZ-4B             Y38     Gaofen 7                        TY 9      LEO/S
+11/04/19  CZ-3B/E           Y61     Beidou 3I3             ~4.6     XC 2      GTO
+11/11/19  Falcon 9 v1.2     F9-76   Starlink 1 (60 sat)    15.60    CC 40     LEO[22]
+11/13/19  KZ-1A             Y11     Jilin 1                 0.23    JQ 43/95  LEO/S
+11/13/19  CZ-6              Y4      5xNingxia 1                     TY 16     LEO
+11/17/19  KZ-1A             Y7      2xKL-Alpha                      JQ 43/95  LEO 
+11/23/19  CZ-3B/E           Y66/Y14 Beidou M21/22           2.028   XC 3      MEO
+11/25/19  Soyuz 2-1v/Volga  006     Kosmos 2542                     PL 43/4   LEO/S 
+11/26/19  Ariane 5 ECA              VA250/TIBA-1/GX-5       9.607   KO 3      GTO
+11/27/19  PSLC-XL           C47     Cartosat 3              1.625   SR 2      LEO/S
+11/27/19  CZ-4C             Y24     Gaofen 12                       TY 9      LEO/S
+12/05/19  Falcon 9 v1.2     F9-77   CRS-19/Dragon 6.3      ~7.804   CC 40     LEO/ISS[23]    
+12/06/19  Electron/Curie    10      Running out of Fingers ~0.077   MA 1      LEO/S [24]
+12/06/19  Soyuz 2-1a        1907    Progress MS-13          ~7.2    TB 31/6   LEO/ISS
+12/07/19  KZ-1A             Y2      Jilin 1/Gaofen 2B       0.23    TY        LEO/S [25]
+12/07/19  KZ-1A             Y12     HEAD 2A/B + 4 usats    ~0.2     TY        LEO/S [25]
+12/11/19  Soyuz 2-1b/Fregat 1908    Uragan-M 759            1.415   PL 43/3   MEO
+12/11/19  PSLV-QL           C48     RISAT 2BR1 +9usats     ~0.8     SR 1      LEO
+12/16/19  CZ-3B/YZ-1        Y67/Y15 Beidou 3M 19/20         2.028   XC 3      MEO
+12/17/19  Falcon 9 v1.2     F9-78   JCSat 18/Kacific 1      6.956   CC 40     GTO-
+12/18/19  Soyuz 2-1a/Fregat VS23    Cosmo Skymed/CHEOPS     2.519   KO ELS    LEO/S
+12/20/19  CZ-4B             Y44     CBERS 4A/ETRSS 1       ~2.045   TY 9      LEO/S
+12/20/19  Atlas 5-N22       AV080   CST-100 OFT           ~13.0     CC 41     LEO/[ISS][26]
+12/24/19  Proton M/DM-03    93566   Elektro-L 3             2.094   TB 81/24  GEO
+12/26/19  Rokot/Briz KM     31      3xGonets M             ~1.0     PL 133/3  LEO [27]
+12/27/19  CZ-5              Y3      Shijian 20             ~7.6     WC 101    GTO+[28]
 ------------------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------------
