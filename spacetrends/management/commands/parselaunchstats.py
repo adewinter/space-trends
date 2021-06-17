@@ -166,7 +166,16 @@ class LaunchStatsParser():
         while len(entry) < 7:
             should_line_be_fixed = True
             pyperclip.copy(line.strip('\n'))
-            fixed_line = input(f"Bad parse for line [{index}]:\n{line}\nPlease provide fixed version (use ctrl+v to paste line from clipboard):\n")
+            user_input = input(f"Bad parse for line [{index}]:\n{line}\nPlease provide fixed version.   'i' for UNKNOWN ID, 'm' for UNKNOWN MASS, 'o' (or any other key) for OTHER:\n")
+            if user_input == 'i':
+                entry.insert(2, "UNKNOWN") # "-1" means unknown mass
+                fixed_line = '  '.join(entry).strip('\n') # allows us to reparse the string and save to file
+            elif user_input == 'm':
+                entry.insert(4, "-1") # "-1" means unknown mass
+                fixed_line = '  '.join(entry).strip('\n') # allows us to reparse the string and save to file
+            else:
+                fixed_line = input("use ctrl+v to paste line from clipboard:\n")
+
             entry, _ = self.parse_launch_log_line_into_entry(fixed_line, index) #recursive call!
 
         if should_line_be_fixed: # do it here so we don't write the fix until it's fully correct
@@ -264,6 +273,8 @@ class LaunchStatsParser():
     def populate_db_from_launch_log(self, lines):
         # self.debug_print(pprint.pformat(lines))
         for index, line in lines.items():
+            if line.strip() == '':
+                continue
             entry, had_manual_correction = self.parse_launch_log_line_into_entry(line, index)
             self.debug_pprint(entry)
             launch_date = self.parse_date_from_raw_date(entry[0])
