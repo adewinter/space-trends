@@ -289,74 +289,75 @@ Proton-K/Briz-M  3     4    .75  .67      3    7/5/99   1999-2003
 
 DATE     VEHICLE           ID     PAYLOAD                 MASS(t) SITE*    ORBIT**
 ---------------------------------------------------------------------------------------------------
-01/10/07 PSLV-C            C7     CartoSat 2/SRE 1          1.29   SR 1      LEO/S
-01/18/07 Soyuz-U           1718   Progress M-59/ISS24P      7.4    TB 1/5    LEO/ISS
-01/30/07 Zenit 3SL/DMSL    SL-16  NSS-8                     5.92   PO OLP    [FTO](1)
-02/02/07 CZ3A              CZ3A12 Beidou-4                  2.2    XC 2      GTO
-02/17/07 Delta 2-7925-10   D323   THEMIS                    0.5    CC 17B    EEO
-02/24/07 H-2A 2024         F12    IGS-3B + Optical 3        1.2+   TA 1      LEO/S
-03/09/07 Atlas 5-401       AV013  STP-1 (Orbital Express+)  1.4    CC 41     LEO
-03/11/07 Ariane 5-ECA      A535   V175 Skynet 5A/Insat 4B   7.67   KO 3      GTO
-03/21/07 Falcon 1          F1-2   Demo-2/AFSS/LCT2          0.05   KW        [FTO](2)
-04/07/07 Soyuz FG          1719   Soyuz TMA-10 (ISS14S)     7.25   TB 1/5    LEO/ISS
-04/09/07 Proton M/Briz M   53516  Anik F3                   4.64   TB 200/39 GTO+
-04/11/07 CZ-2C             CZ2C29 Haiyang 1B (Ocean 1B)     0.36   TY 1      LEO/S
-04/13/07 CZ-3A             CZ3A13 Compass                   2.2?   XC 3      MTO
-04/17/07 Dnepr             No. 8  EgyptSat, et al           0.21   TB        LEO/S
-04/23/07 PSLV-CA (Core)    C8     AGILE/AMM                 0.54   SR SLP    LEO
-04/24/07 Minotaur 1        No. 7  NFIRE                     0.45?  WI LA0B   LEO
-04/25/07 Pegasus XL               AIM                       0.20   VA L1011  LEO/S
-05/04/07 Ariane 5 ECA      A536   V176 Astra 1L/Galaxy 17   8.60   KO 3      GTO
-05/12/07 Soyuz U           1720   Progress M-60/ISS25P      7.28   TB 1/5    LEO/ISS
-05/13/07 CZ-3B             CZ3B8  NigComSat 1               5.15   XC 2      GTO
-05/25/07 CZ-2D             CZ2D8  Yaogan 2 radarsat         3.50?  JQ 4L     LEO/S
-05/29/07 Soyuz FG/Fregat   1721   4xGlobalstar (ST-18)      1.8    TB 31/6   LEO
-05/31/07 CZ-3A             CZ3A14 SinoSat 3                 2.2    XC 3      GTO
-06/07/07 Soyuz-U           1722   Kosmos 2427                      PL 16/2?  LEO
-06/08/07 Delta 2-7420-10   D324   COSMO/SkyMed 1            1.91   VA 2W     LEO/S
-06/08/07 STS/Atlantis      OV104  STS-117/ISS-13A          16.33   KC 39A    LEO/ISS
-06/10/07 Shavit            No. 6  Ofeq-7                    0.3    PA        LEO
-06/15/07 Dnepr             No. 9  TerraSAR-X                1.346  TB 109    LEO/S
-06/15/07 Atlas 5-401       AV009  NRO L-30 (NOSS Gen3)             CC 41     [EEO](3)
-06/28/07 Dnepr             No. 10 Genesis 2                 1.36   DO        LEO
-06/29/07 Zenit 2M          1-2005 Tselina 2 (Kosmos 2428)   3.2    TB 45/1   LEO
-07/02/07 Kosmos 3M                SAR-Lupe 2                0.72   PL 132/1  LEO/P
-07/05/07 CZ-3B             CZ3B9  Xhongxing-6B              4.6    XC 2      GTO
-07/07/07 Proton M/Briz M          DirecTV 10                5.89   TB 200/39 GTO
-08/02/07 Soyuz-U           1723   Progress M-61 (26P)       7.2    TB 1/5    LEO/ISS
-08/04/07 Delta 2-7925      D325   Phoenix Mars Lander       0.67   CC 17A    HCO
-08/08/07 STS-Endeavour     OV105  STS-118/ISS 13A.1(S5)   127.86   KC 39A    LEO/ISS
-08/14/07 Ariane 5-ECA      A537   V177 Spaceway 3/BSAT 3A   8.06   KO 3      GTO
-09/02/07 GSLV              F04    INSAT-4CR                 2.13   SRI SLP   [EEO](4)
-09/05/07 Proton M/Briz M   53522  JCSAT 11                  4.0    TB 200/39 [FTO](5)
-09/11/07 Kosmos 3M                Parus Nav (Kosmos 2429)          PL 132/1  LEO
-09/14/07 H-2A-2022         F13    SELENE Lunar Orbiter      3.09   TA 1      HTO
-09/14/07 Soyuz-U           1724   Foton M3                  6.5    TB 1/5    LEO
-09/18/07 Delta 2-7920-10   D326   WorldView 1               2.5    VA 2W     LEO/S
-09/19/07 CZ-4B             CZ413  CBERS-2B                  1.452  TY        LEO/S
-09/27/07 Delta 2-7295H     D327   Dawn                      1.218  CC 17B    HCO
-10/05/07 Ariane 5GS        A526   V178 Intelsat 11/Optus D2 4.85   KO 3      GTO
-10/10/07 Soyuz FG          1725   Soyuz TMA-11 (ISS16S)     7.25   TB 1/5    LEO/ISS
-10/11/07 Atlas 5-421       AV011  WGS-SV1                   5.77   CC 41     GTO+
-10/17/07 Delta 2-7925-9.5  D328   GPS 2R-17                 2.059  CC 17A    MTO
-10/20/07 Soyuz FG/Fregat   1726   4xGlobalstar (ST-19)      1.8    TB 31/6   LEO
-10/23/07 Molniya-M/2BL     1727   Kosmos 2430(Oko)          2.4    PL 16/2   EEO/M
-10/23/07 STS/Discovery     OV103  STS-120/ISS10A/Node2    123.4    KC 39A    LEO/ISS 
-10/24/07 CZ-3A             CZ3A15 Chang'e-1 (Lunar Orb)     2.3    XC 3      EEO
-10/26/07 Proton-K/DM-2            3xGLONASS                 4.35   TB 81/24  MEO
-11/01/07 Kosmos 3M                SAR-Lupe 3                0.72   PL 132/1  LEO/S
-11/11/07 Delta 4H          D329   DSP-23                    2.38   CC 37B    GEO
-11/11/07 CZ-4C             CZ414  Yaogan 3                  2.7    TY        LEO/S
-11/14/07 Ariane 5 ECA      A538   Skynet5B/StarOne(V179)    8.735  KO 3      GTO
-11/17/07 Proton M/Briz M          Sirius 4                  4.4    TB 200/39 GTO
-12/09/07 Proton M/Briz M          Kosmos 2434 (Globus?)            TB 81/24  GEO?
-12/09/07 Delta 2-7420-10   D330   COSMO-Skymed 2            1.90   VA 2W     LEO/S
-12/10/07 Atlas 5-401       AV015  NROL-24 (SDS?)                   CC 41     EEO/M?
-12/14/07 Soyuz FG/Fregat   1728   Radarsat 2 (ST20)         2.2    TB 31/6   LEO/S
-12/20/07 Delta 2-7925      D331   GPS 2R-18                 2.06   CC 17A    MTO
-12/21/07 Ariane 5GS        A530   V180/RAscom 1/Horizons 2  5.464  KO 3      GTO
-12/23/07 Soyuz-U           1729   Progress M-62             7.13   TB 1/5    LEO/ISS
-12/25/07 Proton M/DM-2            3xGlonass-M               4.245  TB 81/24  MEO
+01/10/07  PSLV-C            C7     CartoSat 2/SRE 1          1.29   SR 1      LEO/S
+01/18/07  Soyuz-U           1718   Progress M-59/ISS24P      7.4    TB 1/5    LEO/ISS
+01/30/07  Zenit 3SL/DMSL    SL-16  NSS-8                     5.92   PO OLP    [FTO](1)
+02/02/07  CZ3A              CZ3A12  Beidou-4                  2.2    XC 2      GTO
+02/17/07  Delta 2-7925-10   D323   THEMIS                    0.5    CC 17B    EEO
+02/24/07  H-2A 2024         F12    IGS-3B + Optical 3        1.2+   TA 1      LEO/S
+03/09/07  Atlas 5-401       AV013  STP-1 (Orbital Express+)  1.4    CC 41     LEO
+03/11/07  Ariane 5-ECA      A535   V175 Skynet 5A/Insat 4B   7.67   KO 3      GTO
+03/21/07  Falcon 1          F1-2   Demo-2/AFSS/LCT2          0.05   KW        [FTO](2)
+04/07/07  Soyuz FG          1719   Soyuz TMA-10 (ISS14S)     7.25   TB 1/5    LEO/ISS
+04/09/07  Proton M/Briz M   53516  Anik F3                   4.64   TB 200/39  GTO+
+04/11/07  CZ-2C             CZ2C29  Haiyang 1B (Ocean 1B)     0.36   TY 1      LEO/S
+04/13/07  CZ-3A             CZ3A13  Compass                   2.2?   XC 3      MTO
+04/17/07  Dnepr             No. 8  EgyptSat, et al           0.21   TB        LEO/S
+04/23/07  PSLV-CA (Core)    C8     AGILE/AMM                 0.54   SR SLP    LEO
+04/24/07  Minotaur 1        No. 7  NFIRE                     0.45?  WI LA0B   LEO
+04/25/07  Pegasus XL       UNKNOWN        AIM                       0.20   VA L1011  LEO/S
+05/04/07  Ariane 5 ECA      A536   V176 Astra 1L/Galaxy 17   8.60   KO 3      GTO
+05/12/07  Soyuz U           1720   Progress M-60/ISS25P      7.28   TB 1/5    LEO/ISS
+05/13/07  CZ-3B             CZ3B8  NigComSat 1               5.15   XC 2      GTO
+05/25/07  CZ-2D             CZ2D8  Yaogan 2 radarsat         3.50?  JQ 4L     LEO/S
+05/29/07  Soyuz FG/Fregat   1721   4xGlobalstar (ST-18)      1.8    TB 31/6   LEO
+05/31/07  CZ-3A             CZ3A14  SinoSat 3                 2.2    XC 3      GTO
+06/07/07  Soyuz-U           1722   Kosmos 2427              -1        PL 16/2?  LEO
+06/08/07  Delta 2-7420-10   D324   COSMO/SkyMed 1            1.91   VA 2W     LEO/S
+06/08/07  STS/Atlantis      OV104  STS-117/ISS-13A          16.33   KC 39A    LEO/ISS
+06/10/07  Shavit            No. 6  Ofeq-7                    0.3    PA        LEO
+06/15/07  Dnepr             No. 9  TerraSAR-X                1.346  TB 109    LEO/S
+06/15/07  Atlas 5-401       AV009  NRO L-30 (NOSS Gen3)    -1         CC 41     [EEO](3)
+06/28/07  Dnepr             No. 10  Genesis 2                 1.36   DO        LEO
+06/29/07  Zenit 2M          1-2005   Tselina 2 (Kosmos 2428)   3.2    TB 45/1   LEO
+07/02/07  Kosmos 3M         UNKNOWN       SAR-Lupe 2                0.72   PL 132/1  LEO/P
+07/05/07  CZ-3B             CZ3B9  Xhongxing-6B              4.6    XC 2      GTO
+07/07/07  Proton M/Briz M  UNKNOWN  DirecTV 10  5.89  TB 200/39  GTO
+
+08/02/07  Soyuz-U           1723   Progress M-61 (26P)       7.2    TB 1/5    LEO/ISS
+08/04/07  Delta 2-7925      D325   Phoenix Mars Lander       0.67   CC 17A    HCO
+08/08/07  STS-Endeavour     OV105  STS-118/ISS 13A.1(S5)   127.86   KC 39A    LEO/ISS
+08/14/07  Ariane 5-ECA      A537   V177 Spaceway 3/BSAT 3A   8.06   KO 3      GTO
+09/02/07  GSLV              F04    INSAT-4CR                 2.13   SRI SLP   [EEO](4)
+09/05/07  Proton M/Briz M   53522  JCSAT 11                  4.0    TB 200/39  [FTO](5)
+09/11/07  Kosmos 3M  UNKNOWN  Parus Nav (Kosmos 2429)  -1  PL 132/1  LEO
+09/14/07  H-2A-2022         F13    SELENE Lunar Orbiter      3.09   TA 1      HTO
+09/14/07  Soyuz-U           1724   Foton M3                  6.5    TB 1/5    LEO
+09/18/07  Delta 2-7920-10   D326   WorldView 1               2.5    VA 2W     LEO/S
+09/19/07  CZ-4B             CZ413  CBERS-2B                  1.452  TY        LEO/S
+09/27/07  Delta 2-7295H     D327   Dawn                      1.218  CC 17B    HCO
+10/05/07  Ariane 5GS        A526   V178 Intelsat 11/Optus D2  4.85   KO 3      GTO
+10/10/07  Soyuz FG          1725   Soyuz TMA-11 (ISS16S)     7.25   TB 1/5    LEO/ISS
+10/11/07  Atlas 5-421       AV011  WGS-SV1                   5.77   CC 41     GTO+
+10/17/07  Delta 2-7925-9.5  D328   GPS 2R-17                 2.059  CC 17A    MTO
+10/20/07  Soyuz FG/Fregat   1726   4xGlobalstar (ST-19)      1.8    TB 31/6   LEO
+10/23/07  Molniya-M/2BL     1727   Kosmos 2430(Oko)          2.4    PL 16/2   EEO/M
+10/23/07  STS/Discovery     OV103  STS-120/ISS10A/Node2    123.4    KC 39A    LEO/ISS 
+10/24/07  CZ-3A     CZ3A15        Chang'e-1 (Lunar Orb)     2.3    XC 3      EEO
+10/26/07  Proton-K/DM-2     UNKNOWN       3xGLONASS                 4.35   TB 81/24  MEO
+11/01/07  Kosmos 3M      UNKNOWN          SAR-Lupe 3                0.72   PL 132/1  LEO/S
+11/11/07  Delta 4H          D329   DSP-23                    2.38   CC 37B    GEO
+11/11/07  CZ-4C             CZ414  Yaogan 3                  2.7    TY        LEO/S
+11/14/07  Ariane 5 ECA      A538   Skynet5B/StarOne(V179)    8.735  KO 3      GTO
+11/17/07  Proton M/Briz M      UNKNOWN    Sirius 4                  4.4    TB 200/39  GTO
+12/09/07  Proton M/Briz M    UNKNOWN      Kosmos 2434 (Globus?)       -1     TB 81/24  GEO?
+12/09/07  Delta 2-7420-10   D330   COSMO-Skymed 2            1.90   VA 2W     LEO/S
+12/10/07  Atlas 5-401       AV015  NROL-24 (SDS?)         -1          CC 41     EEO/M?
+12/14/07  Soyuz FG/Fregat   1728   Radarsat 2 (ST20)         2.2    TB 31/6   LEO/S
+12/20/07  Delta 2-7925      D331   GPS 2R-18                 2.06   CC 17A    MTO
+12/21/07  Ariane 5GS        A530   V180/RAscom 1/Horizons 2  5.464  KO 3      GTO
+12/23/07  Soyuz-U           1729   Progress M-62             7.13   TB 1/5    LEO/ISS
+12/25/07  Proton M/DM-2    UNKNOWN        3xGlonass-M               4.245  TB 81/24  MEO
 ---------------------------------------------------------------------------------------------------
 (1) RD-171 engine failed at liftoff due to turbopump ingesting foreign object.
      Explosion enveloped and damaged LP Odyssey.  Planned GTO.

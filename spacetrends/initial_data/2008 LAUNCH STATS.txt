@@ -307,75 +307,75 @@ Proton-K/Briz-M  3     4    .75  .67      3    7/5/99   1999-2003
 
 DATE     VEHICLE           ID     PAYLOAD                 MASS(t) SITE*      ORBIT**
 -------------------------------------------------------------------------------------------
-01/15/08 Zenit 3SL/DMSL    SL36   Thuraya 3                 5.17  PO OLP     GTO
-01/21/08 PSLV-CA (Core)    C10    Tecsar(Polaris)           3.0   SR FLP     LEO
-01/28/08 Proton M/Briz M          Express AM33              2.6   TB 200/39  GEO
-02/05/08 Soyuz U           1730   Progress M-63             7.13  TB 1/5     LEO/ISS
-02/07/08 STS/Atlantis      OV104  STS-122/ISS 1E          117.85  KC 39A     LEO/ISS
-02/11/08 Proton M/Briz M          Thor 5                    1.94  TB 200/39  GEO
-02/23/08 H-2A/2024         F14    KIZUNA(WINDS)             2.7   TA Y1      GTO
-03/09/08 Ariane 5-ES       A528   ATV-1 Jules Verne (V181) 19.01  KO 3       LEO/ISS
-03/11/08 STS/Endeavour     OV105  STS-123/ISS-1J/A        118.95  KC 39A     LEO/ISS
-03/13/08 Atlas 5-411       AV006  NRO L-28                        VA 3E      EEO/M
-03/14/08 Proton M/Briz M          AMC 14                    4.14  TB 200/39 [LEO] (1)
-03/15/08 Delta 2-7925      D332   GPS 2R19                  2.06  CC 17A     MTO
-03/19/08 Zenit 3SL/DMSL    SL32   DirecTV 11                5.92  PO OLP     GTO
-03/27/08 Kosmos 3M                SAR-Lupe 4                0.73  PL 132/1   LEO/S
-04/08/08 Soyuz FG          1731   Soyuz TMA-12              7.2   TB 1/5     LEO/ISS
-04/14/08 Atlas 5-421       AV014  ICO G1                    6.63  CC 41      GTO
-04/16/08 Pegasus XL        P39    C/NOFS                    0.395 KW L1011   LEO
-04/18/08 Ariane 5 ECA      A529   VINASAT 1/StarOne C2      6.74  KO 3       GTO
-04/25/08 CZ-3C             CZ3C1  Tian Lian 1               3.0?  XC 2       GTO
-04/26/08 Soyuz FG/Fregat   1732   GIOVE B (ST-21)           0.5   TB 31/6    MEO
-04/28/08 PSLV-CA           C9     Cartosat 2A               0.768 SR SLP     LEO/S
-04/28/08 Zenit 3SLB/DMSLB  LL1    Amos 3                    1.25  TB 45/1   [GEO-] (2)
-05/14/08 Soyuz U           1733   Progress M-64 (P29)       7.056 TB 1/5     LEO/ISS      
-05/21/08 Zenit 3SL/DMSL    SL30   Galaxy 18                 4.642 PO OLP     GTO
-05/23/08 Rokot/Briz KM            Gonets-M 2-4/Yubileyniy  ~1.0   PL 133/3   LEO
-05/27/08 CZ-4C             CZ4-15 Feng Yun-3A               2.295 TY         LEO/S
-05/31/08 STS/Discovery     OV103  STS-124/ISS-1J (Kibo)   119.19  KC 39A     LEO/ISS
-06/09/08 CZ-3B             CZ3B10 Chinasat 9                4.5   XC 2       GTO
-06/11/08 Delta 2-7920H     D333   GLAST                     3.37  CC 17B     LEO
-06/12/08 Ariane 5 ECA      A540   V183/Skynet5C/Turksat3A   7.75  KO 3       GTO
-06/19/08 Kosmos 3M                6xOrbcomm/Ugatusat        0.5   KY 107     LEO
-06/20/08 Delta 2-7320      D334   Jason 2                   0.506 VA 2W      LEO
-06/26/08 Proton-K/DM-2            Kosmos 2440 (Prognoz 11)        TB 81/24   GEO
-07/07/08 Ariane 5 ECA      A541   V184/ProtoStar 1/BADR 6   7.537 KO 3       GTO
-07/16/08 Zenit 3SL/DMSL    SL34   EchoStar 11               5.511 POR        GTO
-07/22/08 Kosmos 3M                SAR-Lupe 5                0.77  PL 132/1   LEO/S
-07/26/08 Soyuz-2.1b        1734   Kosmos 2441 (Persona 1)         PL 43/4    LEO/S
-08/03/08 Falcon 1          F1-3   Jumpstart/PreSat/Nanosail 0.17  KW OM     [FTO] (3)
-08/14/08 Ariane 5 ECA      A542   V185/Superbird 7/AMC 21   7.27  KO 3       GTO
-08/16/08 Safir IRILV              Omid Dummysat?                  SE         FTO (3.4)
-08/18/08 Proton M/Briz M          Inmarsat 4-F3             5.96  TB 200/39  GTO
-08/29/08 Dnepr                    5xRapidEye                0.75  TB 109/95  LEO/S
-09/06/08 CZ-2C             CZ2C30 HJ-1A, HJ-1B                    TY         LEO/S
-09/06/08 Delta 2-7420      D335   GeoEye 1                  1.923 VA 2W      LEO/S
-09/10/08 Soyuz-U           1735   Progress M-65 (P30)       7.1   TB 1/5     LEO/ISS
-09/19/08 Proton M/Briz M          Nimiq 4                   4.85  TB 200/39  GTO+
-09/24/08 Zenit 3SL/DMSL    SL35   Galaxy 19                 4.69  PO OLP     GTO+
-09/25/08 Proton M/DM-2            3xGlonass-M               4.25  TB 81/24   MEO
-09/25/08 CZ-2F             CZ2F7  Shenzhou 7                7.84  JQ 4R      LEO
-09/28/08 Falcon 1          F1-4   Dummysat (Ratsat)         0.165 KW OM      LEO (4)
-10/01/08 Dnepr                    THEOS                     0.715 DO         LEO/S
-10/12/08 Soyuz-FG          1736   Soyuz TMA-13              7.2   TB 1/5     LEO/ISS
-10/19/08 Pegasus XL        P40    Star 27/IBEX              0.462 KW         LEO
-10/22/08 PSLV-XL           C11    Chandrayaan 1             1.38  SR SLP     EEO (5)
-10/25/08 CZ-4B             CZ416  SJ-6E/SJ-6F               2.4   TY 2       LEO/S (6)
-10/25/08 Delta 2-7420-10   D336   Cosmo/Skymed 3            1.90  VA 2W      LEO/S
-10/29/08 CZ-3B             CZ3B11 Simon Bolivar             5.1   XC 2       GTO
-11/05/08 CZ-2D             CZ2D9  Shiyan 3/Chuangxin 1-02         JQ 4L      LEO/S
-11/05/08 Proton M/Briz M          Astra 1M                  5.32  TB 200/39  GTO
-11/14/08 Soyuz-U           1737   Kosmos 2445 (Kobol't-M)         PL 16/2    LEO
-11/15/08 STS/Endeavour     OV105  STS-126/ULF-2           116.50  KC 39A     LEO/ISS
-11/26/08 Soyuz U           1738   Progress M-1M             7.29  TB 1/5     LEO/ISS
-12/01/08 CZ-2D             CZ2D10 Yaogan 4                        JQ 4L      LEO/S
-12/02/08 Molniya M         1739   Kosmos 2446 (Oko-2)             PL 16/2    EEO/M
-12/10/08 Proton M/Briz M          Ceil 2                    5.56  TB 200/39  GTO
-12/15/08 CZ-4B             CZ417  Yaogan 5                  2.2?  TY 2       LEO/S
-12/20/08 Ariane 5-ECA      A543   V186/Hotbird9/W2M         8.34  KO 3       GTO
-12/23/08 CZ-3A             CZ3A16 Feng Yun 2-06             1.39  XC 3       GTO
-12/25/08 Proton M/DM-2            3xGlonass-M               4.25  TB 81/24   MEO
+01/15/08  Zenit 3SL/DMSL    SL36   Thuraya 3                 5.17  PO OLP     GTO
+01/21/08  PSLV-CA (Core)    C10    Tecsar(Polaris)           3.0   SR FLP     LEO
+01/28/08  Proton M/Briz M  UNKNOWN  Express AM33  2.6  TB 200/39  GEO
+02/05/08  Soyuz U           1730   Progress M-63             7.13  TB 1/5     LEO/ISS
+02/07/08  STS/Atlantis      OV104  STS-122/ISS 1E          117.85  KC 39A     LEO/ISS
+02/11/08  Proton M/Briz M  UNKNOWN  Thor 5  1.94  TB 200/39  GEO
+02/23/08  H-2A/2024         F14    KIZUNA(WINDS)             2.7   TA Y1      GTO
+03/09/08  Ariane 5-ES       A528   ATV-1 Jules Verne (V181)  19.01  KO 3       LEO/ISS
+03/11/08  STS/Endeavour     OV105  STS-123/ISS-1J/A        118.95  KC 39A     LEO/ISS
+03/13/08  Atlas 5-411  AV006  NRO L-28  -1  VA 3E  EEO/M
+03/14/08  Proton M/Briz M       UNKNOWN   AMC 14                    4.14  TB 200/39  [LEO] (1)
+03/15/08  Delta 2-7925      D332   GPS 2R19                  2.06  CC 17A     MTO
+03/19/08  Zenit 3SL/DMSL    SL32   DirecTV 11                5.92  PO OLP     GTO
+03/27/08  Kosmos 3M  UNKNOWN  SAR-Lupe 4  0.73  PL 132/1  LEO/S
+04/08/08  Soyuz FG          1731   Soyuz TMA-12              7.2   TB 1/5     LEO/ISS
+04/14/08  Atlas 5-421       AV014  ICO G1                    6.63  CC 41      GTO
+04/16/08  Pegasus XL        P39    C/NOFS                    0.395   KW L1011   LEO
+04/18/08  Ariane 5 ECA      A529   VINASAT 1/StarOne C2      6.74  KO 3       GTO
+04/25/08  CZ-3C             CZ3C1  Tian Lian 1               3.0?  XC 2       GTO
+04/26/08  Soyuz FG/Fregat   1732   GIOVE B (ST-21)           0.5   TB 31/6    MEO
+04/28/08  PSLV-CA           C9     Cartosat 2A               0.768  SR SLP     LEO/S
+04/28/08  Zenit 3SLB/DMSLB  LL1    Amos 3                    1.25  TB 45/1   [GEO-] (2)
+05/14/08  Soyuz U           1733   Progress M-64 (P29)       7.056  TB 1/5     LEO/ISS      
+05/21/08  Zenit 3SL/DMSL    SL30   Galaxy 18                 4.642  PO OLP     GTO
+05/23/08  Rokot/Briz KM  UNKNOWN  Gonets-M 2-4/Yubileyniy  ~1.0  PL 133/3  LEO
+05/27/08  CZ-4C  UNKNOWN  CZ4-15 Feng Yun-3A  2.295  TY  LEO/S
+05/31/08  STS/Discovery     OV103  STS-124/ISS-1J (Kibo)   119.19  KC 39A     LEO/ISS
+06/09/08  CZ-3B  UNKNOWN  CZ3B10 Chinasat 9  4.5  XC 2  GTO
+06/11/08  Delta 2-7920H     D333   GLAST                     3.37  CC 17B     LEO
+06/12/08  Ariane 5 ECA      A540   V183/Skynet5C/Turksat3A   7.75  KO 3       GTO
+06/19/08  Kosmos 3M  UNKNOWN  6xOrbcomm/Ugatusat  0.5  KY 107  LEO
+06/20/08  Delta 2-7320      D334   Jason 2                   0.506  VA 2W      LEO
+06/26/08  Proton-K/DM-2      UNKOWN      Kosmos 2440 (Prognoz 11)    -1    TB 81/24   GEO
+07/07/08  Ariane 5 ECA      A541   V184/ProtoStar 1/BADR 6   7.537  KO 3       GTO
+07/16/08  Zenit 3SL/DMSL    SL34   EchoStar 11               5.511  POR        GTO
+07/22/08  Kosmos 3M  UNKNOWN  SAR-Lupe 5  0.77  PL 132/1  LEO/S
+07/26/08  Soyuz-2.1b  1734  Kosmos 2441 (Persona 1)  -1  PL 43/4  LEO/S
+08/03/08  Falcon 1          F1-3   Jumpstart/PreSat/Nanosail  0.17  KW OM     [FTO] (3)
+08/14/08  Ariane 5 ECA      A542   V185/Superbird 7/AMC 21   7.27  KO 3       GTO
+08/16/08  Safir IRILV  UNKNOWN  Omid Dummysat?  SE  FTO (3.4)
+08/18/08  Proton M/Briz M  UNKNOWN  Inmarsat 4-F3  5.96  TB 200/39  GTO
+08/29/08  Dnepr  UNKNOWN  5xRapidEye  0.75  TB 109/95  LEO/S
+09/06/08  CZ-2C             CZ2C30   HJ-1A, HJ-1B                    TY         LEO/S
+09/06/08  Delta 2-7420      D335   GeoEye 1                  1.923  VA 2W      LEO/S
+09/10/08  Soyuz-U           1735   Progress M-65 (P30)       7.1   TB 1/5     LEO/ISS
+09/19/08  Proton M/Briz M  UNKNOWN  Nimiq 4  4.85  TB 200/39  GTO+
+09/24/08  Zenit 3SL/DMSL    SL35   Galaxy 19                 4.69  PO OLP     GTO+
+09/25/08  Proton M/DM-2  UNKNOWN  3xGlonass-M  4.25  TB 81/24  MEO
+09/25/08  CZ-2F             CZ2F7  Shenzhou 7                7.84  JQ 4R      LEO
+09/28/08  Falcon 1          F1-4   Dummysat (Ratsat)         0.165  KW OM      LEO (4)
+10/01/08  Dnepr  UNKNOWN  THEOS  0.715  DO  LEO/S
+10/12/08  Soyuz-FG          1736   Soyuz TMA-13              7.2   TB 1/5     LEO/ISS
+10/19/08  Pegasus XL        P40    Star 27/IBEX              0.462  KW         LEO
+10/22/08  PSLV-XL           C11    Chandrayaan 1             1.38  SR SLP     EEO (5)
+10/25/08  CZ-4B             CZ416  SJ-6E/SJ-6F               2.4   TY 2       LEO/S (6)
+10/25/08  Delta 2-7420-10   D336   Cosmo/Skymed 3            1.90  VA 2W      LEO/S
+10/29/08  CZ-3B             CZ3B11     Simon Bolivar             5.1   XC 2       GTO
+11/05/08  CZ-2D  CZ2D9  Shiyan 3/Chuangxin 1-02  -1  JQ 4L  LEO/S
+11/05/08  Proton M/Briz M  UNKNOWN  Astra 1M  5.32  TB 200/39  GTO
+11/14/08  Soyuz-U  1737  Kosmos 2445 (Kobol't-M)  -1  PL 16/2  LEO
+11/15/08  STS/Endeavour     OV105  STS-126/ULF-2           116.50  KC 39A     LEO/ISS
+11/26/08  Soyuz U           1738   Progress M-1M             7.29  TB 1/5     LEO/ISS
+12/01/08  CZ-2D  UNKNOWN  CZ2D10 Yaogan 4  JQ 4L  LEO/S
+12/02/08  Molniya M  1739  Kosmos 2446 (Oko-2)  -1  PL 16/2  EEO/M
+12/10/08  Proton M/Briz M  UNKNOWN  Ceil 2  5.56  TB 200/39  GTO
+12/15/08  CZ-4B             CZ417  Yaogan 5                  2.2?  TY 2       LEO/S
+12/20/08  Ariane 5-ECA      A543   V186/Hotbird9/W2M         8.34  KO 3       GTO
+12/23/08  CZ-3A  UNKNOWN  CZ3A16 Feng Yun 2-06  1.39  XC 3  GTO
+12/25/08  Proton M/DM-2  UNKNOWN  3xGlonass-M  4.25  TB 81/24  MEO
 ---------------------------------------------------------------------------------------------
 (1) Briz M failure during second of three planned burns stranded AMC-14 in LEO.
 (2) Amos-3 in 34,225 x 39,368 km x 0.72 deg orbit, expected 35,786 x 39,092 km x 0.0 deg.

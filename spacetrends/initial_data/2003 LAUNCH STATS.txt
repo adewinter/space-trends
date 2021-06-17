@@ -213,7 +213,7 @@ Sep 27  Ariane 5G       A516  Insat 3E + eBird + SMART 1         4700  KO ELA3  
 Oct 1   Zenit 3SL/DMSL  #11   Galxy13/Horzns 1  4090  POR       GTO
 Oct 15  CZ-2F           CZ2F5  Shenzhou 5        7800  JQ        LEO
 Oct 17  PSLV            C5    IRS-P6            1360  SRI       LEO/S
-Oct 18  Soyuz-FG        1683  Soyuz TMA-3(ISS7S)7250  -1 TB LC1    LEO
+Oct 18  Soyuz-FG        1683  Soyuz TMA-3(ISS7S)7250  -1  TB LC1    LEO
 Oct 18  Titan 23G       G-9   DMSP-5D3-F16      1154  V SLC4W   LEO/S
 Oct 21  CZ-4B           CZ4B6  CBERS 2           1550  TY        LEO/S
 Oct 30  Rokot/Briz KM   KM5   Servis-1           840  PL 133    LEO/S
