@@ -2,6 +2,7 @@ from datetime import datetime
 import pprint
 import re
 from os import scandir
+from pathlib import Path
 
 from django.core.management.base import BaseCommand, CommandError
 
@@ -9,8 +10,8 @@ import pyperclip
 
 from spacetrends.models import Launch, Orbit, Site, Vehicle
 
-class launch_stats_parser():
-    def __init__(self, stdout, style, filepath, filename, is_debug_mode, is_old_stats_style):
+class LaunchStatsParser():
+    def __init__(self, stdout, style, filepath, filename, is_debug_mode):
         self.stdout = stdout
         self.style = style
         self.filepath = filepath
@@ -18,7 +19,8 @@ class launch_stats_parser():
         self.year = 0000
         self.file_should_be_modified = False #if we perform a line fix in the middle of parsing, we can now persist the fix
         self.is_debug_mode = is_debug_mode #Set to `True` when passed in --verbosity flag is greater than 1
-        self.is_old_stats_style = is_old_stats_style
+
+        self.is_old_stats_style = ('2001' in filename) or ('2002' in filename)
 
     def pprint(self, msg):
         self.stdout.write(self.style.SUCCESS(msg))
@@ -221,9 +223,6 @@ class Command(BaseCommand):
     IS_DEBUG_MODE = False #Set to `True` when passed in --verbosity flag is greater than 1
 
     def add_arguments(self, parser):
-        # #positional arg
-        # parser.add_argument('poll_ids', nargs='+', type=int)
-        # Named (optional) arguments
         parser.add_argument(
             '--file', '-f',
             action='store',
@@ -241,33 +240,36 @@ class Command(BaseCommand):
     def debug_pprint(self, msg):
         self.debug_print(pprint.pformat(msg))
 
-    def handle(self, *args, **options):
+    def is_launch_stats_file(self, filename):
+        ''' Checks if this file is a regular 'launch stats' file '''
+        year_regex = r'\d{4}'
+        match = re.search(year_regex, filename)
+        return bool(match)
+
+    def set_verbosity(self, options):
         if options['verbosity'] > 1:
             self.pprint(f"Verbosity set to {options['verbosity']}. Enabling DEBUG output.")
             self.IS_DEBUG_MODE = True
 
-        self.debug_print(options)
-        if options['statsfile']:
-            filename = options['statsfile']
-            if ('2001' in filename) or ('2002' in filename):
-                self.debug_print(f"Using old stats style parsing for {filename}")
-                is_old_stats_style = True
-            else:
-                is_old_stats_style = False
-
-        #     def __init__(self, stdout, filepath, filename, is_debug_mode, is_old_stats_style):
-
-            parser = launch_stats_parser(self.stdout, self.style, options['statsfile'], filename, self.IS_DEBUG_MODE, is_old_stats_style)
+    def parse_file(self, filepath, filename):
+        if self.is_launch_stats_file(filename):
+            self.pprint(f"File name: {filename}, File path: {filepath}")
+            parser = LaunchStatsParser(self.stdout, self.style, filepath, filename, self.IS_DEBUG_MODE)
             parser.parse_stats_file()
+        else:
+            self.pprint(f"NOT SURE WHAT TO DO WITH THIS FILE: {filename}")
+
+    def handle(self, *args, **options):
+        self.set_verbosity(options)
+
+        self.debug_print(options)
+
+        if options['statsfile']:
+            path = Path(options['statsfile'])
+            self.parse_file(str(path), path.name)
         else:
             with scandir('spacetrends/initial_data') as entries:
                 for entry in entries:
-                    if(entry.is_file()):
-                        self.pprint(f"File name: {entry.name}")
-                        if ('2001' in entry.name) or ('2002' in entry.name):
-                            self.debug_print(f"Using old stats style parsing for {entry.name}")
-                            is_old_stats_style = True
-                        else:
-                            is_old_stats_style = False
-                        parser = launch_stats_parser(self.stdout, self.style, entry.path, entry.name, self.IS_DEBUG_MODE, is_old_stats_style)
-                        parser.parse_stats_file()
+                    if not entry.is_file():
+                        continue
+                    self.parse_file(entry.path, entry.name)
