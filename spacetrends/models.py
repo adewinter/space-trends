@@ -1,7 +1,7 @@
 from django.db import models
 
 class Orbit(models.Model):
-    name = models.CharField(max_length=255)
+    name = models.CharField(max_length=255, blank=True)
     code = models.CharField(max_length=255)
     notes = models.TextField(blank=True)
 
@@ -9,7 +9,7 @@ class Orbit(models.Model):
         return f"{self.name} ({self.code})"
 
 class Site(models.Model):
-    name = models.CharField(max_length=255)
+    name = models.CharField(max_length=255, blank=True)
     code = models.CharField(max_length=255)
     notes = models.TextField(blank=True)
 
@@ -100,7 +100,7 @@ class Launch(models.Model):
     site_pad_code = models.CharField(blank=True, help_text="Optional launch site pad code", max_length=255)
     orbit = models.ForeignKey(Orbit, on_delete=models.CASCADE)
 
-    notes = models.TextField()
+    notes = models.TextField(blank=True)
 
     def __str__(self):
         return f"Launch [{self.launch_date}] - {self.vehicle.name} - {self.orbit.code}"

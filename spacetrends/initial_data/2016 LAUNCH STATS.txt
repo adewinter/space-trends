@@ -439,7 +439,7 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORB
 02/05/16  Atlas 5-401       AV057   GPS 2F-12               1.630   CC 41     MEO    
 02/07/16  Soyuz 2-1b/Fregat  1852    Glonass M               1.415   PL 43/4   MEO
 02/07/16  Unha 3       U3K4             Kwangmysong 4          ~0.2     SO        LEO
-02/10/16  Delta 4M+5,2      D373    NROL-45                         VA 6      LEO/R 
+02/10/16  Delta 4M+5,2      D373    NROL-45                   0      VA 6     LEO/R
 02/16/16  Rokot/Briz KM     26      Sentinel 3A             1.150   PL 133/3  LEO/S
 02/17/16  H2A-202           F30     Astro H                 2.7     TA Y1     LEO 
 03/04/16  Falcon 9 v1.2     F9-22   SES 9                   5.271   CC 40     GTO [2]

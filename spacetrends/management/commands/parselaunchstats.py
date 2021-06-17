@@ -7,7 +7,7 @@ from django.core.management.base import BaseCommand, CommandError
 
 import pyperclip
 
-from spacetrends.models import Vehicle
+from spacetrends.models import Launch, Orbit, Site, Vehicle
 
 class launch_stats_parser():
     def __init__(self, stdout, style, filepath, filename, is_debug_mode, is_old_stats_style):
@@ -130,8 +130,23 @@ class launch_stats_parser():
         notes = '|'.join(tokens)
         return code, notes
 
+    def parse_launch_mass_from_raw(self, raw_mass):
+        return raw_mass.strip('~').strip('?').strip('+')
+
     def create_launch_in_db(self, launch):
-        pass
+        vehicle_model, created = Vehicle.objects.get_or_create(name=launch['vehicle_name'])
+        site_model, created = Site.objects.get_or_create(code=launch['site_name_code'])
+        orbit_model, created = Orbit.objects.get_or_create(code=launch['orbit']['code'])
+        launch_model, created = Launch.objects.get_or_create(
+            launch_date=launch['date'],
+            vehicle=vehicle_model,
+            launch_id=launch['id'],
+            payload=launch['payload'],
+            mass=launch['mass'],
+            site=site_model,
+            site_pad_code=launch['site_pad_code'],
+            orbit=orbit_model
+        )
 
     def update_file_with_fixed_launch_log_line(self, fixed_line, index):
         with open(self.filepath, 'r') as statsfile:
@@ -159,20 +174,20 @@ class launch_stats_parser():
                 
             self.debug_pprint(entry)
             launch_date = self.parse_date_from_raw_date(entry[0])
-            site_name, site_code = self.parse_launch_site_name_and_code_from_raw(entry[5])
+            site_name_code, site_pad_code = self.parse_launch_site_name_and_code_from_raw(entry[5])
             orbit_code, orbit_notes = self.parse_launch_orbit_name_and_code_from_raw(entry[6])
+            mass = self.parse_launch_mass_from_raw(entry[4])
 
             launch = {
                 "date": launch_date,
                 "vehicle_name": entry[1],
                 "id": entry[2],
                 "payload": entry[3],
-                "mass": entry[4], 
-                "site": {"name": site_name, "code": site_code},
+                "mass": mass, 
+                "site_pad_code": site_pad_code,
+                "site_name_code": site_name_code,
                 "orbit": {"code": orbit_code, "notes": orbit_notes} 
             }
-
-            self.debug_pprint(entry)
 
             if should_line_be_fixed: # nice to see the fixed structure when you're making those edits...
                 self.pprint(pprint.pformat(launch))
