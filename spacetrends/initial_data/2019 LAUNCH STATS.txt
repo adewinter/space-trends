@@ -613,7 +613,7 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORB
 12/17/19  Falcon 9 v1.2     F9-78   JCSat 18/Kacific 1      6.956   CC 40     GTO-
 12/18/19  Soyuz 2-1a/Fregat  VS23    Cosmo Skymed/CHEOPS     2.519   KO ELS    LEO/S
 12/20/19  CZ-4B             Y44     CBERS 4A/ETRSS 1       ~2.045   TY 9      LEO/S
-12/20/19  Atlas 5-N22       AV080   CST-100 OFT           ~13.0     CC 41     LEO/[ISS][26]
+12/20/19  Atlas 5-N22       AV080   CST-100 OFT           ~13.0     CC 41     LEO/ISS[26]
 12/24/19  Proton M/DM-03    93566   Elektro-L 3             2.094   TB 81/24  GEO
 12/26/19  Rokot/Briz KM     31      3xGonets M             ~1.0     PL 133/3  LEO [27]
 12/27/19  CZ-5              Y3      Shijian 20             ~7.6     WC 101    GTO+[28]

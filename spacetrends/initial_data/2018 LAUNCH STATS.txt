@@ -521,7 +521,7 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORB
 01/20/18  Atlas 5-411       AV076   SBIRS GEO 4             4.54    CC 41     GTO
 01/21/18  Electron/Curie    02      Still Testing           0.013   MA 1      LEO
 01/25/18  CZ-2C  Y36  Yaogan-30 Group 04  -1  XC 3  LEO
-01/25/18  Ariane 5 ECA      L5101   VA241/SES 14/Al Yah  3   8.218   KO 3     [EEO][2]
+01/25/18  Ariane 5 ECA      L5101   VA241/SES 14/Al Yah 3   8.218   KO 3     [EEO][2]
 01/31/18  Falcon 9 v1.2     F9-49   Govsat 1                4.230   CC 40     GTO [3]
 02/01/18  Soyuz 2-1a/Fregat  1880  Kanopus V3,4  -1  VO 1S  LEO/S
 02/02/18  CZ-2D             Y13     CSES 1                  0.75    JQ 43/603  LEO/S

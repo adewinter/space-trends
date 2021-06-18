@@ -398,7 +398,7 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*      OR
 09/13/12  Atlas 5-401       AV033   NROL-36                    -1     VA 3E      LEO?
 09/17/12  Soyuz 2-1a/Fregat  ST-25   Metop B                  4.085  TB 31/6    LEO/S
 09/18/12  CZ-3B/E           CZ3B22  Beidou M5/M6            ~4.0    XC 2       MTO
-09/22/12  Safir              UNKNOWN       Fajr?               -1     0.1?   SE        [FTO][7]
+09/22/12  Safir              UNKNOWN       Fajr?              0.1   SE        [FTO][7]
 09/28/12  Ariane 5 ECA      L565    VA209 Astra 2F/GSat 10   9.4    KO 3       GTO
 09/29/12  CZ-2D             CZ2D17  VRSS 1                    -1      JQ 4L      LEO/S
 10/04/12  Delta 4M+4,2      D361?   GPS 2F-3                 1.63   CC 37B     MEO [3]

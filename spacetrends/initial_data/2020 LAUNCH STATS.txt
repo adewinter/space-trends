@@ -622,7 +622,7 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORB
 12/09/20  CZ-11             Y9      GECAM                     -1      XC        LEO
 12/11/20  Delta 4H          D385    NROL 44                   -1      CC 37B    GEO
 12/13/20  Falcon 9 v1.2     F9-103  SXM 7                  ~7.0     CC 40     GTO- [46]
-12/14/20  Angara A5/Briz M  A5-2    IPM Test Flight           -1      PL 35/1   GEO  [47]
+12/14/20  Angara A5/Briz M  A5-2    IPM Test Flight           -1      PL 35/1   GEO [47]
 12/15/20  Electron/Curie    F17     StriX-a                 0.15    MA 1      LEO/S
 12/15/20  Astra Rocket 3    3.2     Oribital Test             -1      KD 3B    [FTO] [48]
 12/17/20  PSLV-XL           C50     CMS 1                   1.41    SR 2      GTO-

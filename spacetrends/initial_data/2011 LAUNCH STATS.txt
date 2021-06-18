@@ -413,8 +413,8 @@ DATE     VEHICLE           ID     PAYLOAD                  MASS(t) SITE*      OR
 12/23/11  Soyuz 2-1b/Fregat  1783   Meridian                   -1      PL 43/4   [FTO][12]
 12/28/11  Soyuz 2-1a/Fregat  1784   ST24/6xGlobalstar         4.2    TB 31/6    LEO
 ------------------------------------------------------------------------------------
-[1] Briz KM failure left satellite in 311 x 1,058km x 99.46 deg transfer orbit 
-    (planned 1,000 km circular orbit).
+[1] Briz KM failure left satellite in 311 x 1,058km x 99.46 deg transfer orbit (
+    planned 1,000 km circular orbit).
 [2] Payload fairing failed to separate.  Planned LEO/S.
 [3] SES 3(3.112t) to GTO, Kazsat 2(1.27t) to GEO.  1st dual ILS launch.
 [4] NASA Jupiter orbiter will flyby Earth in 10/2013, reach Jupiter in 2016.
