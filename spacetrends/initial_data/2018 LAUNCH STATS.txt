@@ -510,31 +510,31 @@ VLS-1            0/2    0.33  0.00-0.71   0(E)12/11/99 1997-1999
 
 DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORBIT**
 -------------------------------------------------------------------------------------
-01/08/18  Falcon 9 v1.2     F9-46   Zuma                            CC 40     LEO?[1]
-01/09/18  CZ-2D             Y40     Gaojing-1 3/4                   TY 9      LEO/S
+01/08/18  Falcon 9 v1.2  F9-46  Zuma  -1  CC 40  LEO?[1]
+01/09/18  CZ-2D  Y40  Gaojing-1 3/4  -1  TY 9  LEO/S
 01/11/18  CZ-3B/YZ-1        Y45/Y5  Beidou 3M 03/04        ~2.08    XC 2      MEO
 01/12/18  PSLV-XL           C40     Cartosat 2F/usats       1.313   SR 1      LEO/S
 01/12/18  Delta 4M+5,2      D379    NROL 47                ~6.0     VA 6      LEO/R
-01/13/18  CZ-2D             Y49     LKW 3                           JQ 43/603 LEO/S
+01/13/18  CZ-2D  Y49  LKW 3  -1  JQ 43/603  LEO/S
 01/17/18  Ehanced Epsilon   E03     ASNARO 2                0.57    KA M5     LEO/S
-01/19/18  CZ-11             03      Jilin-1 7/8                     JQ CZ11   LEO/S
+01/19/18  CZ-11  03  Jilin-1 7/8  -1  JQ CZ11  LEO/S
 01/20/18  Atlas 5-411       AV076   SBIRS GEO 4             4.54    CC 41     GTO
 01/21/18  Electron/Curie    02      Still Testing           0.013   MA 1      LEO
-01/25/18  CZ-2C             Y36     Yaogan-30 Group 04              XC 3      LEO
-01/25/18  Ariane 5 ECA      L5101   VA241/SES 14/Al Yah 3   8.218   KO 3     [EEO][2]
+01/25/18  CZ-2C  Y36  Yaogan-30 Group 04  -1  XC 3  LEO
+01/25/18  Ariane 5 ECA      L5101   VA241/SES 14/Al Yah  3   8.218   KO 3     [EEO][2]
 01/31/18  Falcon 9 v1.2     F9-49   Govsat 1                4.230   CC 40     GTO [3]
-02/01/18  Soyuz 2-1a/Fregat 1880    Kanopus V3,4                    VO 1S     LEO/S
-02/02/18  CZ-2D             Y13     CSES 1                  0.75    JQ 43/603 LEO/S
+02/01/18  Soyuz 2-1a/Fregat  1880  Kanopus V3,4  -1  VO 1S  LEO/S
+02/02/18  CZ-2D             Y13     CSES 1                  0.75    JQ 43/603  LEO/S
 02/03/18  SS-520            520-5   Tricom 1R               0.003   KA KS     LEO
-02/06/18  Falcon Heavy      FH-1    Demo Mission                    KC 39A    HCO
+02/06/18  Falcon Heavy  FH-1  Demo Mission  -1  KC 39A  HCO
 02/12/18  CZ-3B/YZ-1        Y47/Y6  Beidou 3M 3/4          ~2.08    XC 2      MEO
 02/13/18  Soyuz 2-1a        1881    Progress MS-08         ~7.28    TB 31/6   LEO/ISS
 02/22/18  Falcon 9 v1.2     F9-50   Paz/Microsat 2a/b      ~2.000   VA 4E     LEO/S [3]
-02/27/18  H-2A              F38     IGS Optical 6                   TA Y1     LEO/S
+02/27/18  H-2A  F38  IGS Optical 6  -1  TA Y1  LEO/S
 03/01/18  Atlas 5-541       AV077   GOES S                  5.2     CC 41     GTO+
 03/06/18  Falcon 9 v1.2     F9-51   Hispasat 30W-6          6.092   CC 40     GTO- [3]
-03/09/18  Soyuz 2-1b/Fregat VS18    O3b F4                  2.8     KO ELS    MEO
-03/17/18  CZ-2D             Y50     LKW 4                           JQ 43/603 LEO/S
+03/09/18  Soyuz 2-1b/Fregat  VS18    O3b F4                  2.8     KO ELS    MEO
+03/17/18  CZ-2D  Y50  LKW 4  -1  JQ 43/603  LEO/S
 03/21/18  Soyuz FG          1882    Soyuz MS-08            ~7.2     TB 1/5    LEO/ISS
 03/29/18  GSLV Mk2          F08     GSAT 6A                 2.14    SR 2      GTO
 03/29/18  Soyuz 2-1v        004     Kosmos 2525            ~0.2     PL 43/4   LEO
@@ -543,36 +543,36 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORB
 03/31/18  CZ-4C             Y26     Gaofen 1-2/3/4          2.415   TY 9      LEO/S
 04/02/18  Falcon 9 v1.2     F9-53   Dragon 10.2/CRS-14     ~8.125   CC 40     LEO/ISS[5]
 04/05/18  Ariane 5 ECA      VA242   DSN 1/Hylas 4           9.398   KO 3      GTO
-04/10/18  CZ-4C             Y25     Yaogan 31-1                     JQ 43/603 LEO
+04/10/18  CZ-4C  Y25  Yaogan 31-1  -1  JQ 43/603  LEO
 04/11/18  PSLV-XL           C41     IRNSS 1I                1.425   SR 1      GTO-
-04/14/18  Atlas 5-551       AV079   AFSPC 11                        CC 41     GEO 
-04/18/18  Proton M Briz M           Blagovest 12L                   TB 81/24  GEO 
+04/14/18  Atlas 5-551       AV079   AFSPC 11                 -1       CC 41     GEO
+04/18/18  Proton M Briz M  Blagovest 12L  TB 81/24  -1  GEO  
 04/18/18  Falcon 9 v1.2     F9-54   TESS                    0.35    CC 40     EEO [6]
-04/25/18  Rokot/Briz KM     28      Sentinel 3B             1.150   PL 133/3  LEO/S 
-04/26/18  CZ-11             Y4      Zhuhai 1 + 4usats               JZ CZ11   LEO/S
-05/03/18  CZ-3B/E           Y55     APStar 6C                       XC 2      GTO
+04/25/18  Rokot/Briz KM     28      Sentinel 3B             1.150   PL 133/3  LEO/S
+04/26/18  CZ-11  Y4  Zhuhai 1 + 4usats  -1  JZ CZ11  LEO/S
+05/03/18  CZ-3B/E  Y55  APStar 6C  -1  XC 2  GTO
 05/05/18  Atlas 5-401       AV078   InSight                 0.694   VA 3E     HCO [7]
-05/08/18  CZ-4C             Y20     Gaofen 5                        TY 9      LEO/S
+05/08/18  CZ-4C  Y20  Gaofen 5  -1  TY 9  LEO/S
 05/11/18  Falcon 9 v1.2     F9-55   Bangabandhu 1          ~3.72    KC 39A    GTO [8]
 05/20/18  CZ-4C             Y27     Queqiao                 0.515   XC 3      EEO [9]
 05/21/18  Antares 230       A6      Cygnus OA-9             6.173   WI 0A     LEO/ISS
 05/22/18  Falcon 9 v1.2     F9-56   Iridium 6/GRACE-FO     ~5.5     VA 4E     LEO [4]
-06/02/18  CZ-2D             Y20     Gaofen 6                1.064   JQ 43/603 LEO/S
+06/02/18  CZ-2D             Y20     Gaofen 6                1.064   JQ 43/603  LEO/S
 06/04/18  Falcon 9 v1.2     F9-57   SES 12                  5.384   CC 40     GTO+[5]
 06/05/18  CZ-3A             Y25     Fengyun 2H             ~1.4     XC 2      GTO
 06/06/18  Soyuz FG          1883    Soyuz MS-09            ~7.2     TB 1/5    LEO/ISS
-06/12/18  H-2A-202          F39     IGS Radar 6                     TA Y1     LEO/S
-06/16/18  Soyuz 2-1b/Fregat 1884    Glonass M 47            1.415   PL 43/3   MEO
-06/27/18  CZ-2C             Y44     XJS A/B                         XC 3      LEO
+06/12/18  H-2A-202  F39  IGS Radar 6  -1  TA Y1  LEO/S
+06/16/18  Soyuz 2-1b/Fregat  1884    Glonass M 47            1.415   PL 43/3   MEO
+06/27/18  CZ-2C  Y44  XJS A/B  -1  XC 3  LEO
 06/29/18  Falcon 9 v1.2     F9-58   Dragon 11.2/CRS 15     ~8.175   CC 40     LEO/ISS[5]
-07/09/18  CZ-2C/SMA         Y3      PRSS 1/PakTES 1A        1.485   JQ 43/603 LEO/S
-07/09/18  CZ-3A             Y27     Beidou 2 I7                     XC 2      GTO/i
+07/09/18  CZ-2C/SMA         Y3      PRSS 1/PakTES 1A        1.485   JQ 43/603  LEO/S
+07/09/18  CZ-3A  Y27  Beidou 2 I7  -1  XC 2  GTO/i
 07/09/18  Soyuz 2.1a        1885    Progress MS-09         ~7.28    TB 31/6   LEO/ISS[10]
 07/22/18  Falcon 9 v1.2     F9-59   Telstar 19V             7.075   CC 40     GTO-[6]
 07/25/18  Ariane 5 ES       VA244   Galileo 23-26           2.952   KO 3      MEO
 07/25/18  Falcon 9 v1.2     F9-60   Iridium Next 7          8.6     VA 4E     LEO
 07/29/18  CZ-3B/YZ-1        Y49/Y8  Beidou 3M 5/6           2.028   XC 3      MEO
-07/31/18  CZ-4B             Y37     Gaofen 11                       TY 9      LEO/S
+07/31/18  CZ-4B  Y37  Gaofen 11  -1  TY 9  LEO/S
 08/07/18  Falcon 9 v1.2     F9-61   Merah Putih             5.8     CC 40     GTO-[6]
 08/12/18  Delta 4H/Star 48  D380    Parker Solar Probe      0.685   CC 37B    HCO
 08/22/18  Vega              VV12    ADM-Aeolus              1.357   KO ZLV    LEO/S
@@ -581,31 +581,31 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORB
 09/10/18  Falcon 9 v1.2     F9-62   Telstar 18V             7.06    CC 40     GTO-[6]
 09/15/18  Delta 2-7420      D381    ICESat 2                1.515   VA 2W     LEO/S[11]
 09/16/18  PSLV-CA           C42     NovaSAR-S/SSTL-S1       0.889   SR 1      LEO/S
-09/19/18  CZ-3B/YZ-1                Beidou M13/M14          2.028   XC 2      MEO
+09/19/18  CZ-3B/YZ-1  UNKNOWN  Beidou M13/M14  2.028  XC 2  MEO
 09/22/18  H-2B-304          F7      HTV-7                  16.5     TA Y2     LEO/ISS
 09/25/18  Ariane 5 ECA      L5103   VA243/Horz 3e/Azersp 2  9.911   KO 3      GTO
 09/29/18  KZ-1A             Y8      CentiSpace 1-S1         0.97    JQ        LEO/S
 10/08/18  Falcon 9 v1.2     F9-63   SAOCOM 1A               3.0     VA 4E     LEO/S[12]
-10/09/18  CZ-2C/YZ-1S               Yaogan 32-1                     JQ 43/603 LEO/S[13]
+10/09/18  CZ-2C/YZ-1S  UNKNOWN  Yaogan 32-1  -1  JQ 43/603  LEO/S[13]
 10/11/18  Soyuz FG          1886    Soyuz MS-10            ~7.2     TB 1/5   [FTO][14]
-10/15/18  CZ-3B/YZ-1                Beidou 3M 15/16         2.028   XC 3      MEO
+10/15/18  CZ-3B/YZ-1  UNKNOWN  Beidou 3M 15/16  2.028  XC 3  MEO
 10/17/18  Atlas 5-551       AV073   AEHF 4                  6.168   CC 41     GTO+
-10/20/18  Ariane 5 ECA              VA245/BepiColombo       4.080   KO 3      HCO
-10/24/18  CZ-4B                     Haiyuag 2B                      TY 9      LEO/S
+10/20/18  Ariane 5 ECA              VA245  BepiColombo       4.080   KO 3      HCO
+10/24/18  CZ-4B  UNKNOWN  Haiyuag 2B  -1  TY 9  LEO/S
 10/25/18  Soyuz 2-1b        1887    Lotos-S1 3              6.0     PL 43/4   LEO
-10/27/18  ZQ-1              ZQ1-1   Weilai 1                        JQ       [FTO][15]
-10/29/18  CZ-2C                     CFOSat                  0.6     JQ 43/603 LEO/S
+10/27/18  ZQ-1  ZQ1-1  Weilai 1  -1  JQ  [FTO][15]
+10/29/18  CZ-2C  UNKNOWN  CFOSat  0.6  JQ 43/603  LEO/S
 10/29/18  H-2A-202          F40     GOSat 2/KhalifaSat      2.257   TA Y1     LEO/S
 11/01/18  CZ-3B/E           Y54?    Beodou 3G1              4.6     XC 2      GTO
-11/03/18  Soyuz 2-1b/Fregat 1888    Uragan M 757            1.415   PL 43/4   MEO
-11/07/18  Soyuz 2-1b/Fregat VS19    Metop C                 4.084   KO ELS    LEO/S   
-11/11/18  Electron/Curie    03      It's Business Time     ~0.045   MA 1      LEO 
-11/14/18  GSLV Mk 3         D2      GSAT 29                 3.4     SR 2      GTO 
-11/15/18  Falcon 9 v1.2     F9-64   Es'hail 2              ~5.3     KC 39A    GTO 
+11/03/18  Soyuz 2-1b/Fregat  1888    Uragan M 757            1.415   PL 43/4   MEO
+11/07/18  Soyuz 2-1b/Fregat  VS19    Metop C                 4.084   KO ELS    LEO/S
+11/11/18  Electron/Curie    03      It's Business Time     ~0.045   MA 1      LEO
+11/14/18  GSLV Mk 3         D2      GSAT 29                 3.4     SR 2      GTO
+11/15/18  Falcon 9 v1.2     F9-64   Es'hail 2              ~5.3     KC 39A    GTO
 11/16/18  Soyuz FG          1890    Progress MS-10         ~7.28    TB 1/5    LEO/ISS
-11/17/18  Antares 230               Cygnus NG-10            6.173   WI 0A     LEO/ISS
-11/18/18  CZ-3B/YZ-1                Beidou 3M 17/18         2.028   XC 3      MEO
-11/19/18  CZ-2D                     Shiyan 6                        JQ 43/603 LEO/S
+11/17/18  Antares 230  UNKNOWN  Cygnus NG-10  6.173  WI 0A  LEO/ISS
+11/18/18  CZ-3B/YZ-1  UNKNOWN  Beidou 3M 17/18  2.028  XC 3  MEO
+11/19/18  CZ-2D  UNKNOWN  Shiyan 6  -1  JQ 43/603  LEO/S
 11/21/18  Vega              VV13    Mohammed IV-B           1.11    KO ZLV    LEO/S
 11/29/18  PSLV-CA           C43     HySIS                   0.38    SR 1      LEO/S
 11/30/18  Rokot/Briz KM     29      3xRodnik+usat          ~1.0     PL 133/3  LEO
@@ -613,17 +613,17 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORB
 12/03/18  Falcon 9 v1.2     F9-65   Spaceflight SSO-A      ~4.0     VA 4E     LEO/S
 12/04/18  Ariane 5 ECA      VA246   GSAT 11/GEO Kompsat 2A  9.362   KO 3      GTO
 12/05/18  Falcon 9 v1.2     F9-66   CRS-16/Dragon 12.2     ~8.039   CC 40     LEO/ISS[16]
-12/07/18  CZ-2D             Y38     SaudiSAT 5A/B+usats    ~0.6     JQ 43/603 LEO/S
-12/07/18  CZ-3B/G3Z                 Chang'e 4               3.78    XC 2      EEO [17]  
-12/16/18  Electron/Curie    04      For Pickering          ~0.078   MA 1      LEO 
-12/19/18  GSLV Mk2          F11     GSAT 7A                 2.25    SR 2      GTO+ 
-12/19/18  Soyuz 2-1a/Fregat VS20    CSO 1                   3.565   KO ELS    LEO/S
-12/21/18  Proton M/Briz M           Blagovest 13L                   TB 81/24  GEO 
-12/21/18  CZ-11             Y5      Hongyun                         JQ CZ11   LEO/S
+12/07/18  CZ-2D             Y38     SaudiSAT 5A/B+usats    ~0.6     JQ 43/603  LEO/S
+12/07/18  CZ-3B/G3Z  UNKNOWN  Chang'e 4  3.78  XC 2  EEO [17]
+12/16/18  Electron/Curie    04      For Pickering          ~0.078   MA 1      LEO
+12/19/18  GSLV Mk2          F11     GSAT 7A                 2.25    SR 2      GTO+
+12/19/18  Soyuz 2-1a/Fregat  VS20    CSO 1                   3.565   KO ELS    LEO/S
+12/21/18  Proton M/Briz M  UNKNOWN  Blagovest 13L  -1  TB 81/24  GEO
+12/21/18  CZ-11  Y5  Hongyun  -1  JQ CZ11  LEO/S
 12/23/18  Falcon 9 v1.2     F9-67   GPS 3-1                 4.4     CC 40     MTO [5]
-12/24/18  CZ-3C/E                   TJSW 3                          XC 3      GTO
-12/27/18  Soyuz 2-1a/Fregat 1893    Kanopus V5,6+usats     ~1.1     VO 1S     LEO/S
-12/29/18  CZ-2D/YZ-3                Hongyan 1                       JQ 43/603 LEO
+12/24/18  CZ-3C/E  UNKNOWN  TJSW 3  -1  XC 3  GTO
+12/27/18  Soyuz 2-1a/Fregat  1893    Kanopus V5,6+usats     ~1.1     VO 1S     LEO/S
+12/29/18  CZ-2D/YZ-3  UNKNOWN  Hongyan 1  -1  JQ 43/603  LEO
 -------------------------------------------------------------------------------------
 [1] First stage B1043 landed LZ-1. Zuma reported lost due possible separation 
      failure so reentered with 2nd stage when it was deorbited.

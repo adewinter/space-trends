@@ -518,119 +518,119 @@ VLS-1            0/2    0.33  0.00-0.71   0(E)12/11/99 1997-1999
 DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORBIT**
 -------------------------------------------------------------------------------------
 01/07/20  Falcon 9 v1.2     F9-79   Starlink 1 F2           15.6    CC 40     LEO
-01/07/20  CZ-3B/E           Y62     TJSW-5                          XC 2      GTO
-01/15/20  CZ-2D             Y58     Kuanfu 1 + 3usats               TY 9      LEO/S
+01/07/20  CZ-3B/E           Y62     TJSW-5                     -1     XC 2      GTO
+01/15/20  CZ-2D             Y58     Kuanfu 1 + 3usats          -1     TY 9      LEO/S
 01/16/20  KZ-1A             Y9      GS-SparkSat 3            0.227  JQ 43/95  LEO
 01/16/20  Ariane 5 ECA      VA251   Konnect/GSAT 30          6.976  KO 3      GTO
 01/29/20  Falcon 9 v1.2     F9-81   Starlink 1 F3           15.6    CC 40     LEO
-01/31/20  Electron/Curie    11      NROL-51                         MA 1      LEO
-02/06/20  Soyuz 2.1b/Fregat ST27    OneWeb 7-40              5.015  TB 31/6   LEO
-02/09/20  H-2A-202          F41     IGS Optical 7                   TA Y1     LEO/S
-02/09/10  Simorgh           004     Zafar 1                         SE 2     [FTO][1]
+01/31/20  Electron/Curie    11      NROL-51                    -1     MA 1      LEO
+02/06/20  Soyuz 2.1b/Fregat  ST27    OneWeb 7-40              5.015  TB 31/6   LEO
+02/09/20  H-2A-202          F41     IGS Optical 7              -1     TA Y1     LEO/S
+02/09/10  Simorgh           004     Zafar 1                    -1     SE 2     [FTO][1]
 02/10/20  Atlas 5-411       AV087   Solar Orbiter            1.800  CC 41     HCO
 02/15/20  Antares 230+      A12     Cygnus NG-13             7.50   WI 0A     LEO/ISS
 02/17/20  Falcon 9 v1.2     F9-82   Starlink 1 F4           15.6    CC 40     LEO [2]
 02/18/20  Ariane 5 ECA+     VA252   JCSat 17/G-KOMPSAT 2B    9.236  KO 3      GTO
-02/19/20  CZ-2D             Y61     XJS C,D,E,F                     XC 3      LEO [3]
-02/20/19  Soyuz 2-1a/Fregat 1911    Meridian-M 19L          ~2.0    PL 43/3   EEO/M
+02/19/20  CZ-2D             Y61     XJS C,D,E,F               -1      XC 3      LEO [3]
+02/20/19  Soyuz 2-1a/Fregat  1911    Meridian-M 19L          ~2.0    PL 43/3   EEO/M
 03/07/20  Falcon 9 v1.2     F9-83   CRS-20/Dragon 12.3      ~7.259  CC 40     LEO/ISS[4]
 03/09/20  CZ-3B/E           Y69     Beidou-3 G2              4.6    XC 2      GTO
-03/16/20  CZ-7A             Y1      XJY 6                           WC 201   [FTO][5]
-03/16/20  Soyuz 2-1b/Fregat 1912    Uragan-M 760             1.415  PL 43/4   MEO
+03/16/20  CZ-7A             Y1      XJY 6                     -1      WC 201   [FTO][5]
+03/16/20  Soyuz 2-1b/Fregat  1912    Uragan-M 760             1.415  PL 43/4   MEO
 03/18/20  Falcon 9 v1.2     F9-84   Starlink 1 F5           15.6    KC 39A    LEO [6]
-03/21/20  Soyuz 2.1b/Fregat ST28    OneWeb 41-74             5.015  TB 31/6   LEO
-03/24/20  CZ-2C                     Yaogan 30-06                    XC 3      LEO
+03/21/20  Soyuz 2.1b/Fregat  ST28    OneWeb 41-74             5.015  TB 31/6   LEO
+03/24/20  CZ-2C               UNKNOWN      Yaogan 30-06               -1     XC 3      LEO
 03/26/20  Atlas 5-551       AV086   AEHF 6                   6.168  CC 41     GTO+ [7]
 04/09/20  Soyuz 2.1a        1914    Soyuz MS-16             ~7.2    TB 31/6   LEO/ISS[8]
-04/09/20  CZ-3B/E                   Palapa N1                5.55   XC 2     [FTO][9]
-04/22/20  Qased                     Noor                            SH        LEO [10]
+04/09/20  CZ-3B/E             UNKNOWN      Palapa N1                5.55   XC 2     [FTO][9]
+04/22/20  Qased               UNKNOWN      Noor                      -1      SH        LEO [10]
 04/22/20  Falcon 9 v1.2     F9-85   Starlink 1 F6           15.6    KC 39A    LEO [11]
 04/25/20  Soyuz 2-1a        1915    Progress MS-14          ~7.4    TB 31/6   LEO/ISS
 05/05/20  CZ-5B             Y1      XZF,RCS                ~22.0    WC 101    LEO [12]
 05/12/20  KZ-1A             Y6      Xingyun 2-1, 2-2         0.186  JQ 43/95  LEO/S
 05/17/20  Atlas 5-501       AV081   USSF 7 (X37B OTV6)      ~6.0?   CC41      LEO [13]
 05/20/20  H-2B-304          F9      HTV-9                   16.5    TA Y2     LEO/ISS
-05/22/19  Soyuz 2-1b/Fregat 1916    EKS 4                   ~1.4?   PL 43/4   EEO/M
-05/25/20  LauncherOne       01      Launch Demo                     MO       [FTO][14]
-05/29/20  CZ-11                     XJS-G, XJS-H                    XC        LEO [15]
+05/22/19  Soyuz 2-1b/Fregat  1916    EKS 4                   ~1.4?   PL 43/4   EEO/M
+05/25/20  LauncherOne       01      Launch Demo               -1      MO       [FTO][14]
+05/29/20  CZ-11              UNKNOWN       XJS-G, XJS-H              -1      XC        LEO [15]
 05/30/20  Falcon 9 v1.2     F9-87   DM-2/Crew Dragon       ~12.5    KC 39A    LEO/ISS[16]
-05/31/20  CZ-2D             Y51     Gaofen 9-02/Hede 4              JQ 43/603 LEO/S
+05/31/20  CZ-2D             Y51     Gaofen 9-02/Hede 4        -1      JQ 43/603  LEO/S
 06/04/20  Falcon 9 v1.2     F9-86   Starlink 1 F7           15.6    CC 40     LEO [17]
-06/10/20  CZ-2C                     Haiyang 1D              0.442   TY 9      LEO/S
-06/13/20  Electron/Curie    12      Rideshare                       MA 1      LEO  
-06/13/20  Falcon 9 v1.2     F9-88   Starlink 1 F8/3xSkysat 15.41    CC 40     LEO [18]
-06/17/20  CZ-2D             Y52     Gaofen 9-03/Hede 5              JQ 43/603 LEO/S
+06/10/20  CZ-2C               UNKNOWN      Haiyang 1D              0.442   TY 9      LEO/S
+06/13/20  Electron/Curie    12      Rideshare                 -1      MA 1      LEO  
+06/13/20  Falcon 9 v1.2     F9-88   Starlink 1 F8/3xSkysat  15.41    CC 40     LEO [18]
+06/17/20  CZ-2D             Y52     Gaofen 9-03/Hede 5        -1      JQ 43/603  LEO/S
 06/23/20  CZ-3B/E           Y68     Beidou-3 G3              4.6    XC 2      GTO
 06/30/20  Falcon 9 v1.2     F9-90   GPS 3-3                  4.311  CC 40     MTO [19]
 07/03/20  CZ-4B             Y43     GFMM                     2.4    TY 9      LEO/S
-07/04/20  Electron/Curie    13      CE-SAT-1B/Dovesats              MA 1     [FTO][20]
-07/04/20  CZ-2D             Y29     Shiyan Weixing 6-02             JQ 43/603 LEO/S
-07/06/20  Shavit-2          12      Ofeq 16                         PA        LEO/R
+07/04/20  Electron/Curie    13      CE-SAT-1B/Dovesats        -1      MA 1     [FTO][20]
+07/04/20  CZ-2D             Y29     Shiyan Weixing 6-02       -1      JQ 43/603  LEO/S
+07/06/20  Shavit-2          12      Ofeq 16                   -1      PA        LEO/R
 07/09/20  CZ-3B/E           Y64     APStar 6D                5.55   XC 3      GTO
-07/10/20  KZ-11             F1      Multisat                        JQ       [FTO][21]
-07/15/20  Minotaur 4        MT4-7   NROL 129                        WI 0B     LEO
+07/10/20  KZ-11             F1      Multisat                  -1      JQ       [FTO][21]
+07/15/20  Minotaur 4        MT4-7   NROL 129                  -1      WI 0B     LEO
 07/19/20  H-2A-202          F42     Hope                     1.35   TA Y1     HCO [22]
-07/20/20  Falcon 9 v1.2     F9-91   Anasis 2                        CC 40     GTO+[23]
+07/20/20  Falcon 9 v1.2     F9-91   Anasis 2                  -1      CC 40     GTO+[23]
 07/23/20  CZ-5              Y4      Tianwan 1               ~5.0    WC 101    HCO [24]
 07/23/20  Soyuz 2-1a        1917    Progress MS-15          ~7.4    TB 31/6   LEO/ISS
 07/25/20  CZ-4B             Y45     Ziyuan 3-3               2.63   TY 9      LEO/S
 07/30/20  Atlas 5-541       AV088   Mars-2020                4.082  CC 41     HCO [25]
-07/30/20  Proton M/Briz M   93567   Express 80/103           4.390  TB 200/39 GTO+
-08/06/20  CZ-2D             Y56     Gaofen 9-04/Tsinghua            JQ 43/603 LEO/S
-08/07/20  Falcon 9 v1.2     F9-89   Starlink 1 9/Global 7/8 15.192  KC 39A    LEO [26]
-08/15/20  Ariane 5 ECA+     L5112   VA253/Glxy30/MEV2/BSat4b 9.804  KO 3      GTO
+07/30/20  Proton M/Briz M   93567   Express 80/103           4.390  TB 200/39  GTO+
+08/06/20  CZ-2D             Y56     Gaofen 9-04/Tsinghua      -1      JQ 43/603  LEO/S
+08/07/20  Falcon 9 v1.2     F9-89   Starlink 1 9/Global 7/8  15.192  KC 39A    LEO [26]
+08/15/20  Ariane 5 ECA+     L5112   VA253/Glxy30/MEV2/BSat4b   9.804  KO 3      GTO
 08/18/20  Falcon 9 v1.2     F9-92   Starlink 1-10/Skysat    15.44   CC 40     LEO [27]
-08/23/20  CZ-2D             Y57     Gaofen 9-05/Tiantuo 5           JQ 43/603 LEO/S
+08/23/20  CZ-2D             Y57     Gaofen 9-05/Tiantuo 5     -1      JQ 43/603  LEO/S
 08/30/20  Falcon 9 v1.2     F9-93   SAOCOM 1B                3.05   CC 40     LEO/S[28]
 08/31/20  Electron/Curie    14      Sequoia                  0.100  MA 1      LEO
 09/03/20  Vega              VV16    SSMS POC                 0.877  KO ZLV    LEO/S 
 09/03/20  Falcon 9 v1.2     F9-94   Starlink V1-11          15.6    KC 39A    LEO [29]
-09/04/20  CZ-2F/T                   Reusable Test S/C               JQ 43/921 LEO
-09/07/20  CZ-4B             Y46     Gaofen 11-02                    TY 9      LEO/S
-09/12/20  Rocket 3          R3.1    Orbital Test                    KD 3B    [FTO][30]
+09/04/20  CZ-2F/T             UNKNOWN      Reusable Test S/C         -1      JQ 43/921  LEO
+09/07/20  CZ-4B             Y46     Gaofen 11-02              -1      TY 9      LEO/S
+09/12/20  Rocket 3          R3.1    Orbital Test              -1      KD 3B    [FTO][30]
 09/12/20  KZ-1A             Y3      Jilin-1 Gaofen 02C       0.23   JQ       [FTO][31]
-09/15/20  CZ-11H            Y2      9 Gaofen 03B/C                  YL        LEO/S[32]
-09/21/20  CZ-4B             Y41     Haiyang 2C                      JQ 43/603 LEO
-09/27/20  CZ-4B             Y42     HJ-2A/HJ-2B                     TY 9      LEO/S
-09/28/20  Soyuz 2-1b/Fregat 1917    3xGonets-M + usats              PL 43/4   LEO
+09/15/20  CZ-11H            Y2      9 Gaofen 03B/C            -1      YL        LEO/S[32]
+09/21/20  CZ-4B             Y41     Haiyang 2C                -1      JQ 43/603  LEO
+09/27/20  CZ-4B             Y42     HJ-2A/HJ-2B               -1      TY 9      LEO/S
+09/28/20  Soyuz 2-1b/Fregat  1917    3xGonets-M + usats       -1       PL 43/4   LEO
 10/03/20  Antares 230+      A13     Cygnus NG-14             7.42   WI 0A     LEO/ISS
 10/06/20  Falcon 9 v1.2     F9-95   Starlink 1-12           15.6    KC 39A    LEO [33]
-10/11/20  CZ-3B/E           Y63     Gaofen 13                       XC 2      GTO
+10/11/20  CZ-3B/E           Y63     Gaofen 13                 -1      XC 2      GTO
 10/14/20  Soyuz 2.1a        1918    Soyuz MS-17             ~7.2    TB 31/6   LEO/ISS
 10/18/20  Falcon 9 v1.2     F9-97   Starlink 1-13           15.6    KC 39A    LEO [34]
 10/24/20  Falcon 9 v1.2     F9-98   Starlink 1-14           15.6    CC 40     LEO [35]
-10/25/20  Soyuz 2-1b/Fregat 1919    Glonass-K 15L            0.94   PL 43/3   MEO 
-10/26/20  CZ-2C             Y43     Yaogan 30-07                    XC 3      LEO
+10/25/20  Soyuz 2-1b/Fregat  1919    Glonass-K 15L            0.94   PL 43/3   MEO 
+10/26/20  CZ-2C             Y43     Yaogan 30-07              -1      XC 3      LEO
 10/28/20  Electron/Curie    15      CESAT 2B/Flock 4e       ~0.081  MA 1      LEO/S
 11/05/20  Falcon 9 v1.2     F9-96   GPS 3-04                 4.311  CC 40     MTO [36]
 11/06/20  CZ-6              Y3      1-xNuSats + 3 usats     ~0.5    TY 16     LEO/S
 11/07/20  Ceres-1           Y1      Tianqi 11                0.05   JQ        LEO/S[37]
 11/07/20  PSLV-DL           C49     EOS-1 + 9usats          ~0.7    SR 1      LEO
-11/12/20  CZ-3B/E           Y73     Tiantong 1-02                   XC 2      GTO
-11/13/20  Atlas 531         AV090   NROL 101                        CC 41     MEO?
+11/12/20  CZ-3B/E           Y73     Tiantong 1-02            -1       XC 2      GTO
+11/13/20  Atlas 531         AV090   NROL 101                  -1      CC 41     MEO?
 11/16/20  Falcon 9 v1.2     F9-99   Crew 1/Crew Dragon     ~12.5    KC 39A    LEO/ISS[38]
 11/17/20  Vega              VV17    SEOSat/TARANIS           0.925  KO ZLV   [FTO][39]
 11/20/20  Electron/Curie    16      Dragracer/Swarm/etc     ~0.046  MA 1      LEO/S[40]
 11/21/20  Falcon 9 v1.2     F9-100  Sentinel 6               1.192  VA 4E     LEO [41]
 11/23/20  CZ-5              Y5      Chang'e 5                8.2    WC 101    TLI [42]
 11/25/20  Falcon 9 v1.2     F9-101  Starlink 1-15           15.6    CC 40     LEO [43]
-11/29/20  H-2A-202          F43     JDRS 1                          TA Y1     GTO
-12/02/20  Soyuz 2-1a/Fregat VS24    FalconEye 2              1.19   KO ELS    LEO/S
-12/03/20  Soyuz 2-1b/Fregat 1921    3xGonets-M + sat                PL 43/3   LEO
-12/06/20  CZ-3B/G5          Y70     Gaofen 14                       XC 3      LEO/S[44]
+11/29/20  H-2A-202          F43     JDRS 1                    -1      TA Y1     GTO
+12/02/20  Soyuz 2-1a/Fregat  VS24    FalconEye 2              1.19   KO ELS    LEO/S
+12/03/20  Soyuz 2-1b/Fregat  1921    3xGonets-M + sat         -1       PL 43/3   LEO
+12/06/20  CZ-3B/G5           Y70     Gaofen 14                -1       XC 3      LEO/S[44]
 12/06/20  Falcon 9 v1.2     F9-102  CRS-21/Dragon 2 Cargo  ~12.5    KC 39A    LEO/ISS[45]
-12/09/20  CZ-11             Y9      GECAM                           XC        LEO
-12/11/20  Delta 4H          D385    NROL 44                         CC 37B    GEO
+12/09/20  CZ-11             Y9      GECAM                     -1      XC        LEO
+12/11/20  Delta 4H          D385    NROL 44                   -1      CC 37B    GEO
 12/13/20  Falcon 9 v1.2     F9-103  SXM 7                  ~7.0     CC 40     GTO- [46]
-12/14/20  Angara A5/Briz M  A5-2    IPM Test Flight                 PL 35/1   GEO  [47]
+12/14/20  Angara A5/Briz M  A5-2    IPM Test Flight           -1      PL 35/1   GEO  [47]
 12/15/20  Electron/Curie    F17     StriX-a                 0.15    MA 1      LEO/S
-12/15/20  Astra Rocket 3    3.2     Oribital Test                   KD 3B    [FTO] [48]
-12/17-20 PSLV-XL           C50     CMS 1                   1.41    SR 2      GTO- 
-12/18/20  Soyuz 2.1b/Fregat ST29    OneWeb 75-110           5.310   VO 1S     LEO
-12/19/20  Falcon 9 v1.2     F9-104  NROL-108                        KC 39A    LEO? [49]
+12/15/20  Astra Rocket 3    3.2     Oribital Test             -1      KD 3B    [FTO] [48]
+12/17/20  PSLV-XL           C50     CMS 1                   1.41    SR 2      GTO-
+12/18/20  Soyuz 2.1b/Fregat  ST29    OneWeb 75-110           5.310   VO 1S     LEO
+12/19/20  Falcon 9 v1.2     F9-104  NROL-108                  -1      KC 39A    LEO? [49]
 12/22/20  CZ-8              Y1      XJY-1 + 4 usats        ~3.22    WC 202    LEO/S[50]
-12/27/20  CZ-4C             Y35     Yaogan 33                       JQ 43/603 LEO/S
-12/29/20  Soyuz 2/1a/Fregat VS25    CSO 2                    3.562  KO ELS    LEO/S
+12/27/20  CZ-4C             Y35     Yaogan 33                  -1     JQ 43/603  LEO/S
+12/29/20  Soyuz 2/1a/Fregat  VS25    CSO 2                    3.562  KO ELS    LEO/S
 -------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------
 

@@ -347,10 +347,10 @@ Falcon 1         2     5    .40  .43      2    8/3/08   2006-2009
 DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*      ORBIT**
 -------------------------------------------------------------------------------------
 01/09/12  CZ-4B             CZ4B16  Ziyuan 3                 2.65   TY 2       LEO/S
-01/13/12  CZ-3A             CZ3A23  Fengyun 2-07(F)                 XC 3       GTO
+01/13/12  CZ-3A             CZ3A23  Fengyun 2-07(F)           -1      XC 3       GTO
 01/20/12  Delta 4M+5,4      D358?   WGS 4                    5.988  CC 37B     GTO+
 01/25/12  Soyuz U           1785    Progress M-14M           7.2    TB 1/5     LEO/ISS
-02/03/12  Safir             ERS2002 Navid-e Elm-o Sanat      0.05   SE         LEO
+02/03/12  Safir             ERS2002  Navid-e Elm-o Sanat      0.05   SE         LEO
 02/13/12  Vega              VV01    LARES/ALMAsat            0.42   KO ZLV     LEO
 02/14/12  Proton M/Briz M   P373    SES 4                    6.18   TB 200/39  GTO
 02/24/12  CZ-3C             CZ3C8   Beidou 11 (2G5)          3.8    XC 2       GTO
@@ -359,71 +359,71 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*      OR
 03/25/12  Proton M/Briz M   P374    Intelsat 22              6.199  TB 200/39  GTO+
 03/30/12  Proton K/DM-2     P375    Kosmos 2479              2.6    TB 81/24   GEO
 03/31/12  CZ-3B/E           CZ3B19  Apstar 7                 5.054  XC 2       GTO
-04/03/12  Delta 4M+5,2      D359?   NROL-25                         VA 6       LEO/r
+04/03/12  Delta 4M+5,2      D359?   NROL-25                   -1      VA 6       LEO/r
 04/12/12  Unha (Unha 3)     Unha3   Kwangmyongsong 3         0.1    SO        [FTO][1]
 04/20/12  Soyuz U           1786    Progress M-15M           7.2    TB 31/6    LEO/ISS
 04/23/12  Proton M/Briz M   P376    Yahsat 1B                6.05   TB 200/39  GTO+
 04/26/12  PSLV-XL           C19     Risat 1                  1.858  SR FLP     LEO/S
 04/30/12  CZ-3B             CZ3B20  Compass M3/M4           ~4.0    XC 2       MTO
 05/04/12  Atlas 5-531       AV031   AEHF 2                   6.17   CC 41      GTO+
-05/06/12  CZ-2D             CZ2D16  Tianhui I-02                    JQ 4L      LEO/S
-05/10/12  CZ-4B             CZ4B17  Yaogan 14/Tiantuo 1             TY 2       LEO/S
+05/06/12  CZ-2D             CZ2D16  Tianhui I-02              -1      JQ 4L      LEO/S
+05/10/12  CZ-4B             CZ4B17  Yaogan 14/Tiantuo 1       -1      TY 2       LEO/S
 05/15/12  Soyuz FG          1787    Soyuz TMA-04M            7.2    TB 1/5     LEO/ISS
 05/15/12  Ariane 5 ECA      L562    VA206/JCSAT13/VINASAT2   7.5    KO 3       GTO
 05/17/12  Soyuz U           1788    Kobalt M                 6.7    PL 16/2    LEO
-05/17/12  H-2A-202          F21     GCOM W1/Kompsat 3               TA Y1      LEO/S
+05/17/12  H-2A-202          F21     GCOM W1/Kompsat 3         -1      TA Y1      LEO/S
 05/17/12  Proton M/Briz M   P377    Nimiq 6                  4.5    TB 81/24   GEO
 05/22/12  Falcon 9          F9-3    Dragon C2+               7.0?   CC 40      LEO/ISS
-05/23/12  Safir                     Fajr?                    0.1?   SE        [FTO][7]
+05/23/12  Safir              UNKNOWN       Fajr?              -1      0.1?   SE        [FTO][7]
 05/26/12  CZ-3B/E           CZ3B21  Xhongxing 2A             5.4?   XC 2       GTO
 05/29/12  CZ-4C             CZ4C8   Yaogan 15                2.8?   TY 2       LEO/S
 06/01/12  Zenit 3SL/DMSL    SL33    Intelsat 19              5.6    PO OLP     GTO
 06/13/12  Pegasus XL        P41     NuStar                   0.35   KW         LEO
 06/16/12  CZ-2F/G           CZ2F10  Shenzhou 9               7.7    JQ SLS-R   LEO
-06/20/12  Atlas 5           AV023   NRO-L38                         CC 41      GTO?
-06/29/12  Delta 4H          D360?   NRO-L15                         CC 37B     GTO?
+06/20/12  Atlas 5           AV023   NRO-L38                   -1      CC 41      GTO?
+06/29/12  Delta 4H          D360?   NRO-L15                   -1      CC 37B     GTO?
 07/06/12  Ariane 5 ECA      L563    VA207/Echostar 17/MSG 3  8.13   KO 3       GTO
 07/09/12  Proton M/Briz M   P378    SES 5                    6.01   TB 81/24   GTO
 07/15/12  Soyuz FG          1788    Soyuz TMA-05M            7.2    TB 1/5     LEO/ISS
 07/21/12  H-2B              H2BF3   HTV-3(Kounotori)        15.9    TA Y2      LEO/ISS
-07/22/12  Soyuz FG/Fregat   1789    Konopus-B/MKA-FKI/+3sat         TB 31/6    LEO/S
+07/22/12  Soyuz FG/Fregat   1789    Konopus-B/MKA-FKI/+3sat   -1      TB 31/6    LEO/S
 07/25/12  CZ-3C             CZ3C9   Tianlian-1 (3)           2.462  XC 2       GTO+
-07/28/12  Rokot/Briz KM             Kosmos 2481/2xGonets M          PL 133/3   LEO
+07/28/12  Rokot/Briz KM  UNKNOWN  Kosmos 2481/2xGonets M  -1  PL 133/3  LEO
 08/01/12  Soyuz U           1790    Progress M-16M           7.1    TB 1/5     LEO/ISS
 08/02/12  Ariane 5 ECA      VA208   Intelsat 20/Hylas 2      9.4    KO 3       GTO
 08/06/12  Proton M/Briz M   p379    Telkom 3/Express MD2     2.74   TB 81/24  [EEO][2]
 08/19/12  Zenit 3SL/DMSL    SL49    Intelsat 21              5.982  PO OLP     GTO
 08/30/12  Atlas 5-401       AV032   RBSP-A/B (2sats)         1.315  CC 41      EEO
 09/09/12  PSLV-CA           C21     SPOT 6/Proiteres         0.727  SR FLP     LEO/S
-09/13/12  Atlas 5-401       AV033   NROL-36                         VA 3E      LEO?
-09/17/12  Soyuz 2-1a/Fregat ST-25   Metop B                  4.085  TB 31/6    LEO/S
+09/13/12  Atlas 5-401       AV033   NROL-36                    -1     VA 3E      LEO?
+09/17/12  Soyuz 2-1a/Fregat  ST-25   Metop B                  4.085  TB 31/6    LEO/S
 09/18/12  CZ-3B/E           CZ3B22  Beidou M5/M6            ~4.0    XC 2       MTO
-09/22/12  Safir                     Fajr?                    0.1?   SE        [FTO][7]
+09/22/12  Safir              UNKNOWN       Fajr?               -1     0.1?   SE        [FTO][7]
 09/28/12  Ariane 5 ECA      L565    VA209 Astra 2F/GSat 10   9.4    KO 3       GTO
-09/29/12  CZ-2D             CZ2D17  VRSS 1                          JQ 4L      LEO/S
+09/29/12  CZ-2D             CZ2D17  VRSS 1                    -1      JQ 4L      LEO/S
 10/04/12  Delta 4M+4,2      D361?   GPS 2F-3                 1.63   CC 37B     MEO [3]
 10/08/12  Falcon 9          F9-4    Dragon CRS-1             7.0?   CC 40     [LEO/ISS][4]
-10/12/12  Soyuz 2-1b/Fregat VS03    IOV-2/Galileo FM3,4      1.4    KO ELS     MEO
-10/14/12  CZ-2C             CZ2C37  Shijian 9 (2sats)               TY 2       LEO/P
+10/12/12  Soyuz 2-1b/Fregat  VS03    IOV-2/Galileo FM3,4      1.4    KO ELS     MEO
+10/14/12  CZ-2C             CZ2C37  Shijian 9 (2sats)         -1      TY 2       LEO/P
 10/14/12  Proton M/Briz M   p380    Intelsat 23              2.7    TB 81/24   GEO
 10/23/12  Soyuz FG          1793    Soyuz TMA-06M            7.2    TB 31/6    LEO/ISS
 10/25/12  CZ-3C             CZ3C10  Beidou G6                3.8    XC 2       GTO
 10/31/12  Soyuz U           1794    Progress M-17M           7.1    TB 1/5     LEO/ISS
 11/02/12  Proton M/Briz M   p381    Yamal 300K/Luch 5B       2.79   TB 81/24   GEO
-11/10/12  Ariane 5 ECA      L566    VA210 Eutlst21B/Star1-C3 8.24   KO 3       GTO
-11/14/12  Soyuz 2-1a/Fregat 1795    Merdian 6                       PL 43/3    EEO/M
-11/18/12  CZ-2C             CZ2C38  Huanjing 1C                     TY 2       LEO/S
+11/10/12  Ariane 5 ECA      L566    VA210 Eutlst21B/Star1-C3  8.24   KO 3       GTO
+11/14/12  Soyuz 2-1a/Fregat  1795    Merdian 6                 -1      PL 43/3    EEO/M
+11/18/12  CZ-2C             CZ2C38  Huanjing 1C               -1      TY 2       LEO/S
 11/20/12  Proton M/Briz M   P382    Echostar 16              6.65   TB 200/39  GTO
-11/24/12  CZ-4C             CZ4C9   Yaogan 16                       JQ 4L      LEO
+11/24/12  CZ-4C             CZ4C9   Yaogan 16                 -1      JQ 4L      LEO
 11/27/12  CZ-3B/E           CZ3B23  Zhongxing 12             5.0    XC 2       GTO
-12/02/12  Soyuz 2-1a/Fregat VS04    Pleiades 1B              0.97   KO ELS     LEO/S
+12/02/12  Soyuz 2-1a/Fregat  VS04    Pleiades 1B              0.97   KO ELS     LEO/S
 12/03/12  Zenit 3SL/DMSL    SL50    Eutelsat 70B             5.25   PO OLP     GTO
-12/08/12  Proton M/Briz M   P383    Yamal 402                4.46   TB 200/39 [GTO][5]
+12/08/12  Proton M/Briz M   P383    Yamal 402                4.46   TB 200/39  [GTO][5]
 12/11/12  Atlas 5-501       AV0??   OTV-3(X37B-1F2)         ~5.0    CC 41      LEO
 12/12/12  Unha (Unha 3)     Unha3   Kwangmyongsong 3F2       0.1    SO         LEO/S[6]
 12/18/12  CZ-2D             CZ2D18  Gokturk 2                0.45   JQ 4L      LEO/S
 12/19/12  Soyuz FG          1797    Soyuz TMA-07M            7.2    TB 1/5     LEO/ISS
-12/19/12  Ariane 5 ECA      L567    VA211 Skynet 5D/Mexsat 3 7.80   KO 3       GTO
+12/19/12  Ariane 5 ECA      L567    VA211 Skynet 5D/Mexsat 3  7.80   KO 3       GTO
 ------------------------------------------------------------------------------------
 [1] Failed about 80-85 seconds after launch, around the time of expected staging.  
     First flight from Sohae in northwest corner of N. Korea.  Southbound LEO/P attempt.

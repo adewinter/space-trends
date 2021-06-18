@@ -346,10 +346,10 @@ DATE     VEHICLE           ID     PAYLOAD                 MASS(t) SITE*      ORB
 07/26/08  Soyuz-2.1b  1734  Kosmos 2441 (Persona 1)  -1  PL 43/4  LEO/S
 08/03/08  Falcon 1          F1-3   Jumpstart/PreSat/Nanosail  0.17  KW OM     [FTO] (3)
 08/14/08  Ariane 5 ECA      A542   V185/Superbird 7/AMC 21   7.27  KO 3       GTO
-08/16/08  Safir IRILV  UNKNOWN  Omid Dummysat?  SE  FTO (3.4)
+08/16/08  Safir IRILV  UNKNOWN  Omid Dummysat?  -1  SE  FTO (3.4)
 08/18/08  Proton M/Briz M  UNKNOWN  Inmarsat 4-F3  5.96  TB 200/39  GTO
 08/29/08  Dnepr  UNKNOWN  5xRapidEye  0.75  TB 109/95  LEO/S
-09/06/08  CZ-2C             CZ2C30   HJ-1A, HJ-1B                    TY         LEO/S
+09/06/08  CZ-2C  CZ2C30  HJ-1A, HJ-1B  -1  TY  LEO/S
 09/06/08  Delta 2-7420      D335   GeoEye 1                  1.923  VA 2W      LEO/S
 09/10/08  Soyuz-U           1735   Progress M-65 (P30)       7.1   TB 1/5     LEO/ISS
 09/19/08  Proton M/Briz M  UNKNOWN  Nimiq 4  4.85  TB 200/39  GTO+
@@ -369,7 +369,7 @@ DATE     VEHICLE           ID     PAYLOAD                 MASS(t) SITE*      ORB
 11/14/08  Soyuz-U  1737  Kosmos 2445 (Kobol't-M)  -1  PL 16/2  LEO
 11/15/08  STS/Endeavour     OV105  STS-126/ULF-2           116.50  KC 39A     LEO/ISS
 11/26/08  Soyuz U           1738   Progress M-1M             7.29  TB 1/5     LEO/ISS
-12/01/08  CZ-2D  UNKNOWN  CZ2D10 Yaogan 4  JQ 4L  LEO/S
+12/01/08  CZ-2D  CZ2D10  Yaogan 4  -1  JQ 4L  LEO/S
 12/02/08  Molniya M  1739  Kosmos 2446 (Oko-2)  -1  PL 16/2  EEO/M
 12/10/08  Proton M/Briz M  UNKNOWN  Ceil 2  5.56  TB 200/39  GTO
 12/15/08  CZ-4B             CZ417  Yaogan 5                  2.2?  TY 2       LEO/S
