@@ -41,17 +41,22 @@ class OrbitCodesParser():
         orbit.save()
 
     def parse(self):
+        self.pprint(f"Parsing Orbital Codes from File: {self.filepath}")
         with open(self.filepath, 'r') as orbit_codes_file:
             orbit_code_lines = orbit_codes_file.readlines()
 
+        count = 0
         for orbit_code_line in orbit_code_lines:
             orbit_code_entry = self.parse_orbit_code_entry_from_line(orbit_code_line)
             
-            self.pprint(f"Parsing orbit: {orbit_code_line}")
+            self.debug_pprint(f"Parsing orbit: {orbit_code_line}")
             self.debug_pprint(orbit_code_entry)
-            self.pprint("")
+            self.debug_pprint("")
 
             self.update_orbit_code_db_with_entry(orbit_code_entry)
+            count += 1
+
+        self.pprint(f"Parsed {count} orbital code entries!")
 
 
 
@@ -86,17 +91,22 @@ class SiteCodesParser():
         site.save()
 
     def parse(self):
+        self.pprint(f"Parsing Site Codes from File: {self.filepath}")
         with open(self.filepath, 'r') as site_codes_file:
             site_code_lines = site_codes_file.readlines()
 
+        count = 0
         for site_code_line in site_code_lines:
             site_code_entry = self.parse_site_code_entry_from_line(site_code_line)
             
-            self.pprint(f"Parsing site: {site_code_line}")
+            self.debug_pprint(f"Parsing site: {site_code_line}")
             self.debug_pprint(site_code_entry)
-            self.pprint("")
+            self.debug_pprint("")
 
             self.update_site_code_db_with_entry(site_code_entry)
+            count += 1
+
+        self.pprint(f"Parsed {count} orbital code entries!")
 
 
 class LaunchNotesParser():
@@ -153,14 +163,15 @@ class LaunchNotesParser():
         return line
 
     def update_launch_with_note(self, note_number, note):
-        try:
-            launch = Launch.objects.get(notes=note_number, launch_date__year=self.year)
-        except Launch.DoesNotExist:
+        launches = Launch.objects.filter(notes=note_number, launch_date__year=self.year)
+        
+        if(launches.count() <= 0):
             self.error_print(f"Could not find a launch for note: [{note_number}]: {note}")
             return
-
-        launch.notes = note
-        launch.save()
+        
+        for launch in launches:
+            launch.notes = note
+            launch.save()
 
     def parse(self):
         self.pprint(f"Parsing Launch Notes for {self.filename} starting at line {self.notes_start_index}")
