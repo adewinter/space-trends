@@ -99,13 +99,106 @@ class SiteCodesParser():
             self.update_site_code_db_with_entry(site_code_entry)
 
 
+class LaunchNotesParser():
+    def __init__(self, stdout, style, filepath, filename, is_debug_mode, notes_start_index):
+        self.stdout = stdout
+        self.style = style
+        self.filepath = filepath
+        self.filename = filename
+        self.is_debug_mode = is_debug_mode #Set to `True` when passed in --verbosity flag is greater than 1
+        self.notes_start_index = notes_start_index
+
+        # Set the 'year' this file was made in
+        year_regex = r'\d{4}'
+        match = re.search(year_regex, self.filename)
+        if match:
+            self.year = int(match[0])
+
+    def pprint(self, msg):
+        self.stdout.write(self.style.SUCCESS(msg))
+
+    def error_print(self, msg):
+        self.stdout.write(self.style.ERROR(msg))
+
+    def debug_print(self, msg):
+        if self.is_debug_mode:
+            self.pprint(msg)
+
+    def debug_pprint(self, msg):
+        self.debug_print(pprint.pformat(msg))
+
+    def extract_note_and_number_from_line(self, line):
+        '''
+            Example line:
+            [1] Briz M failure during second of three planned but...
+            or
+            (2) First SpaceX Falcon 1 attempt failed shortly...
+        '''
+        if line.startswith('('):
+            split_character = ')'
+        elif line.startswith('['):
+            split_character = ']'
+        line_parts = line.lstrip('[').lstrip('(').split(split_character)
+
+        if(len(line_parts) == 2):
+            return line_parts[0], line_parts[1]
+        elif(len(line_parts) > 2): #cobble the line back together if there multiple split characers in the note for some reason
+            return line_parts[0], split_character.join(line_parts[1:])
+        elif(len(line_parts) == 1):
+            return line_parts[0], '' #empty note I guess?
+        else:
+            raise ValueError(f"Note sure what to do with this line. Throwing a tantrum: {line}")
+
+    def extract_note_from_continuation_line(self, line):
+        return line
+
+    def update_launch_with_note(self, note_number, note):
+        try:
+            launch = Launch.objects.get(notes=note_number, launch_date__year=self.year)
+        except Launch.DoesNotExist:
+            self.error_print(f"Could not find a launch for note: [{note_number}]: {note}")
+            return
+
+        launch.notes = note
+        launch.save()
+
+    def parse(self):
+        self.pprint(f"Parsing Launch Notes for {self.filename} starting at line {self.notes_start_index}")
+        
+        with open(self.filepath, 'r') as launch_stats_file:
+            all_lines = launch_stats_file.readlines()
+
+        launch_notes_lines = all_lines[self.notes_start_index:]
+
+        current_note_number = -1
+        is_continuation = False
+        current_note = ''
+        for note_line in launch_notes_lines:
+            note_line = note_line.strip()
+            self.debug_print(f"Current line: {note_line}")
+            if '==============' in note_line:
+                self.update_launch_with_note(current_note_number, current_note) #don't forget to update with the last note!
+                break # reached the end of the notes
+
+            if note_line.startswith('(') or note_line.startswith('['):
+                if current_note_number != -1:
+                    # we've reached a new note number, populate db with previous one's data
+                    self.update_launch_with_note(current_note_number, current_note)
+
+                current_note_number, current_note = self.extract_note_and_number_from_line(note_line)
+                self.debug_print(f"Found a note: {current_note_number}, {current_note}")
+            else:
+                current_note += ' '
+                current_note += self.extract_note_from_continuation_line(note_line)
+                self.debug_print(f"Found a note continuation: {current_note}")
+            
+
 class LaunchStatsParser():
     def __init__(self, stdout, style, filepath, filename, is_debug_mode):
         self.stdout = stdout
         self.style = style
         self.filepath = filepath
         self.filename = filename
-        self.year = 0000
         self.file_should_be_modified = False #if we perform a line fix in the middle of parsing, we can now persist the fix
         self.is_debug_mode = is_debug_mode #Set to `True` when passed in --verbosity flag is greater than 1
 
@@ -147,13 +240,16 @@ class LaunchStatsParser():
                 data_end_match_index = index
                 break; #stop at the first match
         
-        data_end_raw_lines_index = data_start_raw_lines_index + data_end_match_index
+        self.data_end_raw_lines_index = data_start_raw_lines_index + data_end_match_index
         result_lines = lines[:data_end_match_index]
 
-        self.pprint(f"Found {len(result_lines)} launch log entries! RAW LINE NUMBER START: {data_start_raw_lines_index}, END: {data_end_raw_lines_index}")
+        self.pprint(f"Found {len(result_lines)} launch log entries! RAW LINE NUMBER START: {data_start_raw_lines_index}, END: {self.data_end_raw_lines_index}")
 
-        result = dict(zip(range(data_start_raw_lines_index, data_end_raw_lines_index), result_lines))
+        result = dict(zip(range(data_start_raw_lines_index, self.data_end_raw_lines_index), result_lines))
         return result
+
+    def get_data_end_match_index(self):
+        return self.data_end_raw_lines_index
 
     def parse_launch_log_line_into_entry(self, line, index):
         replace_regex = r'[\s]{2,}' # regex for finding spots using more than one 'space'
@@ -249,6 +345,9 @@ class LaunchStatsParser():
         vehicle_model, created = Vehicle.objects.get_or_create(name=launch['vehicle_name'])
         site_model, created = Site.objects.get_or_create(code=launch['site_name_code'])
         orbit_model, created = Orbit.objects.get_or_create(code=launch['orbit']['code'])
+        
+        launch_note_number = launch['orbit']['notes'] #temporarily store the note [number] left at the end of the line so a secondary parser can populate it. See: LaunchNotesParser
+        
         launch_model, created = Launch.objects.get_or_create(
             launch_date=launch['date'],
             vehicle=vehicle_model,
@@ -257,8 +356,11 @@ class LaunchStatsParser():
             mass=launch['mass'],
             site=site_model,
             site_pad_code=launch['site_pad_code'],
-            orbit=orbit_model
+            orbit=orbit_model,
         )
+
+        launch_model.notes = launch_note_number
+        launch_model.save()
 
     def update_file_with_fixed_launch_log_line(self, fixed_line, index):
         with open(self.filepath, 'r') as statsfile:
@@ -300,7 +402,12 @@ class LaunchStatsParser():
 
             self.create_launch_in_db(launch)
 
-
+    def has_launch_notes(self):
+        years_without_notes = ['2001', '2002', '2003', '2004']
+        for year in years_without_notes:
+            if year in self.filename:
+                return False
+        return True
 
     def parse(self):
         with open(self.filepath) as statsfile:
@@ -317,6 +424,11 @@ class LaunchStatsParser():
         launch_log_lines = self.get_launch_log_lines(statsfile_lines)
         self.debug_print("Populating DB with launch log entries...")
         self.populate_db_from_launch_log(launch_log_lines)
+
+        if self.has_launch_notes():
+            launch_data_end_index = self.get_data_end_match_index()
+            notes_parser = LaunchNotesParser(self.stdout, self.style, self.filepath, self.filename, self.is_debug_mode, launch_data_end_index + 1)
+            notes_parser.parse()
 
 
 
