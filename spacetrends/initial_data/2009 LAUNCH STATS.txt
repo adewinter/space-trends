@@ -403,7 +403,6 @@ DATE     VEHICLE           ID     PAYLOAD                 MASS(t) SITE*      ORB
 12/20/09  Soyuz FG          1752   Soyuz TMA-17              7.25  TB 1/5     LEO/ISS
 12/28/09  Proton M/Briz M   P351   DirecTV 12                5.90  TB 200/39  GTO+
 ------------------------------------------------------------------------------------------
-
 (1) Payload fairing failed to separate.
 (2) 2nd stage reportedly fell short of drop zone.  No satellite tracked.
 (3) 321 x 36,461km x 62.8 deg, short of planned 1,000 x 39,800 km x 63 deg 12-hr orbit

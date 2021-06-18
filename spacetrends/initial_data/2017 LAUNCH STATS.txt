@@ -534,7 +534,6 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORB
 12/25/17  CZ-2C             CZ2CY3003   Yaogan 30-03              -1      XC 3      LEO
 12/26/17  Zenit 3F          SLB80.5  Angosat 1                1.647  TB 45/1   GEO
 -------------------------------------------------------------------------------------
-
 [1] First stage (B1029) landed downrange on drone ship "Just Read the Instructions".
 [2] Telemetry lost after first stage burn.
 [3] First stage (B1031) landed at CC LZ-1.

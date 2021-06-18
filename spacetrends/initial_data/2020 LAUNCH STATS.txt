@@ -632,9 +632,6 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORB
 12/27/20  CZ-4C             Y35     Yaogan 33                  -1     JQ 43/603  LEO/S
 12/29/20  Soyuz 2/1a/Fregat  VS25    CSO 2                    3.562  KO ELS    LEO/S
 -------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------------
 [1] Reached 540 km apogee but fell 1,000 m/s short of 7,400 m/s orbital velocity.
 [2] First stage B1056.4 failed to land on OSCILY.
 [3] First CZ-2D from Xichang.  XJS C-F to 480 km x 35 deg orbits.
@@ -690,8 +687,6 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORB
 [48] Second stage cutoff 15-20 seconds short of orbit.
 [49] First stage B1059.5 landed LZ1.
 [50] CZ-8 inaugural launch.
-------------------------------------------------------------------------------------
-
  ==================================================================================
 
 2020 Major Suborbital Log 

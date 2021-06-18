@@ -356,7 +356,6 @@ DATE     VEHICLE           ID     PAYLOAD                  MASS(t) SITE*   ORBIT
 12/25/06  Proton K/DM-2     41015  3xGlonass 3M             4.35  TB 81/24  MEO
 12/27/06  Soyuz 2.1b/Fregat  1717   COROT (ST17)             0.63  TB 31/6   LEO/P
 -----------------------------------------------------------------------------------------
-        
 (1) Briz M failure during 2nd of 4 planned burns stranded Arabsat 4A short of 
      planned GTO.  Foreign particles blocked oxidizer supply to booster 
      hydraulic pump.

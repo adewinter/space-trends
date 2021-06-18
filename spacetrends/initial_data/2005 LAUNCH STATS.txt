@@ -264,7 +264,6 @@ Dec 25  Proton K/DM-2M  41012  2xUragan-M, 1xUragan      4.4  TB 81/23  MEO
 Dec 28  Soyuz FG/Fregat  ST15   GIOVE-A                   0.6  TB 31/6   MEO
 Dec 29  Proton M/Briz M  88514  AMC-23                    5.0  TB 200/39  GTO+
 -----------------------------------------------------------------------------------
-
 (1)  Last Balloon Tank Atlas. Last Launch Complex 36
 (2)  First Ariane 5ECA success
 (3)  Heaviest Commercial Sat
@@ -286,7 +285,7 @@ Dec 29  Proton M/Briz M  88514  AMC-23                    5.0  TB 200/39  GTO+
 (12) Final Titan 4.  Also 368th and last Titan launch of all types and 
       last launch from Vandenberg SLC 3E.
 (13) Heaviest comsat combo.     
-----------------------------------------------------------------------------------
+===========================================================================
  
 
  2005 MAJOR SUBORBITAL LAUNCH LOG 

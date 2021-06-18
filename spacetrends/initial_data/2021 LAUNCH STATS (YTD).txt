@@ -544,9 +544,6 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORB
 05/15/21  Electron/Curie    20      2xBlackSky             ~0.12    MA 1     [FTO][9]
 05/15/21  Falcon 9 v1.2     F9-119  Starlink 1-26          ~13.7    KC 39A    LEO
 -------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------------
 [1] Disintegrated around time of Max-Q.
 [2] First stage B1059.6 failed to land OCISLY.  One engine shut 
       down during ascent in final seconds due boot failure and 
@@ -559,9 +556,7 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORB
 [7] First stage B1060.6 landed OCISLY.
 [8] First stage B1058.7 landed OCISLY.
 [9] Stg 2 tumbled and shut down right after staging.  Stg 1 parachuted to ocean.
-------------------------------------------------------------------------------------
-
- ==================================================================================
+==================================================================================
 
 2021 Major Suborbital Log 
 

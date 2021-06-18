@@ -618,8 +618,6 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORB
 12/26/19  Rokot/Briz KM     31      3xGonets M             ~1.0     PL 133/3  LEO [27]
 12/27/19  CZ-5              Y3      Shijian 20             ~7.6     WC 101    GTO+[28]
 ------------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------------
 [1] 1st stg B1049.2 landed down range on JRTI.
 [2] 3rd stg failure.  Planned 600 km LEO.
 [3] Not acknowledged by Iran
@@ -652,8 +650,6 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORB
        clock issue.  Starliner capsule landed White Sands on 12/22/19.
 [27] Rokot finale.
 [28] Return to flight.  To 193x68,017 km x 19.54 deg transfer orbit.   
-------------------------------------------------------------------------------------
-
  ==================================================================================
 
 2019 Major Suborbital Log 
