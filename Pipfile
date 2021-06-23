@@ -9,6 +9,7 @@ gunicorn = "*"
 dj-database-url = "*"
 psycopg2 = "*"
 pyperclip = "*"
+ipython = "*"
 
 [dev-packages]
 
