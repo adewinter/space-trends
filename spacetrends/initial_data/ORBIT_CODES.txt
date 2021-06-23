@@ -26,3 +26,5 @@ LEO/ISS = Low Earth Orbit at same altitude as International Space Station
 MEO = Medium Earth Orbit
 MTO = Medium Earth Transfer Orbit
 SUB = Suborbital
+TLI = Trans Lunar Injection
+PAD = Blew up on the pad ?
