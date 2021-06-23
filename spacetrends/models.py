@@ -99,6 +99,7 @@ class Launch(models.Model):
     site = models.ForeignKey(Site, on_delete=models.CASCADE)
     site_pad_code = models.CharField(blank=True, help_text="Optional launch site pad code", max_length=255)
     orbit = models.ForeignKey(Orbit, on_delete=models.CASCADE)
+    orbit_uncertain = models.BooleanField(default=False, help_text="True when it is unclear whether specified orbit data is accurate.")
 
     notes = models.TextField(blank=True)
 

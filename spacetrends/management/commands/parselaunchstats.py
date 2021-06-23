@@ -36,8 +36,10 @@ class OrbitCodesParser():
         }
 
     def update_orbit_code_db_with_entry(self, entry):
-        orbit, _ = Orbit.objects.get_or_create(code=entry["code"])
-        orbit.name = entry["name"]
+        code = entry["code"].strip()
+        name = entry["name"].strip()
+        orbit, _ = Orbit.objects.get_or_create(code__iexact=code, defaults={'code': code})
+        orbit.name = name
         orbit.save()
 
     def parse(self):
@@ -253,6 +255,7 @@ class LaunchStatsParser():
         
         self.data_end_raw_lines_index = data_start_raw_lines_index + data_end_match_index
         result_lines = lines[:data_end_match_index]
+        result_lines = [line.rstrip() for line in result_lines] #just trim off those pesky spaces at the end of a line
 
         self.pprint(f"Found {len(result_lines)} launch log entries! RAW LINE NUMBER START: {data_start_raw_lines_index}, END: {self.data_end_raw_lines_index}")
 
@@ -324,7 +327,7 @@ class LaunchStatsParser():
         code = ' '.join(tokens)
         return name, code
 
-    def parse_launch_orbit_name_and_code_from_raw(self, raw_orbit):
+    def parse_launch_orbit_name_and_notes_from_raw(self, raw_orbit):
         raw_orbit = raw_orbit.strip('*').strip('#').strip('&')
         if raw_orbit.startswith('['):
             # if the raw is something like [GEO] [3] then strip the first set of '[' and ']'
@@ -345,9 +348,11 @@ class LaunchStatsParser():
             tokens = raw_orbit.strip(')').split('(')
         else:
             tokens = [raw_orbit]
-        code = tokens.pop(0)
+        code = tokens.pop(0).strip()
+        is_uncertain = '?' in code
+        code = code.strip('?')
         notes = '|'.join(tokens)
-        return code, notes
+        return code, notes, is_uncertain
 
     def parse_launch_mass_from_raw(self, raw_mass):
         return raw_mass.strip('~').strip('?').strip('+')
@@ -355,7 +360,7 @@ class LaunchStatsParser():
     def create_launch_in_db(self, launch):
         vehicle_model, created = Vehicle.objects.get_or_create(name=launch['vehicle_name'])
         site_model, created = Site.objects.get_or_create(code=launch['site_name_code'])
-        orbit_model, created = Orbit.objects.get_or_create(code=launch['orbit']['code'])
+        orbit_model, created = Orbit.objects.get_or_create(code__iexact=launch['orbit']['code'], defaults={'code': launch['orbit']['code']})
         
         launch_note_number = launch['orbit']['notes'] #temporarily store the note [number] left at the end of the line so a secondary parser can populate it. See: LaunchNotesParser
         
@@ -368,6 +373,7 @@ class LaunchStatsParser():
             site=site_model,
             site_pad_code=launch['site_pad_code'],
             orbit=orbit_model,
+            orbit_uncertain=launch['orbit']['uncertain']
         )
 
         launch_model.notes = launch_note_number
@@ -392,7 +398,7 @@ class LaunchStatsParser():
             self.debug_pprint(entry)
             launch_date = self.parse_date_from_raw_date(entry[0])
             site_name_code, site_pad_code = self.parse_launch_site_name_and_code_from_raw(entry[5])
-            orbit_code, orbit_notes = self.parse_launch_orbit_name_and_code_from_raw(entry[6])
+            orbit_code, orbit_notes, is_uncertain = self.parse_launch_orbit_name_and_notes_from_raw(entry[-1])
             mass = self.parse_launch_mass_from_raw(entry[4])
 
             launch = {
@@ -403,7 +409,7 @@ class LaunchStatsParser():
                 "mass": mass, 
                 "site_pad_code": site_pad_code,
                 "site_name_code": site_name_code,
-                "orbit": {"code": orbit_code, "notes": orbit_notes} 
+                "orbit": {"code": orbit_code, "notes": orbit_notes, "uncertain": is_uncertain}, 
             }
 
             if had_manual_correction: # nice to see the fixed structure when you're making those edits...
@@ -414,7 +420,7 @@ class LaunchStatsParser():
             self.create_launch_in_db(launch)
 
     def has_launch_notes(self):
-        years_without_notes = ['2001', '2002', '2003', '2004']
+        years_without_notes = ['2001', '2002', '2003']
         for year in years_without_notes:
             if year in self.filename:
                 return False
