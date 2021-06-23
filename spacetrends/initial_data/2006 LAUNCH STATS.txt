@@ -302,7 +302,7 @@ DATE     VEHICLE           ID     PAYLOAD                  MASS(t) SITE*   ORBIT
 04/15/06  Minotaur 1        SLV5   Formosat 3A-F            0.42  VA 8      LEO/S
 04/20/06  Atlas 5-411       AV008  Astra 1KR                4.33  CC 41     GTO+
 04/24/06  Soyuz U           1707   Progress M-56            7.3   TB 1/5    LEO
-04/25/06  Start-1            UNKNOWN      EROS-B             -1      0.36  SV        LEO/S
+04/25/06  Start-1            UNKNOWN      EROS-B             0.36  SV        LEO/S
 04/26/06  CZ-4B             CZ4-11  Yaogan 1                 2.7   TY        LEO/S
 04/28/06  Delta 2-7420      D314   CALIPSO/Cloudsat         1.7   VA 2W     LEO/S
 05/03/06  Soyuz U           1708   Kosmos 2420              6.7   PL 16/2   LEO

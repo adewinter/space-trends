@@ -91,17 +91,17 @@ Date    Vehicle       ID   Payload      Mass       Site*       Orbit**
 01/24  Soyuz-U       SUPM15       Progress M1-5     -1      TB LC1      LEO
 01/30  Delta 7925     D283  GPS 2R-7           -1     CC SLC17A   MTO
 02/07  Ariane 44L     A4103  Skynet 4F/Sicral 1   -1   KO ELA2     GTO
-02/07  Atlantis       OV104  STS-98/ISS-5A     -1      KSC LC39A   LEO
-02/20  Start 1        S1O1      Odin 1             -1     SVO         LEO/S
+02/07  Atlantis       OV104  STS-98/ISS-5A     -1      KC LC39A   LEO
+02/20  Start 1        S1O1      Odin 1             -1     SV         LEO/S
 02/26  Soyuz-U        SUPM44      Progress M-44/ISS3P   -1  TB LC1      LEO
 02/27  Titan 401B     B-41  Milstar 2-F2      -1      CC SLC40    GEO
-03/08  Discovery      OV103  STS-102/ISS-5A.1    -1    KSC LC39B   LEO
+03/08  Discovery      OV103  STS-102/ISS-5A.1    -1    KC LC39B   LEO
 03/08  Ariane 5G      A509  Eurobird/Bsat-2a    -1    KO ELA3     GTO
 03/18  Zenit 3SL/DMSL  Z3SL6  XM-2 "Rock"         -1    POR         GTO
 04/07  Proton M/BrizM   PMBEM18    Ekran M-18         -1     TB LC81(24)  GEO
 04/07  Delta 7925     D284  Mars Odyssey       -1     CC SLC17A   SO
-04/18  GSLV           D1    GSat 1             -1     SRI        (GTO-)
-04/19  Endeavour      OV105  STS-100/ISS-6      -1     KSC LC39A   LEO
+04/18  GSLV           D1    GSat 1             -1     SR        (GTO-)
+04/19  Endeavour      OV105  STS-100/ISS-6      -1     KC LC39A   LEO
 04/28  Soyuz-U       SUSTM32       Soyuz TM-32        -1     TB LC1      LEO
 05/08  Zenit 3SL/DMSL  Z3SL7  XM-1 "Roll"        -1     POR         GTO
 05/15  Proton-K/DM3   PKDM3P10      PAS-10             -1     TB LC81(23)  GTO+
@@ -113,14 +113,14 @@ Date    Vehicle       ID   Payload      Mass       Site*       Orbit**
 06/16  Proton-K/DM3     PKDM3A2C    Astra-2C             -1   TB LC81(23)  GTO+
 06/19  Atlas 2AS     AC156  ICO-F2               -1   CC SLC36B   GTO
 06/30  Delta 7425     D286  MAP                  -1   CC SLC17B   DSO
-07/12  Atlantis       OV104  STS-104/ISS-7A       -1   KSC LC39B   LEO
+07/12  Atlantis       OV104  STS-104/ISS-7A       -1   KC LC39B   LEO
 07/12  Ariane 5G      A510  Artemis/BSat2B/V142  -1   KO ELA3    (EEO)
 07/20  Molniya-M        UNKNOWN    Molniya 1K           -1   PL LC43/4   EEO
 07/23  Atlas 2A       AC142  GOES-M(12)           -1   CC SLC36A   GTO+
 07/31  Tsyklon-3       UNKNOWN     Koronas F            -1   PL LC32     LEO
 08/06  Titan 402B     B-31  DSP-21               -1   CC SLC40    GEO
 08/08  Delta 7326     D287  Genesis              -1   CC SLC17A   HCO
-08/10  Discovery      OV103  STS-105/ISS-7A.1     -1   KSC LC39A   LEO
+08/10  Discovery      OV103  STS-105/ISS-7A.1     -1   KC LC39A   LEO
 08/21  Soyuz-U          UNKNOWN    Progress M-45/ISS5P  -1   TB LC1      LEO
 08/24  Proton-K/DM-2M   UNKNOWN    Kosmos 2379          -1   TB LC81(24)  GEO
 08/29  H-2A           H2AF1  VEP-2                -1   TA YO       GTO
@@ -135,12 +135,12 @@ Date    Vehicle       ID   Payload      Mass       Site*       Orbit**
 10/11  Atlas 2AS      AC162  Aquila (NRO)         -1   CC SLC36B   GTO
 10/18  Delta 7320     D288  QuickBird 2          -1   VA SLC2W    LEO
 10/21  Soyuz-U          UNKNOWN    Soyuz TM-33          -1   TB LC1      LEO
-10/22  PSLV          C3    TES,BIRD,PROBA       -1   SRI         LEO
+10/22  PSLV          C3    TES,BIRD,PROBA       -1   SR         LEO
 10/25  Molniya-M        UNKNOWN    Molniya-3            -1   PL LC43/3   EEO
 11/26  Soyuz-FG       FG002  Progress M1-7/ISS6P  -1   TB LC1      LEO
 11/27  Ariane 44LP    A4107  DirecTV-4S/V146      -1   KO ELA2     GTO
 12/01  Proton-K/DM2    UNKNOWN     Kosmos 2380-82       -1   TB          MEO
-12/05  Endeavour      OV105  STS-108/ISS-UF-1     -1   KSC LC39B   LEO
+12/05  Endeavour      OV105  STS-108/ISS-UF-1     -1   KC LC39B   LEO
 12/07  Delta 7920-10  D289  JASON/TIMED          -1   VA SLC2W    LEO
 12/10  Zenit 2          UNKNOWN    Meteor 3M-N1         -1   TB LC45     LEO
 12/21  Tsyklon 2        UNKNOWN    Kosmos 2383 sigint   -1   TB LC90     LEO

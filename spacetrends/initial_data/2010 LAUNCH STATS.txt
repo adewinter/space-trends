@@ -382,7 +382,7 @@ DATE     VEHICLE           ID     PAYLOAD                  MASS(t) SITE*      OR
 11/04/10  CZ-4C             CZ4C8  FY-3B                     2.3    TY 2       LEO/S
 11/06/10  Delta 2-7420-10   D350   COSMO-SkyMed 4            1.9    VA 2W      LEO/S
 11/14/10  Proton M/Briz M   P361   Skyterra 1                5.36   TB 200/39  GTO+
-11/20/10  Minotaur 4        MT4-3  STP S26                   0.59   KD 1       LEO/S
+11/20/10  Minotaur 4        MT4-3  STP S26                   0.59   KLC 1       LEO/S
 11/21/10  Delta 4 Heavy     D351   NROL 32                    -1      CC 37B     GEO?
 11/24/10  CZ-3A             CZ3A18  Zhongxing 20A              -1      XC 3       GTO+
 11/26/10  Ariane 5 ECA      A556   V198/Intelsat17/Hylas1    8.08   KO 3       GTO

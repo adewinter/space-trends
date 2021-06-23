@@ -382,7 +382,7 @@ DATE     VEHICLE           ID     PAYLOAD                  MASS(t) SITE*      OR
 09/21/11  Ariane 5 ECA      L561   VA204/Arabsat 5C/SES-2    7.85   KO 3       GTO
 09/23/11  H-2A-202          F19    IGS-Optical 4              -1      TA 1       LEO/S
 09/24/11  Zenit 3SL/DM-SL   SL-39  Atlantic Bird 7           4.60   PO OLP     GTO+
-09/27/11  Minotaur 4+       MT4-5  TacSat 4                  0.45   KD         EEO [9]
+09/27/11  Minotaur 4+       MT4-5  TacSat 4                  0.45   KLC         EEO [9]
 09/29/11  CZ-2FT1           CZ2FT1  Tiangong 1                8.5    JQ SLS R   LEO
 09/29/11  Proton M/Briz M   P368   QuetzSat 1                5.514  TB 200/39  GTO
 10/02/11  Soyuz 2-1b/Fregat  1776   Glonass M                 1.414  PL 43/4    MEO

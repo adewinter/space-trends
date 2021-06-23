@@ -587,7 +587,7 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORB
 09/03/20  Falcon 9 v1.2     F9-94   Starlink V1-11          15.6    KC 39A    LEO [29]
 09/04/20  CZ-2F/T             UNKNOWN      Reusable Test S/C         -1      JQ 43/921  LEO
 09/07/20  CZ-4B             Y46     Gaofen 11-02              -1      TY 9      LEO/S
-09/12/20  Rocket 3          R3.1    Orbital Test              -1      KD 3B    [FTO][30]
+09/12/20  Rocket 3          R3.1    Orbital Test              -1      KLC 3B    [FTO][30]
 09/12/20  KZ-1A             Y3      Jilin-1 Gaofen 02C       0.23   JQ       [FTO][31]
 09/15/20  CZ-11H            Y2      9 Gaofen 03B/C            -1      YL        LEO/S[32]
 09/21/20  CZ-4B             Y41     Haiyang 2C                -1      JQ 43/603  LEO
@@ -624,7 +624,7 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORB
 12/13/20  Falcon 9 v1.2     F9-103  SXM 7                  ~7.0     CC 40     GTO- [46]
 12/14/20  Angara A5/Briz M  A5-2    IPM Test Flight           -1      PL 35/1   GEO [47]
 12/15/20  Electron/Curie    F17     StriX-a                 0.15    MA 1      LEO/S
-12/15/20  Astra Rocket 3    3.2     Oribital Test             -1      KD 3B    [FTO] [48]
+12/15/20  Astra Rocket 3    3.2     Oribital Test             -1      KLC 3B    [FTO] [48]
 12/17/20  PSLV-XL           C50     CMS 1                   1.41    SR 2      GTO-
 12/18/20  Soyuz 2.1b/Fregat  ST29    OneWeb 75-110           5.310   VO 1S     LEO
 12/19/20  Falcon 9 v1.2     F9-104  NROL-108                  -1      KC 39A    LEO? [49]

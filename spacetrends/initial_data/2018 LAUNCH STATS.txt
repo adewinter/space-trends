@@ -549,7 +549,7 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORB
 04/18/18  Proton M Briz  MB12L  Blagovest 12L  -1  TB 81/24  GEO
 04/18/18  Falcon 9 v1.2     F9-54   TESS                    0.35    CC 40     EEO [6]
 04/25/18  Rokot/Briz KM     28      Sentinel 3B             1.150   PL 133/3  LEO/S
-04/26/18  CZ-11  Y4  Zhuhai 1 + 4usats  -1  JZ CZ11  LEO/S
+04/26/18  CZ-11             Y4      Zhuhai 1 + 4usats       -1      JQ CZ11  LEO/S
 05/03/18  CZ-3B/E  Y55  APStar 6C  -1  XC 2  GTO
 05/05/18  Atlas 5-401       AV078   InSight                 0.694   VA 3E     HCO [7]
 05/08/18  CZ-4C  Y20  Gaofen 5  -1  TY 9  LEO/S

@@ -418,7 +418,7 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*      OR
 06/25/13  Soyuz 2-1b        1807    Resurs P1                6.58   TB 31/6    LEO
 06/25/13  Soyuz 2-1b/Fregat  1808    VS05/O3b F1              2.8    KO ELS     MEO
 06/27/13  Strela            002     Kondor                  ~1.0    TB 175/59  LEO
-06/28/13  Pegasus XL        P42     IRIS                     0.18   Va L1011   LEO/S
+06/28/13  Pegasus XL        P42     IRIS                     0.18   VA L1011   LEO/S
 07/01/13  PSLV-XL           C22     IRNSS-1A                 1.425  SR FLP     GTO
 07/02/13  Proton M/DM-03    p388    3xGlonass M              4.245  TB 81/24  [FTO][3]
 07/15/13  CZ-2C             CZ2C39  Shijian 11-05             -1      JQ 43/603  LEO/S

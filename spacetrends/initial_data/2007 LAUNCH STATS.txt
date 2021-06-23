@@ -328,7 +328,7 @@ DATE     VEHICLE           ID     PAYLOAD                 MASS(t) SITE*    ORBIT
 08/04/07  Delta 2-7925      D325   Phoenix Mars Lander       0.67   CC 17A    HCO
 08/08/07  STS-Endeavour     OV105  STS-118/ISS 13A.1(S5)   127.86   KC 39A    LEO/ISS
 08/14/07  Ariane 5-ECA      A537   V177 Spaceway 3/BSAT 3A   8.06   KO 3      GTO
-09/02/07  GSLV              F04    INSAT-4CR                 2.13   SRI SLP   [EEO](4)
+09/02/07  GSLV              F04    INSAT-4CR                 2.13   SR SLP   [EEO](4)
 09/05/07  Proton M/Briz M   53522  JCSAT 11                  4.0    TB 200/39  [FTO](5)
 09/11/07  Kosmos 3M  UNKNOWN  Parus Nav (Kosmos 2429)  -1  PL 132/1  LEO
 09/14/07  H-2A-2022         F13    SELENE Lunar Orbiter      3.09   TA 1      HTO

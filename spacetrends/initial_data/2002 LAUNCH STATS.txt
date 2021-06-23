@@ -130,7 +130,7 @@ Date    Vehicle       ID   Payload       Mass       Site*    Orbit**
 02/23  Ariane 44L     L4109  Intelsat 904         -1     KO ELA2     GTO
 02/25  Soyuz-U          -1    Kosmos 2387          -1     PL LC43/3   LEO
 03/01  Ariane 5G      L511  Envisat(V145)        -1     KO ELA3     LEO/S
-03/01  STS/Columbia   OV102  STS-109/HST-SM3B     -1     KSC LC39A   LEO
+03/01  STS/Columbia   OV102  STS-109/HST-SM3B     -1     KC LC39A   LEO
 03/08  Atlas 2A       AC143  TDRS-I(9)(NASA)       -1    CC SLC36A   GTO-
 03/17  Rockot/Briz-KM  RB002  GRACE 1/2(NASA/GDR)    -1   PL LC133    LEO/S
 03/21  Soyuz-U          -1    Progress M1-8(ISS-7P)  -1   TB LC1      LEO
@@ -138,7 +138,7 @@ Date    Vehicle       ID   Payload       Mass       Site*    Orbit**
 03/29  Ariane 44L     L4110  Astra3A/JcSat8(V149)   -1   KO ELA2     GTO
 03/30  Proton-K/DM3     -1    Intelsat 903           -1   TB LC81/23  GTO+
 04/01  Molniya-M        -1    Kosmos 2388            -1   PL LC16/2   EEO/M
-04/08  STS/Atlantis   OV104  STS-110/ISS-8A(S0)     -1   KSC LC39B   LEO
+04/08  STS/Atlantis   OV104  STS-110/ISS-8A(S0)     -1   KC LC39B   LEO
 04/16  Ariane 44L     L4111  NSS-7 (V150)          -1    KO ELA2     GTO
 04/25  Soyuz-U           -1   Soyuz TM-34(ISS-4S)    -1   TB LC1      LEO
 05/04  Ariane 44P     L4112  Spot-5(V151)           -1   KO ELA2     LEO/S
@@ -148,7 +148,7 @@ Date    Vehicle       ID   Payload       Mass       Site*    Orbit**
 05/28  Shavit           -1    Ofeq-5                 -1   PA          LEO
 05/28  Kosmos 3M        -1    Kosmos 2389 (Parus)    -1   PL LC132    LEO
 06/05  Ariane 44L     L4113  Intelsat 905 (V152)    -1   KO ELA2     GTO
-06/05  STS/Endeavour  OV105  STS111/ISS-UF2         -1   KSC LC39A   LEO
+06/05  STS/Endeavour  OV105  STS111/ISS-UF2         -1   KC LC39A   LEO
 06/10  Proton-K/DM-2M   -1    Express A1R            -1   TB LC200    GTO+
 06/15  Zenit 3SL/DMSL  Z3008  Galaxy 3C              -1   POR         GTO+
 06/20  Rockot/Briz-KM  RB003  Iridium SV97,98        -1   PL LC133    LEO
@@ -168,13 +168,13 @@ Date    Vehicle       ID   Payload       Mass       Site*    Orbit**
 09/18  Atlas 2AS      AC159  Hispasat 1D           -1    CC SLC36A   GTO+
 09/25  Soyuz-FG       SFG3  Progress M1-9         -1    TB LC1      LEO
 09/26  Kosmos 3M        -1    Nadazhda M            -1    PL LC132    LEO
-10/07  STS/Atlantis   OV104  STS-112/ISS-9A(S1)    -1    KSC LC39B   LEO
+10/07  STS/Atlantis   OV104  STS-112/ISS-9A(S1)    -1    KC LC39B   LEO
 10/15  Soyuz-U          -1    Foton M-1             -1    PL LC43/3  (FTO)(1)
 10/17  Proton-K/DM2     -1    INTEGRAL (ESA)        -1    TB LC81/23  EEO
 10/27  CZ-4B          CZ4B5  ZiYuan-2              -1    TY          LEO/S
 10/30  Soyuz-FG       SFG4  Soyuz TMA-1           -1    TB LC1      LEO
 11/20  Delta 4M+(4,2)  D4-1  Eutelsat W5           -1    CC SLC37B   GTO
-11/24  STS/Endeavour  OV105  STS-113/ISS-11A(P1)   -1    KSC LC39A   LEO
+11/24  STS/Endeavour  OV105  STS-113/ISS-11A(P1)   -1    KC LC39A   LEO
 11/25  Proton-K/DM3     -1    Astra 1K (ILS-25)     -1    TB LC81/23  (LEO)(4)
 11/28  Kosmos 3M        -1    AlSat-1/Mozhaets      -1    PL LC132/1  LEO/S
 12/05  Atlas 2A       AC144  TDRS-J(10)            -1    CC SLC36A   GTO
