@@ -125,23 +125,23 @@ Date    Vehicle       ID   Payload      Mass       Site*       Orbit**
 08/24  Proton-K/DM-2M   UNKNOWN    Kosmos 2379          -1   TB LC81(24)  GEO
 08/29  H-2A           H2AF1  VEP-2                -1   TA YO       GTO
 08/30  Ariane 44L     A4105  Intelsat 902/V143    -1   KO ELA2     GTO
-09/08  Atlas 2AS      AC160  Gemini (NRO)         -1   V  SLC3E    LEO
+09/08  Atlas 2AS      AC160  Gemini (NRO)         -1   V SLC3E    LEO
 09/14  Soyuz-U          UNKNOWN    Pirs (ISS-4R)        -1   TB LC1      LEO
-09/21  Taurus 2110    T6    Orbview4/QuikTOMS    -1   V  SLC576E (FTO)
+09/21  Taurus 2110    T6    Orbview4/QuikTOMS    -1   V SLC576E  (FTO)
 09/25  Ariane 44P     A4106  AtlanticBird 2/V144  -1   KO ELA2     GTO
 09/29  Athena 1       LM01  STP (PICOSat+3)      -1   KLC         LEO
-10/05  Titan 404B     B-34  Crystal+ (NRO)       -1   V  SLC4E    LEO
+10/05  Titan 404B     B-34  Crystal+ (NRO)       -1   V SLC4E    LEO
 10/06  Proton-K/DM-2    UNKNOWN    Raduga 1             -1   TB LC?      GEO
 10/11  Atlas 2AS      AC162  Aquila (NRO)         -1   CC SLC36B   GTO
-10/18  Delta 7320     D288  QuickBird 2          -1   V  SLC2W    LEO
+10/18  Delta 7320     D288  QuickBird 2          -1   V SLC2W    LEO
 10/21  Soyuz-U          UNKNOWN    Soyuz TM-33          -1   TB LC1      LEO
-10/22  PSLV           C3    TES,BIRD,PROBA       -1   SRI         LEO
+10/22  PSLV          C3    TES,BIRD,PROBA       -1   SRI         LEO
 10/25  Molniya-M        UNKNOWN    Molniya-3            -1   PL LC43/3   EEO
 11/26  Soyuz-FG       FG002  Progress M1-7/ISS6P  -1   TB LC1      LEO
 11/27  Ariane 44LP    A4107  DirecTV-4S/V146      -1   KO ELA2     GTO
 12/01  Proton-K/DM2    UNKNOWN     Kosmos 2380-82       -1   TB          MEO
 12/05  Endeavour      OV105  STS-108/ISS-UF-1     -1   KSC LC39B   LEO
-12/07  Delta 7920-10  D289  JASON/TIMED          -1   V  SLC2W    LEO
+12/07  Delta 7920-10  D289  JASON/TIMED          -1   V SLC2W    LEO
 12/10  Zenit 2          UNKNOWN    Meteor 3M-N1         -1   TB LC45     LEO
 12/21  Tsyklon 2        UNKNOWN    Kosmos 2383 sigint   -1   TB LC90     LEO
 12/28  Tsyklon 3        UNKNOWN    Kosmos 2384-86       -1   PL LC32     LEO

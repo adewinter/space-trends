@@ -470,7 +470,7 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORB
 05/05/17  GSLV Mk2          F09     GSAT 9                   2.23   SR 2      GTO
 05/15/17  Falcon 9 v1.2     F9-35   Inmarsat 5 F4            6.086  KC 39A    GTO+[7]
 05/18/17  Soyuz 2.1a/Fregat  VS17    SES 15                   2.302  KO ELS    GTO+
-05/25/17  Electron          1       It's a Test                 -1    MA 1     [FTO][8] 
+05/25/17  Electron          1       It's a Test                 -1    MA 1     [FTO][8]
 05/25/17  Soyuz 2-1b/Fregat  1870    EKS 2                   ~1.4?   PL 43/4   EEO/T[9]
 06/01/17  H-2A-202          F34     Michibiki 2              4.0    TA Y1     GTO/i
 06/01/17  Ariane 5 ECA      VA237   ViaSat2/Eutlsat 172B     9.969  KO 3      GTO

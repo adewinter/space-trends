@@ -360,7 +360,7 @@ DATE     VEHICLE           ID     PAYLOAD                  MASS(t) SITE*      OR
 06/30/11  Minotaur 1        MT1-10  ORS 1                     0.434  WI 0B      LEO
 07/06/11  CZ-2C             CZ2C33  SJ 11-03                   -1      JQ 4L      LEO/S
 07/08/11  STS/Atlantis      OV104  STS-135/ULF-7          ~100.0    KC 39A     LEO/ISS
-07/11/11  CZ-3C             CZ3C7  TL I-01                    -1      XC 2       GTO/+
+07/11/11  CZ-3C             CZ3C7  TL I-01                    -1      XC 2       GTO+
 07/13/11  Soyuz 2-1a/Fregat  ST23   6xGlobalstar-2            3.9    TB 31/6    LEO
 07/15/11  PSLV-XL           C-17   GSAT-12                   1.41   SR SLP     GTO-
 07/15/11  Proton M/Briz M   P365   SES-3/Kazsat 2            4.382  TB 200/39  GTO/GEO[3]

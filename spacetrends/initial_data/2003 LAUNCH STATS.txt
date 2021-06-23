@@ -166,8 +166,8 @@ A) 2003 STS-107 Columbia failure during reentry result of
 Date    Vehicle         ID    Payload           Mass   Site*    Orbit**
                                                 (kg)
 -----------------------------------------------------------------------
-Jan 6   Titan 23G       G-4   Coriolis           815  V  SLC4W  LEO/P
-Jan 13  Delta 7320-10C  D294  ICESat            1085  V  SLC2W  LEO/S
+Jan 6   Titan 23G       G-4   Coriolis           815  V SLC4W  LEO/P
+Jan 13  Delta 7320-10C  D294  ICESat            1085  V SLC2W  LEO/S
 Jan 16  STS/Columbia    OV102  STS-107           175000  KC LC39A  LEO
 Jan 25  Pegasus-XL       UNKNOWN     SORCE              300  CC  L1011  LEO
 Jan 30  Delta 7925-9.5  D295  GPS 2R-8          2032  CC SLC17B  MTO

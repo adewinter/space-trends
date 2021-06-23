@@ -427,10 +427,10 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORB
 05/22/14  Atlas 5-401       AV046   NROL-33                   -1      CC 41      GTO?
 05/23/14  Rokot/Briz KM     22      Kosmos 2496-98 (Rodnik)  0.675  PL 133/3   LEO
 05/24/14  H-2A-202          F24     ALOS 2 + 4usats          2.275  TA Y1      LEO/S
-05/26/14  Zenit 3SL/DMSL     UNKNOWN-1       Eutelsat 3B              5.967  PO OLP     GTO
+05/26/14  Zenit 3SL/DMSL     UNKNOWN       Eutelsat 3B              5.967  PO OLP     GTO
 05/28/14  Soyuz FG          1821    Soyuz TMA-13M            7.121  TB 1/5     LEO/ISS
 06/14/14  Soyuz 2-1b/Fregat  1822    Glonass M                1.415  PL 43/4    MEO
-06/19/14  Dnepr              UNKNOWN-1       Deimos 2 (37usats)   -1           DO 370/13  LEO/S
+06/19/14  Dnepr              UNKNOWN       Deimos 2 (37usats)   -1           DO 370/13  LEO/S
 06/30/14  PSLV-CA           C23     SPOT 7 (+4usats)         0.765  SR FLP     LEO/S
 07/02/14  Delta 2           D367    OCO 2                    0.453  V 2W       LEO/S
 07/03/14  Rokot/Briz KM     23      3xGonet 3M               0.846  PL 133/3   LEO
@@ -448,7 +448,7 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORB
 08/13/14  Atlas 5-401       AV047   Worldview 3              2.812  VA 3E      LEO/S
 08/19/14  CZ-4B             Y27     Gaofen 2/BRITE-PL-2     ~2      TY 9       LEO/S
 08/22/14  Soyuz 2-1b/Fregat  VS09    2xGalileo FOC-1          1.466  KO ELS    [EEO][6]
-09/04/14  CZ-2D              UNKNOWN-1       CX 1-04/Ling Qiao     -1          JQ 43/603  LEO/S
+09/04/14  CZ-2D              UNKNOWN       CX 1-04/Ling Qiao     -1          JQ 43/603  LEO/S
 09/07/14  Falcon 9 v1.1     F9-12   Asiasat 6                4.428  CC 40      GTO
 09/08/14  CZ-4B             Y28     Yaogan 21/Tiantuo 2       -1      TY 9       LEO/S
 09/11/14  Ariane 5 ECA      L573    VA218/Measat 3b/Optus 10  9.157  KO 3       GTO
@@ -460,16 +460,16 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORB
 10/07/14  H-2A-202          F25     Himawari 8               3.5    TA Y1      GTO
 10/15/14  PSLV-XL           C26     IRNSS 1C                 1.425  SR FLP     MTO
 10/16/14  Ariane 5 ECA      L574    VA220/Intlsat30/Arsat 1  9.293  KO 3       GTO
-10/20/14  CZ-4C              UNKNOWN-1       Yaogan 22           ~2      TY 9       LEO/S
-10/21/14  Proton M/Briz M   93548   Express AM6              3.358  TB 81/24  [GEO-][7] 
-10/23/14  CZ-3CE             UNKNOWN-1       Chang'e-5-T1      -1           XC 2       EEO [8]
-10/27/14  CZ-2C              UNKNOWN-1       Shijian 11-08      ~1      JQ 43/603  LEO/S
+10/20/14  CZ-4C              UNKNOWN       Yaogan 22           ~2      TY 9       LEO/S
+10/21/14  Proton M/Briz M   93548   Express AM6              3.358  TB 81/24  [GEO-][7]
+10/23/14  CZ-3CE             UNKNOWN       Chang'e-5-T1      -1           XC 2       EEO [8]
+10/27/14  CZ-2C              UNKNOWN       Shijian 11-08      ~1      JQ 43/603  LEO/S
 10/28/14  Antares 130       A5      Cygnus/Orb-3             5.644  WI 0A     [FTO][9]
 10/29/14  Soyuz 2-1A        1829    Progress M-25M           7.29   TB 31/6    LEO/ISS
 10/29/14  Atlas 5-401       AV050   GPS 2F-8                 1.63   CC 41      MEO
 10/30/14  Soyuz 2-1A/Fregat  1830    Meridian 17L            ~2.0    PL 43/4    EEO/M
-11/06/14  Dnepr              UNKNOWN-1       ASNARO 1       0.708  DO 370/13  LEO/S
-11/14/14  CZ-2C              UNKNOWN-1       Yaogan 23      ~1      TY 9       LEO/S
+11/06/14  Dnepr              UNKNOWN       ASNARO 1       0.708  DO 370/13  LEO/S
+11/14/14  CZ-2C              UNKNOWN       Yaogan 23      ~1      TY 9       LEO/S
 11/20/14  CZ-2D             CZ2D22  Yaogan 24               ~1      JQ 43/603  LEO/S
 11/21/14  Kuaizhou          KZ2     Kuaizhou 2                -1      JQ         LEO/S
 11/23/14  Soyuz FG          1831    Soyuz TMA 15M            7.2    TB 31/6    LEO/ISS
@@ -478,7 +478,7 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORB
 12/05/14  Delta 4 Heavy     D369    EFT-1 (Orion)          ~12.0    CC 37B     EEO [11]
 12/06/14  Ariane 5 ECA      VA221   DirecTV 14/GSAT 16       9.48   KO 3       GTO
 12/07/14  CZ-4B             Y32     CBERS 4                  1.98   TY 9       LEO/S
-12/10/14  CZ-4C              UNKNOWN-1       Yaogan 25         -1   JQ 43/603  LEO [5a]
+12/10/14  CZ-4C              UNKNOWN       Yaogan 25         -1   JQ 43/603  LEO [5a]
 12/13/14  Atlas 5-541       AV051   NROL 35                    -1     VA 3E      EEO/M
 12/15/14  Proton M/Briz M   93550   Yamal 401                2.976  TB 81/24   GEO [12]
 12/18/14  Soyuz 2-1b/Fregat  VS10    4xO3b (F3)               2.80   KO ELS     MEO
@@ -486,7 +486,7 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORB
 12/23/14  Angara A5/Briz M  A5-1    GVM Test Flight          2.0    PL 35/1    GEO [13]
 12/25/14  Soyuz 2-1b        1834    Lotos-S                  6.0    PL 43/4    LEO
 12/26/14  Soyuz 2-1b        1835    Resurs P 2               6.392  TB 31/6    LEO/S
-12/27/14  CZ-4B               UNKNOWN-1      Yaogan 26       ~2.0    TY 9       LEO/S
+12/27/14  CZ-4B               UNKNOWN      Yaogan 26       ~2.0    TY 9       LEO/S
 12/27/14  Proton M/Briz M   93549   Astra 2G                 6.02   TB 200/39  GTO
 12/31/14  CZ-3A             Y24     FY 2G                   ~1.4    XC 2       GTO
 -------------------------------------------------------------------------------------

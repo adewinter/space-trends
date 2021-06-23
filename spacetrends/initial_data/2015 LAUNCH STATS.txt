@@ -424,7 +424,7 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORB
 02/02/15  Safir 1B          LBS2001  Fajr                     0.05   SE 1      LEO
 02/11/15  Falcon 9 v1.1     F9-15   DSCOVR                   0.57   CC 40     EEO [2]
 02/17/15  Soyuz U             UNKNOWN      Progress M26M            7.287  TB 1/5    LEO/ISS
-02/27/15  Soyuz 2-1a          UNKNOWN      BARS-1M 1L               4.0    PL 43/4   LEO/S-
+02/27/15  Soyuz 2-1a          UNKNOWN      BARS-1M 1L               4.0    PL 43/4   LEO/S
 03/02/15  Falcon 9 v1.1     F9-16   Eutelsat 115WB/ABS 3A    4.159  CC 40     GTO
 03/13/15  Atlas 5-421       AV053   MMS                      5.44   CC 41     EEO
 03/18/15  Proton M/Briz M   93552   Express AM7              5.712  TB 200/39  GTO+
@@ -477,8 +477,8 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORB
 10/07/15  CZ-2D             CZ2D24  Jilin 1                  0.664  JQ 43/603  LEO/S
 10/08/15  Atlas 5-401       AV-058  NROL 55                   -1      VA 3E     LEO? 
 10/16/15  CZ-3B/E           CZ3B30  APStar 9                ~4.0    XC 2      GTO 
-10/16/15  Proton M/Briz M   93556   Turksat 4B               4.924  TB 200/39 GTO 
-10/26/15  CZ-2D             CZ2D25  Tianhua 1C                -1      JQ 43/603 LEO/S 
+10/16/15  Proton M/Briz M   93556   Turksat 4B               4.924  TB 200/39  GTO
+10/26/15  CZ-2D             CZ2D25  Tianhua 1C                -1      JQ 43/603  LEO/S
 10/31/15  Atlas 5-401       AV-060  GPS 2F-11                1.63   CC 41     MEO 
 11/03/15  CZ-3B/E           CZ3B31  Zhongxing 2C            ~5.1?   XC 3      GTO
 11/04/15  Super Strypi      SS-01   HaikaSat/Cubesats         -1      BS 41    [FTO][9]
@@ -488,8 +488,8 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORB
 11/20/15  CZ-3B/E           Y38     LaoSat 1                 4.6    XC 2      GTO
 11/24/15  H-2A-204          F29     Telstar 12V              4.9    TA Y1     GTO [11]
 11/26/15  CZ-4C               UNKNOWN      Yaogan 29               ~2      TY 9      LEO/S  
-12/03/15  Vega              VV06    LISA Pathfinder          1.906  KO ZLV    LEO [12] 
-12/05/15  Soyuz 2-1v/Volga  002     Kanopus ST              ~0.440  PL 43/4  [EEO][13] 
+12/03/15  Vega              VV06    LISA Pathfinder          1.906  KO ZLV    LEO [12]
+12/05/15  Soyuz 2-1v/Volga  002     Kanopus ST              ~0.440  PL 43/4  [EEO][13]
 12/06/15  Atlas 5-401       AV-061  Cygnus/CRS-4             7.492  CC 41     LEO/ISS
 12/09/15  CZ-3B/E           CZ3B33  Zhongxing 1C            ~5.2?   XC 3      GTO 
 12/11/15  Zenit 3F/FregatSB  Z2F03   Electro-L2               1.855  TB 45/1   GEO
