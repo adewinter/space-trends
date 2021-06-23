@@ -38,7 +38,7 @@ staging_host = os.getenv('STAGING_HOST', None)
 if staging_host:
     ALLOWED_HOSTS.append(staging_host)
 
-allow_localhost = os.getenv('SHOULD_ALLOW_LOCALHOST', None)
+allow_localhost = (os.getenv('SHOULD_ALLOW_LOCALHOST', None) == "True")
 if allow_localhost:
     ALLOWED_HOSTS.append('localhost')
     ALLOWED_HOSTS.append('127.0.0.1')
