@@ -1,5 +1,5 @@
 from django.contrib import admin
-from spacetrends.models import Launch, Orbit
+from spacetrends.models import Launch, Orbit, Site, Vehicle
 
 
 class LaunchAdmin(admin.ModelAdmin):
@@ -8,7 +8,14 @@ class LaunchAdmin(admin.ModelAdmin):
 
 admin.site.register(Launch, LaunchAdmin)
 
+
 class OrbitAdmin(admin.ModelAdmin):
 	list_display = ('name', 'code')
 
 admin.site.register(Orbit, OrbitAdmin)
+
+class SiteAdmin(admin.ModelAdmin):
+	list_display = ('name', 'code', 'launches_from_this_location')
+
+admin.site.register(Site, SiteAdmin)
+admin.site.register(Vehicle)

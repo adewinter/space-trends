@@ -16,6 +16,9 @@ class Site(models.Model):
     def __str__(self):
         return f"{self.name} ({self.code})"
 
+    def launches_from_this_location(self):
+        return self.launch_set.count()
+
 
 class SiteSummary(models.Model):
     '''
