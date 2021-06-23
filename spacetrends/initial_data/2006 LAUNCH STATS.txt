@@ -327,7 +327,7 @@ DATE     VEHICLE           ID     PAYLOAD                  MASS(t) SITE*   ORBIT
 08/11/06  Ariane 5-ECA      A531   Syracuse3B/JCSAT10/V172  7.80  KO 3      GTO
 08/22/06  Zenit 3SL/DMSL    SL25   Koreasat 5               4.47  POR       GTO
 09/09/06  CZ-2C             CZ2C25  Shi Jian 8               2.0?  JQ        LEO
-09/09/06  STS/Atlantis      OV103  STS-115/ISS-12A        117.5   KC39B     LEO/ISS
+09/09/06  STS/Atlantis      OV103  STS-115/ISS-12A        117.5   KC 39B     LEO/ISS
 09/11/06  H-2A-202          F10    IGS-3a                   0.85  TA        LEO/S
 09/12/06  CZ-3A             CZ3A10  Zhongxing 22A             -1     XC LA2    GTO
 09/14/06  Soyuz-U           1712   Kosmos 2423              6.75  TB 31/6   LEO
@@ -341,7 +341,7 @@ DATE     VEHICLE           ID     PAYLOAD                  MASS(t) SITE*   ORBIT
 10/26/06  Delta 2-7925      D319   STEREO (two sats)        1.24  CC 17B    EEO
 10/28/06  CZ-3B             CZ3B7  Xinnuo-2 (Sinosat-2)     5.10  XC 2      GTO
 10/30/06  Zenit 3SL/DMSL    SL22   XM-4                     5.193  POR       GTO
-11/04/06  Delta 4M          D320   DMSP-17                  1.225  V 6       LEO/S
+11/04/06  Delta 4M          D320   DMSP-17                  1.225  VA 6       LEO/S
 11/08/06  Proton M/Briz M   53515  BADR 4 (Arabsat 4B)      3.28  TB 200/39  GTO+
 11/17/06  Delta 2-7925      D321   GPS 2R-16(M3)            2.06  CC 17A    MTO
 12/08/06  CZ-3A             CZ3A11  Fengyun 2D               1.39  XC LA2    GTO
@@ -351,7 +351,7 @@ DATE     VEHICLE           ID     PAYLOAD                  MASS(t) SITE*   ORBIT
 12/14/06  Delta 2-7920      D322   NRO L-21                  -1     VA 2W     LEO
 12/16/06  Minotaur 1        M-6    Tacsat 2                 0.37  WI 0-B    LEO
 12/18/06  H-2A-204          F11    ETS-8                    5.80  TA Y      GTO
-12/19/06  Kosmos 3M          UNKNOWN      SAR-Lupe 1         -1      0.72  PL 132/1  LEO/P
+12/19/06  Kosmos 3M          UNKNOWN      SAR-Lupe 1         0.72  PL 132/1  LEO/P
 12/24/06  Soyuz 2.1a/Fregat  1716   Meridian (Kosmos)        2.00?  PL 43/4   EEO/M
 12/25/06  Proton K/DM-2     41015  3xGlonass 3M             4.35  TB 81/24  MEO
 12/27/06  Soyuz 2.1b/Fregat  1717   COROT (ST17)             0.63  TB 31/6   LEO/P

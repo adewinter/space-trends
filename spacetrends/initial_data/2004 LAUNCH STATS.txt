@@ -203,37 +203,37 @@ Mar 27  Proton K/DM-2   P305  Kosmos 2406,Globus 1-7  2.4  TB 81/23  GEO
 Apr 16  Atlas 2AS       AC163  Superbird 6            3.1  CC 36A   GTO+
 Apr 18  CZ-2C           2C23  Tansuo 1/Naxing 1      0.23  XC       LEO/P
 Apr 19  Soyuz-FG        1687  Soyuz TMA-4 (ISS8S)    7.2  TB 1/5   LEO
-Apr 20  Delta 2-7920    D304  Gravity Probe B        3.3  V 2W     LEO/P
-Apr 26  Proton K/DM-2M  P306  Ekspress AM-11         2.6  TB200/39  GEO
+Apr 20  Delta 2-7920    D304  Gravity Probe B        3.3  VA 2W     LEO/P
+Apr 26  Proton K/DM-2M  P306  Ekspress AM-11         2.6  TB 200/39  GEO
 May 4  Zenit 3SL/DMSL  SL13  DirectTV-7S            5.5  POR      GTO
 May 19  Atlas 2AS       AC166  AMC-11                 2.3  CC 36B   GTO
-May 20  Taurus XL 3210  T7    Rocsat 2               0.8  V 576E   LEO/S
+May 20  Taurus XL 3210  T7    Rocsat 2               0.8  VA 576E   LEO/S
 May 25  Soyuz-U         1688  Progress M-49 (ISS14P)  7.2  TB 1/5   LEO
 May 28  Tsyklon 2       104   Kosmos 2407            3.1  TB 90/20  LEO
 Jun 10  Zenit 2         Z2-36  Kosmos 2406            3.2  TB 45    LEO
-Jun 16  Proton M/Briz M  P307  Intelsat 10-02         5.6  TB200/39  GTO+
+Jun 16  Proton M/Briz M  P307  Intelsat 10-02         5.6  TB 200/39  GTO+
 Jun 23  Delta 2-7925    D305  GPS 2R-12              2.0  CC 17B   MTO
 Jun 29  Zenit 3SL/DMSL  SL13  Apstar 5               4.6  POR     (EEO)[1]
 Jun 29  Dnepr 1         D4    8xmicrosats            0.2  TB 109   LEO
-Jul 15  Delta 2-7920    D306  Aura (NASA)            3.1  V 2W     LEO/S
+Jul 15  Delta 2-7920    D306  Aura (NASA)            3.1  VA 2W     LEO/S
 Jul 18  Ariane 5G+      A519  Anik F2 (V163)         5.6  KO ELA3  GTO
 Jul 22  Kosmos 3M       433   Kosmos 2407 (Parus)    0.8  PL 132   LEO
 Jul 25  CZ-2C/SM        2C24  TanCe 2                0.7  TY       EEO/P
 Aug 3   Delta 2-7925H   D307  MESSENGER (NASA)       1.1  CC 17B   HCO
-Aug 4   Proton M/Briz M  P308  Amazonas               4.6  TB200/39  GTO+
+Aug 4   Proton M/Briz M  P308  Amazonas               4.6  TB 200/39  GTO+
 Aug 11  Soyuz-U         1689  Progress M-50 (ISS15P)  7.2  TB 1/5   LEO
 Aug 29  CZ-2C           2C25  JB-4                   2.0  JQ       LEO
 Aug 31  Atlas 2AS       AC167  NROL-1 (USA 179)       0.0     CC 36A   GTO-[3]
 Sep 6   Shavit 1        S1-5  Ofeq 6                 0.2  PAL     (FTO)[2]
 Sep 8   CZ-4B           4B9   SJ-6A/6B               1.2  TY       LEO/P
-Sep 20  GSLV            F-01  Edusat                 2.0  SDSC     GTO
+Sep 20  GSLV            F-01  Edusat                 2.0  SR     GTO
 Sep 23  Kosmos 3M       434   Kosmos 2408-09         0.5  PL 132/1  LEO
 Sep 24  Soyuz-U         1690  Kosmos 2410            6.7  PL 16    LEO
 Sep 27  CZ-2D           2D5   FSW-20                 3.0  JQ       LEO
 Oct 14  Soyuz FG        1691  Soyuz TMA-5 (ISS9S)    7.2  TB 1/5   LEO
-Oct 14  Proton M/Briz M  P309  AMC-15                 4.0  TB200/39  GTO+
+Oct 14  Proton M/Briz M  P309  AMC-15                 4.0  TB 200/39  GTO+
 Oct 19  CZ-3A            XXX   FY-2C                  1.4  XC       GTO
-Oct 29  Proton K/DM-2M  P310  Exspress AM-1          2.5  TB200/39  GEO
+Oct 29  Proton K/DM-2M  P310  Exspress AM-1          2.5  TB 200/39  GEO
 Nov 6   CZ-4B           4B10  spysat                 1.2  TY       LEO
 Nov 6   Delta 2-7925    D308  GPS 2R-13              2.0  CC 17B   MTO
 Nov 8   Soyuz-2-1A      1692  Oblik GVM (Test Flt)   6.5  PL 43/4  SUB[4]
@@ -244,7 +244,7 @@ Dec 18  Ariane 5G+      A520  V165/Helios 2A         4.2  KO ELA3  LEO/S[5]
 Dec 21  Delta 4H        D310  Demosat/2microsats     6.0  CC 37B  (EEO)[6]
 Dec 23  Soyuz-U         1693  Progress M-51          7.5  TB 5/1   LEO
 Dec 24  Tsyklon 3       #121  Okean 01-N9            2.2  PL 32   (EEO)[7]
-Dec 26  Proton K/DM-2   P311  3xGlonass              4.2  TB200/39  MTO
+Dec 26  Proton K/DM-2   P311  3xGlonass              4.2  TB 200/39  MTO
 ---------------------------------------------------------------------------
 [1] Failed:  DMSL stage shut down 54 sec early due loose electrical 
    connection.  Payload delivered to transfer orbit with apogee 
@@ -283,25 +283,25 @@ Feb 18  RS-18 (UR-100NU)      ICBM Test                   TB      SUB
 Feb 18  RSM-54 Sineva         SLBM Test (R-29RM)          Barents FSO%
 Feb 18  Topol                 ICBM Test                   PL      SUB
 Mar 17  RSM-54 Sineva         SLBM Test (R-29RM)          Barents SUB
-Mar 27  Hyper-X          A-2  X-43A Scramjet R&D     1.4  V B-52  SUB
+Mar 27  Hyper-X          A-2  X-43A Scramjet R&D     1.4  VA B-52  SUB
 Apr 20  Topol-M               ICBM Test                   PL      SUB
 Jun 21  SpaceShipOne          Piloted Suborbital          WK/EAFB SUB
-Jun 23  Minuteman 3      184  ICBM Test                   V       SUB
+Jun 23  Minuteman 3      184  ICBM Test                   VA       SUB
 Jun 29  RSM-54 Sineva         SLBM Test (R-29RM)          Barents SUB
-Jul 21  MX Peacekeeper   33   ICBM Test                   V       SUB
-Jul 23  Minuteman 3      185  ICBM Test                   V       SUB
+Jul 21  MX Peacekeeper   33   ICBM Test                   VA       SUB
+Jul 23  Minuteman 3      185  ICBM Test                   VA       SUB
 Aug 11  RS-18                 ICBM Test                   TB      SUB
 Aug 29  Agni 2                IRBM Test                   Balasor SUB
 Aug     DF-31/21 or JL-2      ICBM or SLBM Test           China   SUB
 Sep 8   RSM-54 Sineva         SLBM Test (R-29RM)(1/2)     Barents SUB
 Sep 8   RSM-54 Sineva         SLBM Test (R-29RM)(2/2)     Barents SUB
-Sep 15  Minuteman 3      186  ICBM Test                   V       SUB
+Sep 15  Minuteman 3      186  ICBM Test                   VA       SUB
 Sep 29  SpaceShipOne          Piloted Suborbital          WK/EAFB SUB
 Oct 4   SpaceShipOne          Piloted Suborbital          WK/EAFB SUB
 Nov 2   RSM-50 Volna          SLBM Test                   Okhotsk SUB
 Nov 2   Topol                 ICBM Test                   PL      SUB
 Nov 8   Soyuz-2-1A            Oblik GVM (Test Flt)   6.5  PL 43/4 SUB
-Nov 16  Hyper-X          A-3  X-43A Scramjet R&D     1.4  V B-52  SUB
+Nov 16  Hyper-X          A-3  X-43A Scramjet R&D     1.4  VA B-52  SUB
 Dec 22  R-36M2                ICBM Test                   DO      SUB+
 -------------------------------------------------------------------------------
 

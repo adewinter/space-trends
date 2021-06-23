@@ -327,7 +327,7 @@ DATE     VEHICLE           ID     PAYLOAD                 MASS(t) SITE*      ORB
 01/18/09  Delta 4H          D337   NRO L26                   6.0?  CC 37B     GEO?
 01/23/09  H-2A-202          F15    GOSAT (Ibuki)             1.98  TA Y1      LEO/S
 01/30/09  Tsyklon 3  UNKNOWN  Koronas-Photon  1.92  PL 32/2  LEO
-02/02/09  Safir  2  Omid (2)  -1  0.025 SE  LEO
+02/02/09  Safir              2         Omid (2)              0.025   SE        LEO
 02/06/09  Delta 2-7320      D338   NOAA-N Prime              1.44  VA 2W      LEO/S
 02/10/09  Soyuz U           1740   Progress M66/ISS32P       7.25  TB 31/6    LEO/ISS
 02/11/09  Proton M/Briz M   P342   Express AM44/MD1          3.672  TB 200/39  GEO

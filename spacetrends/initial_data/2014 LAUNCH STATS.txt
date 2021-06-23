@@ -432,7 +432,7 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORB
 06/14/14  Soyuz 2-1b/Fregat  1822    Glonass M                1.415  PL 43/4    MEO
 06/19/14  Dnepr              UNKNOWN       Deimos 2 (37usats)   -1           DO 370/13  LEO/S
 06/30/14  PSLV-CA           C23     SPOT 7 (+4usats)         0.765  SR FLP     LEO/S
-07/02/14  Delta 2           D367    OCO 2                    0.453  V 2W       LEO/S
+07/02/14  Delta 2           D367    OCO 2                    0.453  VA 2W       LEO/S
 07/03/14  Rokot/Briz KM     23      3xGonet 3M               0.846  PL 133/3   LEO
 07/08/14  Soyuz 2-1b/Fregat  1823    Meteor M2 +6usats        3.332  TB 31/6    LEO/S
 07/10/14  Soyuz 2-1b/Fregat  1824    VS08/O3bF2               2.8    KO ELS     MEO

@@ -374,7 +374,7 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*      OR
 05/17/12  H-2A-202          F21     GCOM W1/Kompsat 3         -1      TA Y1      LEO/S
 05/17/12  Proton M/Briz M   P377    Nimiq 6                  4.5    TB 81/24   GEO
 05/22/12  Falcon 9          F9-3    Dragon C2+               7.0?   CC 40      LEO/ISS
-05/23/12  Safir              UNKNOWN       Fajr?              -1      0.1?   SE        [FTO][7]
+05/23/12  Safir              UNKNOWN       Fajr?             0.1?   SE        [FTO][7]
 05/26/12  CZ-3B/E           CZ3B21  Xhongxing 2A             5.4?   XC 2       GTO
 05/29/12  CZ-4C             CZ4C8   Yaogan 15                2.8?   TY 2       LEO/S
 06/01/12  Zenit 3SL/DMSL    SL33    Intelsat 19              5.6    PO OLP     GTO

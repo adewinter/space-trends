@@ -391,7 +391,7 @@ DATE     VEHICLE           ID     PAYLOAD                  MASS(t) SITE*      OR
 10/12/11  PSLV-CA           C-18   Mega-Tropiques            1.047  SR FLP     LEO
 10/19/11  Proton M/Briz M   P369   ViaSat 1                  6.74   TB 200/39  GTO
 10/21/11  Soyuz 2-1b/Fregat  1777   VS-01/2xGalileo           1.4    KO SLS     MEO
-10/28/11  Delta 2-7920-10   D357   NPP                       1.97   V 2W       LEO/S
+10/28/11  Delta 2-7920-10   D357   NPP                       1.97   VA 2W       LEO/S
 10/30/11  Soyuz U           1778   Progress M-13M (45P)      7.3    TB 1/5     LEO/ISS
 10/31/11  CZ-2F             CZ2F8  Shenzhou 8                8.08   JQ SLS R   LEO
 11/04/11  Proton M/Briz M   P370   3xGlonass-M               4.245  TB 81/24   MEO

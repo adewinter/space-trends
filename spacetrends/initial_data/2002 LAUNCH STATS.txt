@@ -125,7 +125,7 @@ Date    Vehicle       ID   Payload       Mass       Site*    Orbit**
 01/23  Ariane 42L     L4108  Insat 3C(V147)       -1     KO ELA2     GTO
 02/04  H-2A/2024      TF-2  MDS/DASH             -1     TA YO       GTO
 02/05  Pegasus XL     P014  HESSI (NASA)         -1     CC L1011    LEO
-02/11  Delta 7910     D290  Iridium (5) IS-1     -1     V SLC2W   LEO/S
+02/11  Delta 7910     D290  Iridium (5) IS-1     -1     VA SLC2W   LEO/S
 02/21  Atlas 3B       AC204  Echostar 7           -1     CC SLC36B   GTO+
 02/23  Ariane 44L     L4109  Intelsat 904         -1     KO ELA2     GTO
 02/25  Soyuz-U          -1    Kosmos 2387          -1     PL LC43/3   LEO
@@ -142,7 +142,7 @@ Date    Vehicle       ID   Payload       Mass       Site*    Orbit**
 04/16  Ariane 44L     L4111  NSS-7 (V150)          -1    KO ELA2     GTO
 04/25  Soyuz-U           -1   Soyuz TM-34(ISS-4S)    -1   TB LC1      LEO
 05/04  Ariane 44P     L4112  Spot-5(V151)           -1   KO ELA2     LEO/S
-05/04  Delta 7920     D291  Aqua (NASA)            -1   V SLC2W    LEO/S
+05/04  Delta 7920     D291  Aqua (NASA)            -1   VA SLC2W    LEO/S
 05/07  Proton-K/DM3     -1    DirecTV-5 (ILS-23)     -1   TB LC81/23  GTO+
 05/15  CZ-4B          CZ4B4  FengYun-1D/Haiyang-1   -1   TY          LEO/S
 05/28  Shavit           -1    Ofeq-5                 -1   PA          LEO
@@ -152,7 +152,7 @@ Date    Vehicle       ID   Payload       Mass       Site*    Orbit**
 06/10  Proton-K/DM-2M   -1    Express A1R            -1   TB LC200    GTO+
 06/15  Zenit 3SL/DMSL  Z3008  Galaxy 3C              -1   POR         GTO+
 06/20  Rockot/Briz-KM  RB003  Iridium SV97,98        -1   PL LC133    LEO
-06/24  Titan 23G/Star  G-14   NOAA-M(17)             -1   V SLC4W    LEO/S
+06/24  Titan 23G/Star  G-14   NOAA-M(17)             -1   VA SLC4W    LEO/S
 06/26  Soyuz-U          -1    Progress M-46(ISS8P)   -1   TB LC1      LEO
 07/03  Delta 7425     D292   CONTOUR                -1   CC SLC17A   EEO
 07/05  Ariane 5G      L512  Stellat5/NStarC(V153)  -1   KO ELA3     GTO

@@ -326,7 +326,7 @@ DATE     VEHICLE           ID     PAYLOAD                  MASS(t) SITE*      OR
 02/11/10  Atlas 5-401       AV021  SDO (NASA)                3.1    CC 41      GTO
 02/12/10  Proton M/Briz M   P353   Intelsat 16               2.06   TB 200/39  GEO
 03/01/10  Proton M/DM-2     P354   3xGlonass M               4.5    TB 81/24   MEO
-03/04/10  Delta 4M+4,2      D348   GOES P                    3.24   CC37B      GTO+
+03/04/10  Delta 4M+4,2      D348   GOES P                    3.24   CC 37B      GTO+
 03/05/10  CZ-4C             CZ4C6  Yaogan 9                  2.8?   JQ 4L      LEO
 03/20/10  Proton M/Briz M   P355   Echostar 14               6.38   TB 200/39  GTO
 04/02/10  Soyuz-FG          1754   Soyuz TMA-18 (ISS22S)     7.2    TB 1/5     LEO/ISS

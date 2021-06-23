@@ -548,7 +548,7 @@ DATE     VEHICLE           ID      PAYLOAD                 MASS(t) SITE*     ORB
 04/25/20  Soyuz 2-1a        1915    Progress MS-14          ~7.4    TB 31/6   LEO/ISS
 05/05/20  CZ-5B             Y1      XZF,RCS                ~22.0    WC 101    LEO [12]
 05/12/20  KZ-1A             Y6      Xingyun 2-1, 2-2         0.186  JQ 43/95  LEO/S
-05/17/20  Atlas 5-501       AV081   USSF 7 (X37B OTV6)      ~6.0?   CC41      LEO [13]
+05/17/20  Atlas 5-501       AV081   USSF 7 (X37B OTV6)      ~6.0?   CC 41      LEO [13]
 05/20/20  H-2B-304          F9      HTV-9                   16.5    TA Y2     LEO/ISS
 05/22/19  Soyuz 2-1b/Fregat  1916    EKS 4                   ~1.4?   PL 43/4   EEO/M
 05/25/20  LauncherOne       01      Launch Demo               -1      MO       [FTO][14]
@@ -738,6 +738,7 @@ KY = Kapustin Yar, Russia
 MA = Mahia Peninsula, New Zealand
 ME = Meck Island, Kwajalein Atoll, RMI
 MU = Musudan-ri North Korea
+MO = Mohave Air and Space Port, CA, USA
 NA = Naro Space Center, South Korea
 NP = North Pole Submarine Launch
 OK = Sea of Okhotsk
