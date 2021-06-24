@@ -40,6 +40,9 @@ class Vehicle(models.Model):
     name = models.CharField(max_length=255)
     notes = models.TextField(blank=True)
 
+    def logged_launches(self):
+        return self.launch_set.count()
+
     def __str__(self):
         return f"{self.name}"
 

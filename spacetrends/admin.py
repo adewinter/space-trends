@@ -18,4 +18,8 @@ class SiteAdmin(admin.ModelAdmin):
 	list_display = ('name', 'code', 'launches_from_this_location')
 
 admin.site.register(Site, SiteAdmin)
-admin.site.register(Vehicle)
+
+class VehicleAdmin(admin.ModelAdmin):
+	list_display = ('name', 'logged_launches')
+
+admin.site.register(Vehicle, VehicleAdmin)
