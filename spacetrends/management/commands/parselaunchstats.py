@@ -355,7 +355,12 @@ class LaunchStatsParser():
         return code, notes, is_uncertain
 
     def parse_launch_mass_from_raw(self, raw_mass):
-        return raw_mass.strip('~').strip('?').strip('+')
+        mass_scalar = raw_mass.strip('~').strip('?').strip('+')
+        if self.CURRENT_YEAR == 2003:
+            mass = float(mass_scalar)/1000
+        else:
+            mass = float(mass_scalar)
+        return mass
 
     def create_launch_in_db(self, launch):
         vehicle_model, created = Vehicle.objects.get_or_create(name=launch['vehicle_name'])
