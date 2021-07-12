@@ -5,6 +5,7 @@ from spacetrends.models import Launch, Orbit, Site, Vehicle
 class LaunchAdmin(admin.ModelAdmin):
 	date_hierarchy = 'launch_date'
 	list_display = ('launch_date', 'vehicle', 'orbit', 'payload')
+	list_filter = ('launch_date', 'vehicle__name', 'orbit__code', 'site__name')
 
 admin.site.register(Launch, LaunchAdmin)
 
