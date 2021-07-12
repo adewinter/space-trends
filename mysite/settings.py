@@ -31,7 +31,8 @@ DEBUG = IS_DEVELOPMENT
 print(f"DEBUG MODE IS: {DEBUG}")
 
 ALLOWED_HOSTS = [
-    'django-base-test.herokuapp.com'
+    'django-base-test.herokuapp.com',
+    '7f31ede7660d.ngrok.io'
 ]
 
 staging_host = os.getenv('STAGING_HOST', None)
@@ -73,7 +74,7 @@ ROOT_URLCONF = 'mysite.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [os.path.join(BASE_DIR, 'templates', 'spacetrends')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -147,7 +148,11 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATIC_ROOT = 'static_root/'
+
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, 'static'),
+]
+
 # Default primary key field type
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
-
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'

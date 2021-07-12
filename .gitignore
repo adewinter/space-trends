@@ -130,3 +130,5 @@ dmypy.json
 .pyre/
 
 static_root/
+
+node_modules/
