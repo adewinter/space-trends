@@ -11,6 +11,8 @@ psycopg2 = "*"
 pyperclip = "*"
 ipython = "*"
 djangorestframework = "*"
+markdown = "*"
+django-filter = "*"
 
 [dev-packages]
 
