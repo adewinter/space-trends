@@ -8,6 +8,9 @@ class Orbit(models.Model):
     def __str__(self):
         return f"{self.name} ({self.code})"
 
+    def launches_to_this_orbit(self):
+        return self.launch_set.count()
+
 class Site(models.Model):
     name = models.CharField(max_length=255, blank=True)
     code = models.CharField(max_length=255)
