@@ -10,7 +10,7 @@ class LaunchSerializer(serializers.HyperlinkedModelSerializer):
 class VehicleSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
         model = Vehicle
-        fields = ['name', 'notes', 'logged_launches', 'launch_set']
+        fields = '__all__'
 
 class OrbitSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
