@@ -334,7 +334,7 @@ class LaunchStatsParser():
             raw_orbit = raw_orbit[1:raw_orbit.index(']')] + raw_orbit[raw_orbit.index(']')+1:]
 
         if raw_orbit.startswith('('):
-            # if the raw is something like [GEO] [3] then strip the first set of '[' and ']'
+            # if the raw is something like (GEO) (3) then strip the first set of '(' and ')'
             raw_orbit = raw_orbit[1:raw_orbit.index(')')] + raw_orbit[raw_orbit.index(')')+1:]
 
         if raw_orbit == '' or raw_orbit is None:
